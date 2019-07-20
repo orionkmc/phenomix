@@ -61,6 +61,7 @@
 <?php include 'index/preloader.php'; ?>
 
 <main>
+	<!-- Barra Nav -->
 	<?php include 'index/nav.php'; ?>
 
 	<div class="swiper-container">
@@ -88,7 +89,7 @@
 		</div>
 		<div class="swiper-pagination"></div>
 
-		
+		<!-- Modales -->
 		<?php include 'index/modales.php'; ?>
 	</div>
 	<!-- Footer -->
@@ -97,8 +98,6 @@
 </main>
 
 <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview");</script>
-
-
 <!-- desconocidas -->
 <script src="scripts/vendor.js"></script>
 <script src="scripts/main.js"></script>
@@ -108,6 +107,5 @@
 <script type="text/javascript" src="js/flowtype.js"></script>
 <script type="text/javascript" src="js/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
 <script src="js/lightbox.js"></script>
-
 </body>
 </html>

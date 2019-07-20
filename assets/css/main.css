@@ -685,15 +685,6 @@ nav .menu ul.right li.login:before {
     font-size: 18px;
 }
 
-#contact .padding-submit{
-    padding-top: 115px;
-}
-@media (max-width:575.98px){
-    #contact .padding-submit{
-        padding-top: 0;
-    }
-}
-
 .form-imput:focus,
 .form-select:focus{
     outline:none !important;

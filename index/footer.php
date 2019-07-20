@@ -1,4 +1,4 @@
-<footer class="">
+<footer class="container">
   <a href="#" class="scroll-down show">Scroll Down</a>
   <div class="container-fluid d-none d-sm-block">
     <ul class="list-inline float-right">
