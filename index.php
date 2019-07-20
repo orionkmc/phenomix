@@ -54,34 +54,11 @@
 <!--[if IE]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
-<div class="placa"></div>
-<div class="GPDR-white"></div>
-<div class="modal fade" id="modalGPDR" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-dialog-centered" role="document">
-		<div class="modal-content">
-			<div class="modal-body">
-				<h4>We use cookies</h4>
-				<p>We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from. By browsing our website, you consent to our use of cookies and other tracking technologies.</p>
-				<br>
-				<a data-rel="lightcase" href="legal/PrivacyPolicy/PrivacyPolicy.html" target="_blank">Check our Privacy Policy</a>
-				<br>
-				<br>
-				<a href="#" class="btn-bio float-right" data-dismiss="modal">Accept</a>
-			</div>
-		</div>
-	</div>
-</div>
 
-<!-- preloader start -->
-<div class="landscape"></div>
-<div class="preloader-bg"></div>
-<div id="preloader">
-	<div id="preloader-status">
-		<div class="preloader-position loader">
-			<span></span>
-		</div>
-	</div>
-</div><!-- preloader end -->
+<!-- cookies -->
+<?php include 'index/cookies.php'; ?>
+<!-- preloader -->
+<?php include 'index/preloader.php'; ?>
 
 <main>
 	<?php include 'index/nav.php'; ?>
@@ -115,39 +92,8 @@
 		<?php include 'index/modales.php'; ?>
 	</div>
 	<!-- Footer -->
-	<footer class="">
-		<a href="#" class="scroll-down show">Scroll Down</a>
-		<div class="container-fluid d-none d-sm-block">
-			<ul class="list-inline float-right">
-				<li class="list-inline-item">
-					<a data-rel="lightcase" href="legal/PrivacyPolicy/PrivacyPolicy.html" target="_blank">
-						Privacy Policy
-					</a>
-				</li>
-				<li class="list-inline-item">
-					<a data-rel="lightcase" href="legal/PrivacyPractices/PrivacyPractices.html" target="_blank">
-						Privacy Practices
-					</a>
-				</li>
-				<li class="list-inline-item">
-					<a data-rel="lightcase" href="legal/TermsOfService/TermsOfService.html">
-						Terms of Service
-					</a>
-				</li>
-				<li class="social-media list-inline-item float-right">
-					<a href="https://www.facebook.com/phenomixsciences/" target="_blank">
-						<i class="fab fa-facebook"></i>
-					</a>
-					<a href="https://twitter.com/phenomixscienc1/" target="_blank">
-						<i class="fab fa-twitter"></i>
-					</a>
-					<a href="https://www.instagram.com/phenomixsciences/" target="_blank">
-						<i class="fab fa-instagram"></i>
-					</a>
-				</li>
-			</ul>
-		</div>
-	</footer>
+	<?php include 'index/footer.php'; ?>
+	
 </main>
 
 <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview");</script>
