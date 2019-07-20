@@ -1,0 +1,56 @@
+
+#publications .content .publications{
+    width: 80%;
+    margin: 0 auto;    
+}
+
+#publications .content .publication .appear{
+    padding: 20px;
+    max-width: 150px;
+}
+@media (max-width:575.98px) {
+    #publications .content .publication .appear{
+        width: 65%;
+        margin: 0 auto;
+    }
+}
+
+#publications .icon{
+    padding: 15px;
+    background-color: #1e4484;
+    border-radius: 50%;
+    fill: #fff;
+    transition: all 1s;
+}
+
+#publications .icon:hover{
+    background-color: #ccc;
+    fill: #1e4484;
+}
+
+#publications .content .arrows {
+    /*height: 42px;*/
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    z-index: -1;
+}
+
+#publications .content .arrows a {
+    font-size: 45px;
+    position: absolute;
+}
+
+#publications .content .arrows a:first-child {
+    left: 0;
+}
+
+#publications .content .arrows a:last-child {
+    right: 160px;
+}
+
+@media (max-width:575.98px) {
+    #publications .content .arrows a:last-child {
+        right: 0;
+    }
+}

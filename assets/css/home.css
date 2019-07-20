@@ -1,0 +1,47 @@
+
+#home {
+    position: relative
+}
+
+#home:before {
+    background-color: hsla(0, 0%, 100%, .7);
+    content: "";
+    top: 0;
+    left: 0;
+    z-index: -99
+}
+
+#home:before,
+#home video {
+    position: fixed;
+    bottom: 0;
+    right: 0
+}
+
+#home video {
+    min-width: 100vw;
+    min-height: 100vh;
+    z-index: -100
+}
+
+#home .icon-mouse {
+    bottom: 35px;
+    left: 0;
+    position: absolute;
+    right: 0
+}
+
+#home .icon-mouse a {
+    display: inline-block
+}
+
+#home .icon-mouse a svg {
+    height: 42px;
+    fill: #4a66b0
+}
+
+@media (min-width:992px) {
+    #home .icon-mouse a svg {
+        height: 42px
+    }
+}

@@ -1,0 +1,60 @@
+footer {
+    background-color: transparent;
+    bottom: 0;
+    height: 45px;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 100
+}
+
+footer ul li a {
+    color: #414141;
+    line-height: 45px;
+    font-size: 11px
+}
+
+@media (min-width:992px) {
+    footer ul li a {
+        font-size: 12px
+    }
+}
+
+footer ul li.social-media a {
+    font-size: 14px
+}
+
+@media (min-width:992px) {
+    footer ul li.social-media a {
+        font-size: 18px
+    }
+}
+
+footer .scroll-down {
+    display: none;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: -100px;
+    left: 50%;
+    margin-left: -15px;
+    text-decoration: none;
+    text-indent: -9999px;
+    background: url(../images/scroll-down-arrow.png) no-repeat 50%;
+    -webkit-animation: bounce 1s linear 0s infinite alternate none running;
+    animation: bounce 1s linear 0s infinite alternate none running;
+    -webkit-transition: all .8s cubic-bezier(.25, .46, .45, .94);
+    transition: all .8s cubic-bezier(.25, .46, .45, .94);
+    -webkit-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
+    transition-timing-function: cubic-bezier(.25, .46, .45, .94)
+}
+
+@media (min-width:992px) {
+    footer .scroll-down {
+        display: block
+    }
+}
+
+footer .scroll-down.show {
+    bottom: 45px
+}

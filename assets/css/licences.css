@@ -1,0 +1,46 @@
+
+#licences, 
+#licences2{
+    background: url(../images/bg-licences.png) no-repeat;
+    background-size: cover;
+    padding: 20% 50px 0 50px;
+}
+
+#licences .licences .content,
+#licences .affiliations .content,
+#licences2 .licences .content,
+#licences2 .affiliations .content{
+    background: #fff;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1)80%, rgba(255, 255, 255, 0));
+    border-radius: 15px;
+    height: 90%;
+}
+
+#licences .licences .content h1,
+#licences .affiliations .content h1{
+    color: #1e4484;
+    font-size: 32px;
+    line-height: 52px;
+    font-family: Roboto Slab;
+    font-weight: 300;
+    letter-spacing: -.025em;
+}
+
+@media (max-width:575.98px){
+    #licences .licences .content h1{
+        font-size: 28px;
+    }
+    #licences2 .affiliations .content h1{
+        font-size: 28px;
+        color: #1e4484;
+        font-family: Roboto Slab;
+        font-weight: 300;
+        letter-spacing: -.025em;
+    }
+}
+
+#licences .licences .content p{
+    color: #1e4484;
+    font-family: Roboto Lt;
+    font-size: 13px;
+}

@@ -1,0 +1,347 @@
+
+#how-it-works {
+    background-color: #fff;
+    padding: 60px 0;
+    position: relative;
+    overflow: hidden
+}
+
+@media (min-width:992px) {
+    #how-it-works {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+}
+
+#how-it-works>svg {
+    fill: #1f497d;
+    opacity: .1;
+    position: absolute;
+    bottom: 0;
+    right: -250px;
+    width: 350px
+}
+
+@media (min-width:992px) {
+    #how-it-works>svg {
+        right: -300px;
+        width: 500px
+    }
+}
+
+#how-it-works .container {
+    position: relative;
+    max-width: 360px
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick-dots-container {
+        display: none
+    }
+}
+
+#how-it-works .container .arrows {
+    display: none
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .arrows {
+        display: block;
+        position: absolute;
+        height: 24px;
+        top: 45%;
+        width: 100%
+    }
+    #how-it-works .container .arrows a {
+        display: block
+    }
+    #how-it-works .container .arrows a svg {
+        height: 34px;
+        fill: #ccc
+    }
+    #how-it-works .container .arrows a.arrow-left {
+        float: left
+    }
+    #how-it-works .container .arrows a.arrow-right {
+        float: right
+    }
+}
+
+@media (min-width:992px) {
+    #how-it-works .container {
+        max-width: 1140px
+    }
+}
+
+#how-it-works .container h2 {
+    color: #61e0e4;
+    font-family: Roboto Slab;
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 32px;
+    letter-spacing: -.01em;
+    margin-bottom: 5px;
+    text-align: center
+}
+
+@media (min-width:992px) {
+    #how-it-works .container h2 {
+        font-size: 60px;
+        line-height: 62px;
+        margin-bottom: 5px
+    }
+}
+
+#how-it-works .container p {
+    font-family: Roboto Lt;
+    font-weight: 100;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: -.01em
+}
+
+@media (min-width:992px) {
+    #how-it-works .container p {
+        font-size: 16px;
+        line-height: 18px
+    }
+}
+
+#how-it-works .container .slick .content {
+    overflow: hidden
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        max-width: 960px;
+        margin: -20px auto auto
+    }
+}
+
+#how-it-works .container .slick .content .icons {
+    margin: auto;
+    text-align: center
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .icons {
+        float: left;
+        text-align: left;
+        min-width: 500px;
+        margin: 50px 100px 0 0
+    }
+}
+
+#how-it-works .container .slick .content .icons strong {
+    opacity: 0;
+    color: #61e0e4;
+    font-size: 125px;
+    font-family: Roboto Slab;
+    font-weight: 300;
+    line-height: 127px;
+    letter-spacing: -.16px;
+    vertical-align: middle;
+    -webkit-transition: all 1s ease-out .5s;
+    transition: all 1s ease-out .5s
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .icons strong {
+        margin-left: 100px;
+        font-size: 250px;
+        line-height: 252px
+    }
+}
+
+#how-it-works .container .slick .content .icons svg {
+    opacity: 0;
+    fill: #4a66b0;
+    width: 150px;
+    -webkit-transition: all 1s ease-out .7s;
+    transition: all 1s ease-out .7s
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .icons svg {
+        float: right;
+        margin-bottom: 20px;
+        width: 250px
+    }
+}
+
+#how-it-works .container .slick .content .icons img {
+    position: relative;
+    top: -20px
+}
+
+#how-it-works .container .slick .content .text {
+    opacity: 0;
+    -webkit-transition: all 1s ease-out .9s;
+    transition: all 1s ease-out .9s
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .text {
+        float: right
+    }
+}
+
+#how-it-works .container .slick .content .text small {
+    color: #bababa;
+    font-family: Roboto Slab;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: -.01em
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .text small {
+        display: block;
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 26px
+    }
+}
+
+#how-it-works .container .slick .content .text h3 {
+    font-family: Roboto Slab;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: -.16px;
+    line-height: 15px
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .text h3 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 40px
+    }
+}
+
+#how-it-works .container .slick .content .text li,
+#how-it-works .container .slick .content .text p {
+    color: #171616;
+    font-family: Roboto Lt;
+    font-weight: 300;
+    font-size: 13px;
+    letter-spacing: -.16px;
+    line-height: 15px;
+    text-align: left
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .text li,
+    #how-it-works .container .slick .content .text p {
+        font-size: 15px;
+        line-height: 23px
+    }
+}
+
+#how-it-works .container .slick .content .text ul {
+    -webkit-padding-start: 20px;
+    padding-inline-start: 20px;
+    list-style: none;
+    padding: 0
+}
+
+#how-it-works .container .slick .content .text ul li.italic {
+    font-style: italic
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .text p {
+        margin-bottom: 33px
+    }
+}
+
+#how-it-works .container .slick .content .button {
+    opacity: 0;
+    background-color: #4a66b0;
+    border-radius: 60px;
+    color: #fff;
+    display: block;
+    font-family: Roboto Slab;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 45px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: all 1s ease-out 1.2s;
+    transition: all 1s ease-out 1.2s
+}
+
+#how-it-works .container .slick .content .button img {
+    display: inline-block;
+    margin-right: 20px
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick .content .button {
+        font-size: 14px;
+        line-height: 24px;
+        line-height: 50px;
+        margin: 0;
+        max-width: 250px
+    }
+}
+
+#how-it-works .container .slick .slick-active .content .button,
+#how-it-works .container .slick .slick-active .content .icons strong,
+#how-it-works .container .slick .slick-active .content .icons svg,
+#how-it-works .container .slick .slick-active .content .text {
+    opacity: 1
+}
+
+#how-it-works .container .slick-paginator-lg {
+    display: none
+}
+
+@media (min-width:992px) {
+    #how-it-works .container .slick-paginator-lg {
+        display: block;
+        margin: auto;
+        text-align: center
+    }
+    #how-it-works .container .slick-paginator-lg div {
+        border: 1px solid #4a66b0;
+        border-radius: 50%;
+        display: inline-block;
+        height: 65px;
+        padding: 15px;
+        margin: 30px 15px;
+        width: 65px;
+        -webkit-transition: all .5s ease-out;
+        transition: all .5s ease-out
+    }
+    #how-it-works .container .slick-paginator-lg div svg {
+        fill: #4a66b0
+    }
+    #how-it-works .container .slick-paginator-lg div:hover {
+        background-color: #4a66b0
+    }
+    #how-it-works .container .slick-paginator-lg div:hover svg {
+        fill: #fff
+    }
+    #how-it-works .container .slick-paginator-lg div.active {
+        background-color: #4a66b0;
+        height: 100px;
+        width: 100px;
+        margin: 15px
+    }
+    #how-it-works .container .slick-paginator-lg div.active svg {
+        fill: #fff
+    }
+}

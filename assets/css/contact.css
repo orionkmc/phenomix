@@ -1,0 +1,183 @@
+#contact {
+    overflow: hidden
+}
+
+#contact .contact-form {
+    background: url(../images/contact-header.jpg) no-repeat 50% transparent;
+    background-size: cover;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-line-pack: end;
+    align-content: flex-end;
+    position: relative;
+    overflow: hidden
+}
+
+#contact .contact-form .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 100px;
+    overflow: hidden
+}
+
+#contact .contact-form .container h1 {
+    color: #4a66b0;
+    font-size: 43px;
+    line-height: 45px;
+    font-family: Roboto Slab;
+    font-weight: 300;
+    margin: 30px 0
+}
+
+#contact .contact-form .container .contact-form-phone {
+    padding-top: 25px
+}
+
+#contact .contact-form .container .contact-form-phone>div {
+    text-align: center
+}
+
+@media (min-width:992px) {
+    #contact .contact-form .container .contact-form-phone>div {
+        /*display: inline-block*/
+    }
+}
+
+#contact .contact-form .container .contact-form-phone img {
+    width: 40px
+}
+
+@media (min-width:992px) {
+    #contact .contact-form .container .contact-form-phone img {
+        width: 100px
+    }
+}
+
+#contact .contact-form .container .contact-form-phone a {
+    font-family: Roboto Slab;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    padding-top: 8px
+}
+
+#contact .contact-form .container .contact-form-phone small {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px
+}
+
+#contact .contact-form .container .contact-form-phone .mail {
+    font-family: Roboto Slab;
+    font-size: 16px;
+    color: #000
+}
+
+#contact .contact-form .container .form-group {
+    margin: 0 20px;
+    position: relative
+}
+
+@media (min-width:992px) {
+    #contact .contact-form .container .form-group {
+        margin: 0 0 15px;
+        max-width: 415px
+    }
+}
+
+#contact .contact-form .container .form-group input[type=email],
+#contact .contact-form .container .form-group input[type=number],
+#contact .contact-form .container .form-group input[type=text],
+#contact .contact-form .container .form-group select {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #4a66b0;
+    font-size: 14px;
+    display: block;
+    font-family: Roboto;
+    font-weight: 400;
+    padding: 10px 0;
+    width: 100%;
+    -webkit-appearance: none
+}
+
+#contact .contact-form .container .form-group input[type=email]::-webkit-input-placeholder,
+#contact .contact-form .container .form-group input[type=number]::-webkit-input-placeholder,
+#contact .contact-form .container .form-group input[type=text]::-webkit-input-placeholder,
+#contact .contact-form .container .form-group select::-webkit-input-placeholder {
+    color: #000
+}
+
+#contact .contact-form .container .form-group input[type=email]::-moz-placeholder,
+#contact .contact-form .container .form-group input[type=number]::-moz-placeholder,
+#contact .contact-form .container .form-group input[type=text]::-moz-placeholder,
+#contact .contact-form .container .form-group select::-moz-placeholder {
+    color: #000
+}
+
+#contact .contact-form .container .form-group input[type=email]:-ms-input-placeholder,
+#contact .contact-form .container .form-group input[type=number]:-ms-input-placeholder,
+#contact .contact-form .container .form-group input[type=text]:-ms-input-placeholder,
+#contact .contact-form .container .form-group select:-ms-input-placeholder {
+    color: #000
+}
+
+#contact .contact-form .container .form-group input[type=email]:-moz-placeholder,
+#contact .contact-form .container .form-group input[type=number]:-moz-placeholder,
+#contact .contact-form .container .form-group input[type=text]:-moz-placeholder,
+#contact .contact-form .container .form-group select:-moz-placeholder {
+    color: #000
+}
+
+#contact .contact-form .container .form-group p {
+    color: #6b6b6b;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 18px 0;
+    margin: 0
+}
+
+#contact .contact-form .container .form-group button {
+    background-color: #4a66b0;
+    border-radius: 50px;
+    border: 0;
+    color: #fff;
+    font-size: 15px;
+    font-family: Roboto Slab;
+    line-height: 40px;
+    width: 70%
+}
+
+#contact .contact-form .container .form-group .custom-control label {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    padding-left: 10px
+}
+
+#contact .contact-form .container .form-group .custom-control label:after,
+#contact .contact-form .container .form-group .custom-control label:before {
+    height: 22px;
+    width: 22px;
+    line-height: 22px
+}
+
+#contact .contact-form .container .form-group.form-group-select:before {
+    background: url(../images/icon-arrow-down.png) no-repeat 50% transparent;
+    background-size: cover;
+    content: "";
+    display: block;
+    height: 10px;
+    position: absolute;
+    right: 0;
+    top: 25px;
+    width: 15px;
+    z-index: -100
+}

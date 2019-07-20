@@ -1,0 +1,201 @@
+
+#four-phenotypes {
+    position: relative;
+    margin: auto;
+    overflow: visible!important;
+    width: 100%
+}
+
+#four-phenotypes>svg {
+    position: absolute;
+    fill: #4a66b0;
+    opacity: .2;
+    left: -200px;
+    bottom: -300px;
+    width: 500px
+}
+
+#four-phenotypes .content {
+    margin: 20px 40px;
+    position: relative
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content {
+        margin: 0
+    }
+}
+
+#four-phenotypes .content h2 {
+    color: #61e0e4;
+    font-family: Roboto Slab;
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 32px;
+    letter-spacing: -.01em;
+    text-align: center
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content h2 {
+        font-size: 48px;
+        line-height: 52px;
+        margin: 10px 0
+    }
+}
+
+#four-phenotypes .content .slick-phenotypes {
+    margin: auto
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .slick-phenotypes {
+        max-width: 1280px
+    }
+}
+
+#four-phenotypes .content .slick-phenotypes .slick-phenotypes-item {
+    text-align: center
+}
+
+#four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div {
+    width: 100%;
+    margin: auto
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div {
+        width: 260px;
+        padding: 0 18px
+    }
+}
+
+#four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div svg {
+    fill: #4a66b0;
+    margin: auto;
+    width: 150px;
+    text-align: center
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div svg {
+        padding-bottom: 10px;
+        width: 200px
+    }
+}
+
+#four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div h4 {
+    font-family: Roboto Slab;
+    font-weight: 600;
+    font-style: 16px;
+    line-height: 18px;
+    margin-bottom: 26px;
+    text-align: left
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div h4 {
+        font-size: 16px;
+        line-height: 18px;
+        letter-spacing: -.01em;
+        margin-bottom: 20px
+    }
+}
+
+#four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div p {
+    color: #171616;
+    font-family: Roboto Lt;
+    font-size: 13px;
+    font-weight: 300;
+    letter-spacing: -.01em;
+    text-align: left
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .slick-phenotypes .slick-phenotypes-item div p {
+        font-size: 13px;
+        line-height: 17px;
+        letter-spacing: -.01em
+    }
+}
+
+#four-phenotypes .content .arrows {
+    position: absolute;
+    top: 25%;
+    width: 100%
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .arrows {
+        display: none
+    }
+}
+
+#four-phenotypes .content .arrows a svg {
+    fill: #61e0e4;
+    height: 24px
+}
+
+#four-phenotypes .content .arrows a.arrow-left {
+    float: left
+}
+
+#four-phenotypes .content .arrows a.arrow-right {
+    float: right
+}
+
+#four-phenotypes .content .slick-dots-container {
+    margin: 15px auto
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .slick-dots-container {
+        display: none
+    }
+}
+
+#four-phenotypes .content .button {
+    background-color: #4a66b0;
+    border-radius: 30px;
+    color: #fff;
+    display: block;
+    font-family: Roboto Slab;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 55px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    position: relative
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .button {
+        border-radius: 60px;
+        font-size: 18px;
+        line-height: 50px;
+        width: 300px
+    }
+}
+
+#four-phenotypes .content .button img {
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    width: 20px
+}
+
+#four-phenotypes .content .modal-close {
+    bottom: 100px
+}
+
+@media (min-width:992px) {
+    #four-phenotypes .content .modal-close {
+        bottom: auto;
+        left: 0;
+        top: 0
+    }
+    #four-phenotypes .content .modal-close svg {
+        height: 25px!important
+    }
+}

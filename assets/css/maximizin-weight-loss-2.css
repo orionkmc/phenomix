@@ -1,0 +1,30 @@
+
+#maximizin-weight-loss-2 .content .publication h5{
+    font-family: Roboto Slab;
+    color: #1e4484;
+}
+
+#maximizin-weight-loss-2 .content .publication .appear{
+    /*padding: 20px;*/
+}
+
+#maximizin-weight-loss-2 .content .arrows {
+    /*height: 42px;*/
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    z-index: 0;
+}
+
+#maximizin-weight-loss-2 .content .arrows a {
+    font-size: 45px;
+    position: absolute;
+}
+
+#maximizin-weight-loss-2 .content .arrows a:first-child {
+    left: 0;
+}
+
+#maximizin-weight-loss-2 .content .arrows a:last-child {
+    right: 35px;
+}
