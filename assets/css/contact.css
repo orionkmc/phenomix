@@ -16,11 +16,7 @@
 }
 
 #contact .contact-form .container {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 100px;
-    overflow: hidden
+    
 }
 
 #contact .contact-form .container h1 {

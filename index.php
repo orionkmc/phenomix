@@ -15,6 +15,9 @@
 
 	<!-- css -->
 	<link rel="stylesheet" href="assets/css/font.css">
+	<link rel="stylesheet" href="assets/css/loader.css">
+	<link rel="stylesheet" href="assets/css/main.css">
+
 	<link rel="stylesheet" href="assets/css/nav.css">
 
 	<link rel="stylesheet" href="assets/css/home.css">
@@ -27,12 +30,9 @@
 	<link rel="stylesheet" href="assets/css/contact.css">
 
 	<link rel="stylesheet" href="assets/css/footer.css">
-	<link rel="stylesheet" href="assets/css/main.css">
-	<link rel="stylesheet" href="assets/css/affiliations.css">
 	
-	<link rel="stylesheet" href="assets/css/about.css">
+	<link rel="stylesheet" href="assets/css/affiliations.css">
 	<link rel="stylesheet" href="assets/css/four-phenotypes.css">
-	<link rel="stylesheet" href="assets/css/loader.css">
 	<link rel="stylesheet" href="assets/css/publications.css">
 
 	<script src="scripts/vendor/modernizr.js"></script>
