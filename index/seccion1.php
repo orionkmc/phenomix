@@ -16,7 +16,7 @@
                 </p>
                 <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear d-none d-lg-block p2 animated slow fadeInDown delay-1s">Identifying your phenotype facilitates a personalized approach to weight loss that is more precise; saving you time, money and frustration.</p>
                 <div class="clearfix logo-mayo">
-                    <!-- <img src="images/logo-mayo.png" width="85" data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear animated slow fadeInDown delay-1s"> -->
+                    <!-- <img src="assets/images/logo-mayo.png" width="85" data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear animated slow fadeInDown delay-1s"> -->
                     <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear animated slow fadeInDown delay-1s">Exclusively Licensed <br class="b-block d-lg-none">by Mayo Clinic</p>
                 </div>
             </div>          

@@ -325,7 +325,7 @@
             </div>
             <div class="slick-dots-container"></div>
             <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank"  class="button">
-                <img src="images/icon-button.png">
+                <img src="assets/images/icon-button.png">
                 <span>Clinical Test Report</span>
             </a>
             <a href="#" data-close=".modal-four-obesity" class="modal-close d-block d-lg-none">

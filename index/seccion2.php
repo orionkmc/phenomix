@@ -1,7 +1,7 @@
 <div class="swiper-slide" data-hash="maximizing-weight-loss">
     <section id="maximizin-weight-loss" class="container-fluid">
         <div class="row">
-            <img class="img-fluid mt-5 d-sm-none" src="images/maximizing-header-lg.jpg" alt="">
+            <img class="img-fluid mt-5 d-sm-none" src="assets/images/maximizing-header-lg.jpg" alt="">
             <div class="col-12 col-lg-6 bg-blue d-flex">
                 <div class="content p-0">
                     <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">

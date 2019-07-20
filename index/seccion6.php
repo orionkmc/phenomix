@@ -129,7 +129,7 @@
                                 s-12,5.4-12,12C220.5,208.3,225.9,213.7,232.6,213.7z M174.1,213.7c6.7,0,12-5.4,12-12c0-6.7-5.4-12-12-12s-12,5.4-12,12
                                 C162,208.3,167.4,213.7,174.1,213.7z"/>
                             </svg>
-                            <img src="images/how-its-work-shadow.png" class="img-fluid">
+                            <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                         </div>
                         <div class="text">
                             <small>STEP 1</small>
@@ -164,14 +164,14 @@
                             c0-2.7-2.2-4.8-4.8-4.8h-54.5c-2.7,0-4.8,2.2-4.8,4.8C99.5,215.1,101.7,217.3,104.3,217.3z M181.2,236.5h-76.9
                             c-2.7,0-4.8,2.2-4.8,4.8c0,2.7,2.2,4.8,4.8,4.8h76.9c2.7,0,4.8-2.2,4.8-4.8C186,238.6,183.9,236.5,181.2,236.5z"/>
                         </svg>
-                        <img src="images/how-its-work-shadow.png" class="img-fluid">
+                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                     </div>
                     <div class="text">
                         <small>STEP 2</small>
                         <h3>Print our “healthcare provider Overview” to Share with Your healthcare provider</h3>
                         <p>We have created a pdf file to help facilitate a conversation with you and your healthcare provider.</p>
                         <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
-                            <img src="images/icon-adn.png">
+                            <img src="assets/images/icon-adn.png">
                             <span>Healthcare provider Overview</span>
                         </a>
                     </div>
@@ -192,7 +192,7 @@
                             c-2.6,3.6-7.2,5.6-13,5.6c-5,0-9.2-1.8-11.2-4.7c-2.9-4.2-1.3-10.6,0.6-15.2c4-9.9,7.9-17.7,10.8-22.9c4.7,7.6,11.9,19.5,14.2,26.5
                             C277.1,160.9,276.6,164.7,274.4,167.7z"/>
                         </svg>
-                        <img src="images/how-its-work-shadow.png" class="img-fluid">
+                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                     </div>
                     <div class="text">
                         <small>STEP 3</small>
@@ -224,7 +224,7 @@
                             c2.8,0,5.1-2.3,5.1-5.1S145.3,218.3,142.5,218.3z M213.7,203.5l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.3,0,7.3l15.7,15.7
                             c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4c2-2,2-5.3,0-7.3C218.9,201.5,215.7,201.5,213.7,203.5z"/>
                         </svg>
-                        <img src="images/how-its-work-shadow.png" class="img-fluid">
+                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                     </div>
                     <div class="text">
                         <small>STEP 4</small>
@@ -251,14 +251,14 @@
                             C100.8,198,89.3,209.4,75.3,209.4z M75.3,170.4c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6c7.5,0,13.6-6.1,13.6-13.6
                             C88.9,176.5,82.8,170.4,75.3,170.4z"/>
                         </svg>
-                        <img src="images/how-its-work-shadow.png" class="img-fluid">
+                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                     </div>
                     <div class="text">
                         <small>STEP 5</small>
                         <h3>Discuss the Results with your healthcare provider</h3>
                         <p>Armed with the information about your unique sub-type, your healthcare provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
                         <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
-                            <img src="images/icon-adn.png">
+                            <img src="assets/images/icon-adn.png">
                             <span>Sample Report</span>
                         </a>
                     </div>
@@ -299,7 +299,7 @@
                                     c1,0.1,2,0.2,3,0.2v-0.1c0.6,0,1.2,0.1,1.7,0.1c31.2,0,56.6-24.9,57.6-55.9h0c0-0.6,0.1-1.2,0.1-1.7c0,0,0,0,0,0c0,0,0,0,0,0
                                     C125.5,221.5,125.5,221.3,125.5,221.1z"/>
                                 </svg>
-                                <img src="images/how-its-work-shadow.png" class="img-fluid">
+                                <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                             </div>
                             <div class="text">
                                 <small>STEP 6</small>
@@ -324,7 +324,7 @@
                                     c2.6,0,4.8-2.1,4.8-4.8S224.3,162.7,221.6,162.7z M126.1,32.2h17.5v11.1c0,2.6,2.1,4.8,4.8,4.8s4.8-2.1,4.8-4.8V32.2h17.5
                                     c2.6,0,4.8-2.1,4.8-4.8s-2.1-4.8-4.8-4.8h-44.6c-2.6,0-4.8,2.1-4.8,4.8S123.5,32.2,126.1,32.2z"/>
                                 </svg>
-                                <img src="images/how-its-work-shadow.png" class="img-fluid">
+                                <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
                             </div>
                             <div class="text">
                                 <small>STEP 7</small>

@@ -8,7 +8,7 @@
                 <div class="col-lg-3 contact-form-phone">
                     <div class="row">
                         <div class="col-3">
-                            <img src="images/icon-mail.png" class="img-fluid">
+                            <img src="assets/images/icon-mail.png" class="img-fluid">
                         </div>
                         <div class="col-9 p-0 text-center">
                             <p>
@@ -18,7 +18,7 @@
                     </div>
                     <div class="row">
                         <div class="col-3">
-                            <img src="images/icon-phone.png" class="img-fluid">
+                            <img src="assets/images/icon-phone.png" class="img-fluid">
                         </div>
                         <div class="col-9 p-0 text-center">
                             <p>

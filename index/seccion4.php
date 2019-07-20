@@ -50,7 +50,7 @@
               </div>
           </div>
           <div class="col-12 col-lg-6 d-none d-sm-block content-img h-50">
-              <img src="images/maximizing-graphic-2.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid h-100">
+              <img src="assets/images/maximizing-graphic-2.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid h-100">
           </div>
           <div class="col-12 col-lg-6 px-5 px-sm-0 h-50">
               <div class="swiper-slide">
@@ -242,7 +242,7 @@
               </div>
           </div>
           <div class="col-12 col-lg-6 d-none d-sm-block content-img h-50">
-              <img src="images/maximizing-graphic.jpg" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid h-100">
+              <img src="assets/images/maximizing-graphic.jpg" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid h-100">
           </div>
       </div>
   </section>

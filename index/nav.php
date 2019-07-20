@@ -1,6 +1,6 @@
-<nav>
+<nav class="container">
   <a href="index.html#home" class="logo" data-slide="0">
-      <img src="images/logo-phenomix.png" class="img-fluid">
+      <img src="assets/images/logo-phenomix.png" class="img-fluid">
   </a>
   <div class="menu row">
       <div class="col-12">
