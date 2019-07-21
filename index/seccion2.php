@@ -1,7 +1,7 @@
 <div class="swiper-slide" data-hash="maximizing-weight-loss">
-  <secction id="maximizing-weight-loss" class="container-fluid">
+  <section id="maximizing-weight-loss" class="container-fluid">
     <div class="middle-up">
-      <div class="row h-100 m-0 pt-4">
+      <div class="row h-100">
         <div class="col-12 col-lg-6 h-100 pl-lg-5 d-flex align-items-center bg-gradient">
           <div class="content">
             <img class="img-fluid d-lg-none" src="assets/images/maximizing-header-lg.jpg" alt="">
@@ -24,7 +24,7 @@
       </div>
     </div>
     <div class="middle-down d-none d-lg-block">
-      <div class="row h-100 m-0">
+      <div class="row h-100">
         <div class="col-12 h-100 px-5">
           <div class="content text-center">
             <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
@@ -276,7 +276,7 @@
         </div>
       </div>
     </div>
-  </secblue>
+  </section>
 </div>
 
 <!-- <div class="swiper-slide" data-hash="maximizing-weight-loss">
