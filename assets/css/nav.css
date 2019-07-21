@@ -28,7 +28,7 @@ nav .logo img {
     background-color: #fff;
   }
   nav.collapsed .logo {
-    margin: 10px auto!important;
+    margin: 5px auto!important;
   }
   nav.collapsed .menu li {
     margin: 0;
