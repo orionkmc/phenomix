@@ -56,9 +56,9 @@
 <![endif]-->
 
 <!-- cookies -->
-<?php include 'index/cookies.php'; ?>
+<?php // include 'index/cookies.php'; ?>
 <!-- preloader -->
-<?php include 'index/preloader.php'; ?>
+<?php // include 'index/preloader.php'; ?>
 
 <main>
 	<!-- Barra Nav -->

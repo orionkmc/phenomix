@@ -1,7 +1,7 @@
 <div class="swiper-slide" data-hash="home">
     <section id="home" class="fullscreen container-fluid">
         <video loop muted autoplay class="d-none d-lg-block">
-            <source src="videos/bg.webm" type="video/webm"><source src="videos/bg.mp4" type="video/mp4">
+            <source src="assets/videos/bg.webm" type="video/webm"><source src="assets/videos/bg.mp4" type="video/mp4">
         </video>    
         <video loop muted autoplay class="bg-home d-lg-none"></video>   
         <div class="row h-100 header-text">

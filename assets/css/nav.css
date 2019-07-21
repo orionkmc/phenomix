@@ -1,87 +1,48 @@
 nav {
-    height: 65px;
-    position: fixed;
-    width: 100%;
-    z-index: 6000;
-    -webkit-transition: all .3s ease-out;
-    transition: all .3s ease-out
-}
-
-@media (min-width:992px) {
-    nav {
-        height: 0px
-    }
-    nav.collapsed {
-
-        height: 50px
-    }
-    nav.collapsed .logo {
-        margin: 10px 50px!important
-    }
-    nav.collapsed .menu li {
-        margin: 0
-    }
-    nav.collapsed .menu li:before {
-        top: 15px!important
-    }
-}
-
-@media (min-width:992px) {
-    nav {
-        background-color: #fff
-    }
-}
-
-@media (min-width:992px) {
-    nav .logo {
-        height: 40px;
-        margin: 0;
-        overflow: hidden;
-        position: relative;
-        width: 130px
-    }
-    nav .logo img {
-        position: absolute;
-        top: -35px
-    }
-}
-
-@media (min-width:992px) {
-    nav .menu {
-        margin: 0
-    }
-    nav .menu ul {
-        margin-bottom: 0
-    }
+  height: 100px;
+  position: fixed;
+  width: 100%;
+  z-index: 6000;
+  -webkit-transition: all .3s ease-out;
+  transition: all .3s ease-out;
+  background-color: transparent;
 }
 
 nav .logo {
-    display: inline-block;
-    float: left;
-    margin: 10px 20px;
-    -webkit-transition: all .5s ease-out;
-    transition: all .5s ease-out
-}
-
-@media (min-width:992px) {
-    nav .logo {
-        margin: 35px 50px;
-        display: block;
-        position: relative;
-        z-index: 10000000
-    }
+  display: inline-block;
+  -webkit-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+  margin: 30px auto;
 }
 
 nav .logo img {
-    -webkit-transition: all .5s ease-out;
-    transition: all .5s ease-out;
-    width: 85px
+  -webkit-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+  height: 40px;
+  padding: 10px 0;
 }
 
 @media (min-width:992px) {
-    nav .logo img {
-        width: 120px
-    }
+  nav.collapsed {
+    height: 50px;
+    background-color: #fff;
+  }
+  nav.collapsed .logo {
+    margin: 10px auto!important;
+  }
+  nav.collapsed .menu li {
+    margin: 0;
+  }
+  nav.collapsed .menu li:before {
+    top: 15px!important;
+  }
+
+  nav .menu {
+    margin: 0;
+  }
+  nav .menu ul {
+    margin-bottom: 0;
+  }
 }
 
 nav .menu {
