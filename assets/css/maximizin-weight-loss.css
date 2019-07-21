@@ -41,12 +41,13 @@
 #maximizing-weight-loss .middle-down .content .items-phenotype h5{
     font-family: Roboto Slab;
     color: #1E4484;
-    font-size: 3vh;
+    font-size: 2vh;
 }
-#maximizing-weight-loss .middle-down .content .items-phenotype h5{
+#maximizing-weight-loss .middle-down .content .items-phenotype p{
     font-family: Roboto Lt;
     color: #1E4484;
     font-size: 2vh;
+    margin-bottom: 0.5rem;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype{
     fill: #1e4484;

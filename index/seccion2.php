@@ -36,7 +36,7 @@
             <div class="row items-phenotype">
               <div class="col-12 col-lg-2 offset-lg-2">
                 <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
-                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-50 m-auto">
+                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <g>
                         <g>
@@ -69,7 +69,7 @@
               </div>
               <div class="col-12 col-lg-2">
                 <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
-                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-50 m-auto">
+                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <g>
                         <g>
@@ -132,7 +132,7 @@
               </div>
               <div class="col-12 col-lg-2">
                 <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
-                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-50 m-auto">
+                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <path d="M258,160c-7.7-23.2-22.1-57.8-57.7-90.8c-33.4-31.1-65-54.2-65.3-54.4c-1.4-1-3.2-1.2-4.7-0.4c-1.5,0.8-2.5,2.3-2.6,4
                       c0,0.5-2,46.8-60,106.2c-31.7,32.4-40,78.3-21.3,117c20.2,41.6,68,44.5,70,44.6c2.6,0.1,4.7-1.8,4.8-4.4c0.1-2.5-1.8-4.7-4.4-4.8
@@ -153,7 +153,7 @@
               </div>
               <div class="col-12 col-lg-2">
                 <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
-                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-50 m-auto">
+                  <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <g>
                         <g>
@@ -278,6 +278,8 @@
     </div>
   </section>
 </div>
+
+<!-- Modales Phenotypes -->
 
 <!-- <div class="swiper-slide" data-hash="maximizing-weight-loss">
     <section id="maximizin-weight-loss" class="container-fluid">
