@@ -22,46 +22,46 @@
   line-height: 100%;
 }
 #maximizing-weight-loss .middle-down .content h1{
-    font-family: Roboto Slab;
-    color: #1E4484;
-    font-size: 5vh;
-    font-weight: 500;
+  font-family: Roboto Slab;
+  color: #1E4484;
+  font-size: 5vh;
+  font-weight: 500;
 }
 #maximizing-weight-loss .middle-down .content p{
-    color: #1E4484;
-    font-family: Roboto Lt;
-    font-size: 2vh;
-    font-weight: 300;
-    line-height: 100%;
+  color: #1E4484;
+  font-family: Roboto Lt;
+  font-size: 2vh;
+  font-weight: 300;
+  line-height: 100%;
 }
 #maximizing-weight-loss .middle-down .content p a{
-    color: #1E4484;
-    text-decoration: underline;
+  color: #1E4484;
+  text-decoration: underline;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype h5{
-    font-family: Roboto Slab;
-    color: #1E4484;
-    font-size: 2vh;
+  font-family: Roboto Slab;
+  color: #1E4484;
+  font-size: 2vh;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype p{
-    font-family: Roboto Lt;
-    color: #1E4484;
-    font-size: 2vh;
-    margin-bottom: 0.5rem;
+  font-family: Roboto Lt;
+  color: #1E4484;
+  font-size: 2vh;
+  margin-bottom: 0.5rem;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype{
-    fill: #1e4484;
-    border-radius: 50%;
-    padding: 0.5rem;
-    cursor: pointer;    
-    transition: all 1s;
+  fill: #1e4484;
+  border-radius: 50%;
+  padding: 0.5rem;
+  cursor: pointer;    
+  transition: all 1s;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype:hover{
-    fill: #fff;
-    background-color: #1e4484;
+  fill: #fff;
+  background-color: #1e4484;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype a{
-    color: #1e4484;
+  color: #1e4484;
 }
 
 .modales-phenotype .modal-header span{
@@ -448,10 +448,10 @@
   #maximizin-weight-loss .row .col-12.bg-gray .content img {
     max-width: 450px
   }
-}*/
+  }*/
 
 
-#maximizin-weight-loss-2 .row {
+/*#maximizin-weight-loss-2 .row {
   overflow: hidden;
   height: 100%
 }
@@ -751,4 +751,4 @@
   #maximizin-weight-loss-2 .row .col-12.bg-gray .content img {
     max-width: 450px
   }
-}
+}*/

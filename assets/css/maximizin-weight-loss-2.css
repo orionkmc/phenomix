@@ -1,30 +1,45 @@
-
+#maximizin-weight-loss-2 .content h1{
+    color: #1E4484;
+    font-family: Roboto Slab;
+    font-size: 5vh;
+    font-weight: 500;
+}
+#maximizin-weight-loss-2 .content p{
+    color: #1E4484;
+    font-family: Roboto Lt;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 100%;
+}
+#maximizin-weight-loss-2 .content p a{
+    color: #1E4484;
+    text-decoration: underline;
+}
 #maximizin-weight-loss-2 .content .publication h5{
     font-family: Roboto Slab;
     color: #1e4484;
 }
-
-#maximizin-weight-loss-2 .content .publication .appear{
-    /*padding: 20px;*/
+#maximizin-weight-loss-2 .content .publication p{
+    color: #1E4484;
+    font-family: Roboto Lt;
+    font-size: 2vh;
+    font-weight: 300;
+    line-height: 100%;
 }
-
-#maximizin-weight-loss-2 .content .arrows {
-    /*height: 42px;*/
+#maximizin-weight-loss-2 .content .arrows{
     position: absolute;
     top: 50%;
     width: 100%;
     z-index: 0;
 }
-
-#maximizin-weight-loss-2 .content .arrows a {
+#maximizin-weight-loss-2 .content .arrows a{
     font-size: 45px;
     position: absolute;
+    color: #1e4484;
 }
-
-#maximizin-weight-loss-2 .content .arrows a:first-child {
+#maximizin-weight-loss-2 .content .arrows a:first-child{
     left: 0;
 }
-
-#maximizin-weight-loss-2 .content .arrows a:last-child {
+#maximizin-weight-loss-2 .content .arrows a:last-child{
     right: 35px;
 }
