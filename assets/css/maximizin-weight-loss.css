@@ -64,6 +64,20 @@
     color: #1e4484;
 }
 
+.modales-phenotype .modal-header span{
+  color: #1e4484;
+}
+.modales-phenotype .modal-body h5{
+  color: #1e4484;
+  font-family: Roboto Slab;
+  font-size: 3vh;
+}
+.modales-phenotype .modal-body p{
+  color: #1e4484;
+  font-family: Roboto Lt;
+  font-size: 2vh;
+}
+
 /* RESOLUTION 992 DOWN*/
 @media (max-width: 991.98px){
   #maximizing-weight-loss .middle-up,
@@ -118,7 +132,7 @@
 
 
 
-#maximizin-weight-loss .row {
+/*#maximizin-weight-loss .row {
   overflow: hidden;
   height: 100%
 }
@@ -130,7 +144,6 @@
 }
 
 #maximizin-weight-loss .row .col-12.bg-header {
-  /*background: url(../images/maximizing-header.jpg) no-repeat 50% transparent;*/
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url('../images/maximizing-header.jpg');
   background-size: cover
 }
@@ -169,7 +182,7 @@
 
 #maximizin-weight-loss .row .col-12.bg-blue:before {
   background: linear-gradient(to bottom, rgba(230, 230, 230, 1), rgba(255, 255, 255, 1));
-  background-color: #f1f1f1; /* 4a66b0*/
+  background-color: #f1f1f1; 
   bottom: 0;
   content: "";
   left: 0;
@@ -186,14 +199,13 @@
 }
 
 #maximizin-weight-loss .row .col-12.bg-blue .content {
-  /*margin-top: 10%;*/
   max-width: 640px;
   z-index: 100;
   padding: 20px
 }
 
 #maximizin-weight-loss .row .col-12.bg-blue .content h1 {
-  color: #1E4484; /*61e0e4*/
+  color: #1E4484; 
   font-family: Roboto Slab;
   font-size: 30px;
   font-weight: 300;
@@ -209,7 +221,7 @@
 }
 
 #maximizin-weight-loss .row .col-12.bg-blue .content p {
-  color: #1E4484; /*fff*/
+  color: #1E4484;
   font-family: Roboto Lt;
   font-size: 13px;
   font-weight: 100;
@@ -436,7 +448,7 @@
   #maximizin-weight-loss .row .col-12.bg-gray .content img {
     max-width: 450px
   }
-}
+}*/
 
 
 #maximizin-weight-loss-2 .row {
@@ -472,7 +484,7 @@
 
 #maximizin-weight-loss-2 .row .col-12.bg-blue:before {
   background: linear-gradient(to bottom, rgba(230, 230, 230, 1), rgba(255, 255, 255, 1));
-  background-color: #f1f1f1; /* 4a66b0*/
+  background-color: #f1f1f1; 
   bottom: 0;
   content: "";
   left: 0;
@@ -496,7 +508,7 @@
 }
 
 #maximizin-weight-loss-2 .row .col-12.bg-blue .content h1 {
-  color: #1E4484; /*61e0e4*/
+  color: #1E4484; 
   font-family: Roboto Slab;
   font-size: 30px;
   font-weight: 300;
@@ -512,7 +524,7 @@
 }
 
 #maximizin-weight-loss-2 .row .col-12.bg-blue .content p {
-  color: #1E4484; /*fff*/
+  color: #1E4484; 
   font-family: Roboto Lt;
   font-size: 13px;
   font-weight: 100;

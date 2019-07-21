@@ -48,82 +48,71 @@
     </div>
   </div>
 </div>
-<div class="modalHungryBrain modall">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="title">Hungry Brain (50%)</h2>
+<div class="modal fade modales-phenotype" id="modalHungryBrain" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
-      <div class="col-12">
-        <div class="content-scroll">
-          <p>The brain’s inability to determine when a meal is over is the main cause of obesity with this phenotype, which is also known as abnormal satiation. The good news is that, once this is acknowledged, you can implement strategies to help limit your intake during meals. Different interventions work by targeting neurotransmitters that are related to brain-gut signaling and your doctor can help you determine if these are right for you.</p>        </div>
+      <div class="modal-body">
+        <h5 class="modal-title" id="exampleModalLabel">Hungry Brain (50%)</h5>
+        <br>
+        <p>The brain’s inability to determine when a meal is over is the main cause of obesity with this phenotype, which is also known as abnormal satiation. The good news is that, once this is acknowledged, you can implement strategies to help limit your intake during meals. Different interventions work by targeting neurotransmitters that are related to brain-gut signaling and your doctor can help you determine if these are right for you.</p>
       </div>
-      <a href="#" data-close=".modalHungryBrain" class="modal-close">
-        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-          <path d="M135,150l74.8-74.8c8.3-8.3,8.3-21.6,0-29.9s-21.7-8.3-29.9,0L90.2,135c-8.3,8.3-8.3,21.6,0,29.9l89.7,89.7
-          c8.3,8.3,21.6,8.3,29.9,0c8.3-8.3,8.3-21.6,0-29.9L135,150z"/>
-        </svg>                      
-      </a>
     </div>
   </div>
 </div>
-<div class="modalHungryGut modall">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="title">Hungry Gut (30%)</h2>
+<div class="modal fade modales-phenotype" id="modalHungryGut" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
-      <div class="col-12">
-        <div class="content-scroll">
-          <p>Feeling hungry sooner or in periods between meals is frequently caused by your stomach and gut sending empty signals to your brain; this is also known as abnormal satiety. Helping the gut to know to wait is the key to reducing weight with this phenotype and some interventions are designed to help block these early hungry signals.</p>        </div>
+      <div class="modal-body">
+        <h5 class="modal-title" id="exampleModalLabel">Hungry Gut (30%)</h5>
+        <br>
+        <p>Feeling hungry sooner or in periods between meals is frequently caused by your stomach and gut sending empty signals to your brain; this is also known as abnormal satiety. Helping the gut to know to wait is the key to reducing weight with this phenotype and some interventions are designed to help block these early hungry signals.</p>
       </div>
-      <a href="#" data-close=".modalHungryGut" class="modal-close">
-        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-          <path d="M135,150l74.8-74.8c8.3-8.3,8.3-21.6,0-29.9s-21.7-8.3-29.9,0L90.2,135c-8.3,8.3-8.3,21.6,0,29.9l89.7,89.7
-          c8.3,8.3,21.6,8.3,29.9,0c8.3-8.3,8.3-21.6,0-29.9L135,150z"/>
-        </svg>                      
-      </a>
     </div>
   </div>
 </div>
-<div class="modalEmotionalHunger modall">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="title">Emotional Hunger (15%)</h2>
+<div class="modal fade modales-phenotype" id="modalEmotionalHunger" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
-      <div class="col-12">
-        <div class="content-scroll">
-          <p>People who respond to this phenotype tend to seek food as a reaction to negative or positive emotions; this is also known as emotional eating. Once you improve your ability to manage these emotions, you’re on the right track for weight reduction. Cognitive therapy and medications that address some of the underlying emotions can be very helpful and lead to weight loss for individuals with this phenotype.</p>        </div>
+      <div class="modal-body">
+        <h5 class="modal-title" id="exampleModalLabel">Emotional Hunger (15%)</h5>
+        <br>
+        <p>People who respond to this phenotype tend to seek food as a reaction to negative or positive emotions; this is also known as emotional eating. Once you improve your ability to manage these emotions, you’re on the right track for weight reduction. Cognitive therapy and medications that address some of the underlying emotions can be very helpful and lead to weight loss for individuals with this phenotype.</p>
       </div>
-      <a href="#" data-close=".modalEmotionalHunger" class="modal-close">
-        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-          <path d="M135,150l74.8-74.8c8.3-8.3,8.3-21.6,0-29.9s-21.7-8.3-29.9,0L90.2,135c-8.3,8.3-8.3,21.6,0,29.9l89.7,89.7
-          c8.3,8.3,21.6,8.3,29.9,0c8.3-8.3,8.3-21.6,0-29.9L135,150z"/>
-        </svg>                      
-      </a>
     </div>
   </div>
 </div>
-<div class="modalSlowBurn modall">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="title">Slow Burn (5%)</h2>
+<div class="modal fade modales-phenotype" id="modalSlowBurn" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
       </div>
-      <div class="col-12">
-        <div class="content-scroll">
-          <p>With this phenotype, your metabolic rate is lower than normal; this is also known as abnormal energy expenditure. Understanding the underlying condition that is making your energy expenditure inefficient is essential to address this problem. In this phenotype, most effective strategy for weight reduction is to increase activity and implementing an effective exercise routine.</p>        </div>
+      <div class="modal-body">
+        <h5 class="modal-title" id="exampleModalLabel">Slow Burn (5%)</h5>
+        <br>
+        <p>With this phenotype, your metabolic rate is lower than normal; this is also known as abnormal energy expenditure. Understanding the underlying condition that is making your energy expenditure inefficient is essential to address this problem. In this phenotype, most effective strategy for weight reduction is to increase activity and implementing an effective exercise routine.</p>
       </div>
-      <a href="#" data-close=".modalSlowBurn" class="modal-close">
-        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-          <path d="M135,150l74.8-74.8c8.3-8.3,8.3-21.6,0-29.9s-21.7-8.3-29.9,0L90.2,135c-8.3,8.3-8.3,21.6,0,29.9l89.7,89.7
-          c8.3,8.3,21.6,8.3,29.9,0c8.3-8.3,8.3-21.6,0-29.9L135,150z"/>
-        </svg>                      
-      </a>
     </div>
   </div>
 </div>
+
 <!-- Modall Omics -->
 <div class="modal-omics modall">
   <div class="container">
