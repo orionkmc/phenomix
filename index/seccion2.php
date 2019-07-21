@@ -35,7 +35,7 @@
             </p>
             <div class="row items-phenotype">
               <div class="col-12 col-lg-2 offset-lg-2">
-                <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
+                <a href="#" class="link-no-decoration" data-modall=".modalHungryBrain">
                   <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <g>
@@ -68,7 +68,7 @@
                 <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Knowing when the meal is over</p>
               </div>
               <div class="col-12 col-lg-2">
-                <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
+                <a href="#" class="link-no-decoration" data-modall=".modalHungryGut">
                   <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <g>
@@ -131,7 +131,7 @@
                 <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Ability to not eat in periods between meals</p>
               </div>
               <div class="col-12 col-lg-2">
-                <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
+                <a href="#" class="link-no-decoration" data-modall=".modalEmotionalHunger">
                   <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <path d="M258,160c-7.7-23.2-22.1-57.8-57.7-90.8c-33.4-31.1-65-54.2-65.3-54.4c-1.4-1-3.2-1.2-4.7-0.4c-1.5,0.8-2.5,2.3-2.6,4
@@ -152,7 +152,7 @@
                 <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Eating in response to negative and/or positive emotions</p>
               </div>
               <div class="col-12 col-lg-2">
-                <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="link-no-decoration">
+                <a href="#" class="link-no-decoration" data-modall=".modalSlowBurn">
                   <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                       <g>
@@ -278,8 +278,6 @@
     </div>
   </section>
 </div>
-
-<!-- Modales Phenotypes -->
 
 <!-- <div class="swiper-slide" data-hash="maximizing-weight-loss">
     <section id="maximizin-weight-loss" class="container-fluid">
