@@ -665,26 +665,6 @@ nav .menu ul.right li.login:before {
     margin-left: 15px;
 }
 
-.icon-phenotype{
-    fill: #1e4484;
-    border-radius: 50%;
-    padding: 0.5rem;
-    cursor: pointer;    
-    transition: all 1s;
-}
-.icon-phenotype:hover{
-    fill: #fff;
-    background-color: #1e4484;
-}
-.icon-phenotype a{
-    color: #1e4484;
-}
-.items-phenotype h5{
-    font-family: Roboto Slab;
-    color: #1e4484;
-    font-size: 18px;
-}
-
 .form-imput:focus,
 .form-select:focus{
     outline:none !important;
