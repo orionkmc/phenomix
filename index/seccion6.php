@@ -106,7 +106,7 @@
         </svg>      
         <div class="container">
             <h2 data-toggle="appear" data-appear-class="fadeInDown" class="appear">How it Works</h2>
-            <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">The blood testing process is similar to other standard blood tests ordered by your healthcare provider.</p>
+            <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">The blood testing process is similar to other standard blood tests ordered by your Healthcare Provider.</p>
             <div data-toggle="appear" data-appear-class="fadeIn delay-1s" class="appear slick">
                 <div>
                     <div class="content">
@@ -133,12 +133,12 @@
                         </div>
                         <div class="text">
                             <small>STEP 1</small>
-                            <h3>Call your healthcare provider Office<br>to Schedule an Appointment</h3>
+                            <h3>Call your Healthcare Provider's Office<br>to Schedule an Appointment</h3>
                             <ul>
                                 <p>
-                                    - Testing must be ordered by your healthcare provider.
+                                    - Testing must be ordered by your Healthcare Provider.
                                 </br>
-                                - Looking for a healthcare provider that specializes in weight-loss?
+                                - Looking for a Healthcare Provider that specializes in weight-loss?
                             </p>
                         </ul>
                         <a href="https://abom.learningbuilder.com/public/membersearch" target="_blank" class="button" tabindex="0">
@@ -168,11 +168,11 @@
                     </div>
                     <div class="text">
                         <small>STEP 2</small>
-                        <h3>Print our “healthcare provider Overview” to Share with Your healthcare provider</h3>
-                        <p>We have created a pdf file to help facilitate a conversation with you and your healthcare provider.</p>
-                        <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
+                        <h3>Print our “Healthcare Provider Overview” to Share with Your Healthcare Provider</h3>
+                        <p>We have created a pdf file to help facilitate a conversation with you and your Healthcare Provider.</p>
+                        <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button btn" tabindex="0">
                             <img src="assets/images/icon-adn.png">
-                            <span>Healthcare provider Overview</span>
+                            <span>Healthcare Provider Overview</span>
                         </a>
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                         <small>STEP 3</small>
                         <h3>Request Testing</h3>
                         <ul>
-                            <p>Your healthcare provider will collect a blood sample for submission to our CLIA laboratory in St. Paul, MN for analysis.</p>
+                            <p>Your Healthcare Provider will collect a blood sample for submission to our CLIA laboratory in St. Paul, MN for analysis.</p>
                             <li class="italic">Note that fasting for 8-12 hours before your test is required. </li>
 
                         </ul>
@@ -255,8 +255,9 @@
                     </div>
                     <div class="text">
                         <small>STEP 5</small>
-                        <h3>Discuss the Results with your healthcare provider</h3>
-                        <p>Armed with the information about your unique sub-type, your healthcare provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
+                        <h3>Discuss the Results with your Healthcare Provider</h3>
+                        <p>Reports are delivered in 7-10 business days to your Healthcare Provider.</p>
+                        <p>Armed with the information about your unique sub-type, your Healthcare Provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
                         <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
                             <img src="assets/images/icon-adn.png">
                             <span>Sample Report</span>
@@ -305,9 +306,9 @@
                                 <small>STEP 6</small>
                                 <h3>Schedule a Follow-Up Test in 6 Months</h3>
                                 <ul>
-                                    <p class="mb-2">Reports are delivered in 7-10 business days to your healthcare provider.</p>
+                                    <p class="mb-2">Reports are delivered in 7-10 business days to your Healthcare Provider.</p>
                                     <p class="mb-2">If treatment is initiated, you may benefit from re-testing of your metabolites and hormones in 6 months to see how your phenotype is changing based on your treatment.</p>
-                                    <p class="mb-2">Looking for a healthcare provider that specializes in weight-loss?</p>
+                                    <p class="mb-2">Looking for a Healthcare Provider that specializes in weight-loss?</p>
                                     <li class="italic">Note that we will only analyze the portion of your test that is subject to change (your genes don’t change so we will not need to retest your DNA).</li>
                                 </ul>
                             </div>
@@ -330,8 +331,8 @@
                                 <small>STEP 7</small>
                                 <h3>Wait for Your Results</h3>
                                 <ul>
-                                    <p>Turn-around time for your report is approximately 7-10 days from receipt of the sample by our lab. </br>Looking for a healthcare provider that specializes in weight-loss?</p>
-                                    <li class="italic">Note that results will be delivered to your healthcare provider electronically and you will also have the ability to view or print your results through the online patient portal.</li>
+                                    <p>Turn-around time for your report is approximately 7-10 days from receipt of the sample by our lab. </br>Looking for a Healthcare Provider that specializes in weight-loss?</p>
+                                    <li class="italic">Note that results will be delivered to your Healthcare Provider electronically and you will also have the ability to view or print your results through the online patient portal.</li>
                                 </ul>
                             </div>
                         </div>
