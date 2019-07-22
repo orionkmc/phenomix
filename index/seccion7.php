@@ -6,7 +6,7 @@
                 <div data-toggle="appear" data-appear-class="fadeIn slow delay-2" class="appear slick-saying">
                     <div>
                         <div class="content">
-                            <img src="assets/images/about-team-01.png" class="img-fluid rounded-circle">
+                            <img src="assets/images/perfil.jpg" class="img-fluid rounded-circle">
                             <h4>Angela Fitch, MD</h4>
                             <h5>Secretary/Treasurer OMA</h5>
                             <h5>Associate Director MGH Weight Center at Massachusetts General Hospital</h5>
@@ -17,7 +17,7 @@
                     </div>
                     <div>
                         <div class="content">
-                            <img src="assets/images/about-team-01.png" class="img-fluid rounded-circle">
+                            <img src="assets/images/perfil.jpg" class="img-fluid rounded-circle">
                             <h4>Craig Primack, MD</h4>
                             <h5>President-elect OMA</h5>
                             <h5>Co-director and co-founder of the Scottsdale Weight Loss Center in Scottsdale, Arizona</h5>
@@ -28,7 +28,7 @@
                     </div>
                     <div>
                         <div class="content">
-                            <img src="assets/images/about-team-01.png" class="img-fluid rounded-circle">
+                            <img src="assets/images/perfil.jpg" class="img-fluid rounded-circle">
                             <h4>Angela Golden, NP</h4>
                             <h5>Assistant Professor (Ret), Northern Arizona University</h5>
                             <h5>Vice President, Arizona Nurse Practitioner Council</h5>
