@@ -1,6 +1,6 @@
 <footer class="container">
   <a href="#" class="scroll-down show">Scroll Down</a>
-  <div class="container-fluid d-none d-sm-block">
+  <div class="container-fluid d-none d-lg-block">
     <ul class="list-inline float-right">
       <li class="list-inline-item">
         <a data-rel="lightcase" href="legal/PrivacyPolicy/PrivacyPolicy.html" target="_blank">

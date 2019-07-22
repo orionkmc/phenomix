@@ -10,9 +10,9 @@
                             <h4>Angela Fitch, MD</h4>
                             <h5>Secretary/Treasurer OMA</h5>
                             <h5>Associate Director MGH Weight Center at Massachusetts General Hospital</h5>
-                            <span class="quotes d-none d-sm-block">“</span>
+                            <span class="quotes d-none d-lg-block">“</span>
                             <p>Currently, we must choose therapy based on clinical history and trial and error.  If we had a way to expedite and predict best treatment this would guide our clinical decision making and provide better outcomes quicker with less time and money spent by the patient to accomplish their weight and health goals.  If the cost of testing replaces even one clinical visit for example then it is worth it as it may take us many visits and many months to find the best therapy. Having some guidance in this would facilitate the best care for the patient.</p>
-                            <span class="quotes quotes-close d-none d-sm-block">“</span>
+                            <span class="quotes quotes-close d-none d-lg-block">“</span>
                         </div>                  
                     </div>
                     <div>
@@ -21,9 +21,9 @@
                             <h4>Craig Primack, MD</h4>
                             <h5>President-elect OMA</h5>
                             <h5>Co-director and co-founder of the Scottsdale Weight Loss Center in Scottsdale, Arizona</h5>
-                            <span class="quotes d-none d-sm-block">“</span>
+                            <span class="quotes d-none d-lg-block">“</span>
                             <p>Like cancer care, we started out with "chemotherapy" based on area of the body affected.  Now with advanced cancer testing (genetic), we can tailor cancer therapies exactly to the patient affected.   If we were able to do that in obesity it would be invaluable. It would be the next revolution in obesity treatment.</p>
-                            <span class="quotes quotes-close d-none d-sm-block">“</span>
+                            <span class="quotes quotes-close d-none d-lg-block">“</span>
                         </div>
                     </div>
                     <div>
@@ -33,9 +33,9 @@
                             <h5>Assistant Professor (Ret), Northern Arizona University</h5>
                             <h5>Vice President, Arizona Nurse Practitioner Council</h5>
                             <h5>Past President, American Association of Nurse Practitioners</h5>
-                            <span class="quotes d-none d-sm-block">“</span>
+                            <span class="quotes d-none d-lg-block">“</span>
                             <p>If we can prove that the Phenomix Science blood test predicts response and helps direct choice of treatment, it would be transformative. Our current "trial and error" method of selecting therapies is clunky, to say the least. Instead of guessing which drug to prescribe and waiting 3 months to see if it works, the provider would have the information at hand to rationally choose a therapy and know in advance that there was a high likelihood of response.</p>
-                            <span class="quotes quotes-close d-none d-sm-block">“</span>
+                            <span class="quotes quotes-close d-none d-lg-block">“</span>
                         </div>
                     </div>
                 </div>

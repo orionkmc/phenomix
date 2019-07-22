@@ -1,4 +1,4 @@
-<div class="swiper-slide d-sm-none" data-hash="maximizing-weight-loss-2">
+<div class="swiper-slide d-lg-none" data-hash="maximizing-weight-loss-2">
   <section id="maximizin-weight-loss-2" class="container-fluid pt-5">
       <div class="row align-items-center">
           <div class="col-12 text-center">
