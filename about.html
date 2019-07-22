@@ -576,7 +576,7 @@
 
 
       	<footer>
-      		<a href="#" class="scroll-down show">Scroll Down</a>
+      		<a id="scroll-down" href="#team" class="scroll-down show">Scroll Down</a>
       		<div class="container-fluid">
       			<ul class="list-inline float-right">
       				<li class="list-inline-item">
@@ -609,9 +609,23 @@
       		</div>
       	</footer>
       </main>
-
+      
       <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview")</script>
       <script src="scripts/vendor.js"></script>
       <script src="scripts/main.js"></script>
+      <script>
+        $('#scroll-down').click(function(){
+          $('html, body').animate({scrollTop : $(window).height()}, 1000 );
+        })
+        $(window).scroll(function(){
+          positionScroll = $(this).scrollTop();
+          console.log(positionScroll);
+          if(positionScroll > ($(window).height() / 2)){
+            $('#scroll-down').css('bottom', '-100%');
+          } else {
+            $('#scroll-down').css('bottom', '45px');
+          }
+        });
+      </script>
     </body>
     </html>
