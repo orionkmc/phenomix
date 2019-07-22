@@ -1,4 +1,4 @@
-<div class="swiper-slide" data-hash="how-it-works">
+<div class="swiper-slide father-hiw" data-hash="how-it-works">
     <section id="how-it-works">
         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 667.8 642.2" style="enable-background:new 0 0 667.8 642.2" xml:space="preserve">
             <path class="st0" d="M115.9,389.5c2.7-4.9,1.1-11.2-3.6-14.1c-3.7-2.2-8.2-1.7-11.3,1.1l-31-18.8c0.6-1.4,0.8-2.9,0.7-4.4l27.9-16.9
