@@ -589,7 +589,20 @@ section .overflow-hidden {
     display: none
 }
 
-@media only screen and (min-device-width:480px) and (max-device-width:640px) and (orientation:landscape) {
+@media only screen and (min-device-width:320px) and (max-device-width:640px) and (orientation:landscape) {
+    .placa {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        background: #282828 url(../images/cover-landscape.jpg) no-repeat 50%;
+        background-size: cover;
+        z-index: 100000000000
+    }
+}
+@media only screen and (min-device-height:320px) and (max-device-height:640px) and (orientation:landscape) {
     .placa {
         display: block;
         position: absolute;
