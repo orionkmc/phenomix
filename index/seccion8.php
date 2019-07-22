@@ -1,6 +1,6 @@
 <div class="swiper-slide" data-hash="licences">
-    <section id="licences" class="px-3 px-lg-5">
-        <div class="row licences-affiliations h-100">
+    <section id="licences" class="px-3 px-lg-5 d-lg-flex align-items-center">
+        <div class="row licences-affiliations h-auto">
             <div class="col-12 col-lg-3 licences mt-5 mt-lg-0">
                 <div class="content p-3 text-center appear" data-appear-class="fadeInDown" data-toggle="appear">
                     <h1 class="appear" data-appear-class="fadeInDown delay-500" data-toggle="appear">Licences & Accreditations</h1>

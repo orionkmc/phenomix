@@ -1,3 +1,8 @@
+@media (min-width: 992px) {
+    .father-hiw{
+        padding-top: 50px;
+    }
+}
 
 #how-it-works {
     background-color: #fff;
