@@ -1,38 +1,4 @@
 <div class="swiper-slide" data-hash="why-it-works">
-  <style>
-    #why-it-works{
-      padding-top: 50px;
-      padding-bottom: 45px;
-    }
-    #why-it-works .align-items-center{
-      align-items: unset !important;
-    }
-    #why-it-works .align-items-center .content{
-      padding-top: 1rem !important;
-    }
-    #why-it-works .align-items-center .content h1{
-      font-size: 5vh !important;
-      line-height: 110% !important;
-    }
-    #why-it-works .align-items-center .content p{
-      font-size: 2vh !important;
-      line-height: 110% !important;
-      padding-left: .5rem;
-      padding-right: .5rem;
-    }
-    #why-it-works .align-items-center .content a{
-      font-size: 2vh !important;
-      text-decoration: underline;
-    }
-    #why-it-works .align-items-center .content-img{
-      display: flex !important;
-      justify-content: center;
-    }
-    #publications .content .publication .appear {
-      margin: 0 auto;
-      max-width: 220px !important;
-    }
-  </style>
   <section id="why-it-works" class="container-fluid">
     <div class="row align-items-center">
       <div class="col-12 col-lg-6 h-50 d-flex align-items-center">
@@ -43,7 +9,7 @@
           <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear text-center text-lg-left">
             Initial clinical study data has shown a doubling of treatment responders and twice as much weight loss for patients whose treatment is guided by their dominant obesity phenotype.
           </p>
-          <div data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
+          <div data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear text-center text-lg-left">
             <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank">Mayo Clinic Publications</a>
           </div>
         </div>
