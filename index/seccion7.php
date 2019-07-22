@@ -2,7 +2,7 @@
     <section id="what-others-are-saying">
         <div class="header">
             <div class="container">
-                <h2 data-toggle="appear" data-appear-class="fadeInDown" class="appear">What Others are Saying</h2>
+                <h2 data-toggle="appear" data-appear-class="fadeInDown" class="appear">What Others <br class="d-none d-lg-block">are Saying</h2>
                 <div data-toggle="appear" data-appear-class="fadeIn slow delay-2" class="appear slick-saying">
                     <div>
                         <div class="content">
