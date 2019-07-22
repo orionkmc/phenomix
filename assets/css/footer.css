@@ -8,26 +8,18 @@ footer {
     z-index: 100
 }
 
+footer ul{
+  display: flex;
+  justify-content: space-evenly;
+}
 footer ul li a {
     color: #414141;
     line-height: 45px;
     font-size: 11px
 }
 
-@media (min-width:992px) {
-    footer ul li a {
-        font-size: 12px
-    }
-}
-
 footer ul li.social-media a {
     font-size: 14px
-}
-
-@media (min-width:992px) {
-    footer ul li.social-media a {
-        font-size: 18px
-    }
 }
 
 footer .scroll-down {
@@ -49,12 +41,21 @@ footer .scroll-down {
     transition-timing-function: cubic-bezier(.25, .46, .45, .94)
 }
 
-@media (min-width:992px) {
-    footer .scroll-down {
-        display: block
-    }
-}
-
 footer .scroll-down.show {
     bottom: 45px
+}
+
+@media (min-width:992px) {
+  footer ul{
+    justify-content: flex-end;
+  }
+  footer ul li a {
+      font-size: 12px
+  }
+  footer ul li.social-media a {
+      font-size: 18px
+  }
+  footer .scroll-down {
+      display: block
+  }
 }
