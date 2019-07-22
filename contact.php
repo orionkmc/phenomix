@@ -36,7 +36,7 @@
 
 
 <main>
-	<?php include 'index/nav.php'; ?>
+	<?php include 'index/nav_2.php'; ?>
 
 	<div id="contact">
 		<section class="container contact-form pt-5">
