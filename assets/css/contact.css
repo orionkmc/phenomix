@@ -9,14 +9,14 @@
 }
 
 #contact .contact-form {
-    min-height: 100vh;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-line-pack: end;
-    align-content: flex-end;
-    position: relative;
-    overflow: hidden
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: end;
+  align-content: flex-end;
+  position: relative;
+  overflow: hidden
 }
 
 #contact .contact-form {
@@ -27,139 +27,155 @@
 }
 
 #contact .contact-form h1 {
-    color: #4a66b0;
-    font-size: 43px;
-    line-height: 45px;
+  color: #4a66b0;
+  font-size: 43px;
+  line-height: 45px;
+  font-family: Roboto Slab;
+  font-weight: 300;
+  margin: 30px 0;
+}
+#contact .contact-form .contact-form-phone {
+  padding-top: 25px
+}
+@media (max-width: 991.98px){
+  #contact .contact-form {
+    min-height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+  }
+  #contact .contact-form h1 {
+    font-size: 5vh;
+    line-height: 100%;
     font-family: Roboto Slab;
     font-weight: 300;
-    margin: 30px 0
+  }
+  #contact .contact-form .contact-form-phone {
+    padding-top: 10px;
+  }
 }
 
-#contact .contact-form .contact-form-phone {
-    padding-top: 25px
-}
 
 #contact .contact-form .contact-form-phone>div {
-    text-align: center
+  text-align: center
 }
 
 @media (min-width:992px) {
-    #contact .contact-form .contact-form-phone>div {
-        /*display: inline-block*/
-    }
+  #contact .contact-form .contact-form-phone>div {
+    /*display: inline-block*/
+  }
 }
 
 #contact .contact-form .contact-form-phone img {
-    width: 40px
+  width: 40px
 }
 
 @media (min-width:992px) {
-    #contact .contact-form .contact-form-phone img {
-        width: 100px
-    }
+  #contact .contact-form .contact-form-phone img {
+    width: 100px
+  }
 }
 
 #contact .contact-form .contact-form-phone a {
-    font-family: Roboto Slab;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 22px;
-    padding-top: 8px
+  font-family: Roboto Slab;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  padding-top: 8px
 }
 
 #contact .contact-form .contact-form-phone small {
-    font-family: Roboto;
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 16px
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px
 }
 
 #contact .contact-form .contact-form-phone .mail {
-    font-family: Roboto Slab;
-    font-size: 16px;
-    color: #000
+  font-family: Roboto Slab;
+  font-size: 16px;
+  color: #000
 }
 
 #contact .contact-form .form-group input[type=email],
 #contact .contact-form .form-group input[type=number],
 #contact .contact-form .form-group input[type=text],
 #contact .contact-form .form-group select {
-    background-color: transparent;
-    border: 0;
-    border-bottom: 1px solid #4a66b0;
-    font-size: 14px;
-    display: block;
-    font-family: Roboto;
-    font-weight: 400;
-    padding: 10px 0;
-    width: 100%;
-    -webkit-appearance: none
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px solid #4a66b0;
+  font-size: 14px;
+  display: block;
+  font-family: Roboto;
+  font-weight: 400;
+  padding: 10px 0;
+  width: 100%;
+  -webkit-appearance: none
 }
 
 #contact .contact-form .form-group input[type=email]::-webkit-input-placeholder,
 #contact .contact-form .form-group input[type=number]::-webkit-input-placeholder,
 #contact .contact-form .form-group input[type=text]::-webkit-input-placeholder,
 #contact .contact-form .form-group select::-webkit-input-placeholder {
-    color: #000
+  color: #000
 }
 
 #contact .contact-form .form-group input[type=email]::-moz-placeholder,
 #contact .contact-form .form-group input[type=number]::-moz-placeholder,
 #contact .contact-form .form-group input[type=text]::-moz-placeholder,
 #contact .contact-form .form-group select::-moz-placeholder {
-    color: #000
+  color: #000
 }
 
 #contact .contact-form .form-group input[type=email]:-ms-input-placeholder,
 #contact .contact-form .form-group input[type=number]:-ms-input-placeholder,
 #contact .contact-form .form-group input[type=text]:-ms-input-placeholder,
 #contact .contact-form .form-group select:-ms-input-placeholder {
-    color: #000
+  color: #000
 }
 
 #contact .contact-form .form-group input[type=email]:-moz-placeholder,
 #contact .contact-form .form-group input[type=number]:-moz-placeholder,
 #contact .contact-form .form-group input[type=text]:-moz-placeholder,
 #contact .contact-form .form-group select:-moz-placeholder {
-    color: #000
+  color: #000
 }
 
 #contact .contact-form .form-group p {
-    color: #6b6b6b;
-    font-family: Roboto;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 16px;
-    padding: 18px 0;
-    margin: 0
+  color: #6b6b6b;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  padding: 18px 0;
+  margin: 0
 }
 
 #contact .contact-form .form-group .custom-control label {
-    font-family: Roboto;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 30px;
-    padding-left: 10px
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  padding-left: 10px
 }
 
 #contact .contact-form .form-group .custom-control label:after,
 #contact .contact-form .form-group .custom-control label:before {
-    height: 22px;
-    width: 22px;
-    line-height: 22px
+  height: 22px;
+  width: 22px;
+  line-height: 22px
 }
 
 #contact .contact-form .form-group.form-group-select:before {
-    background: url(../images/icon-arrow-down.png) no-repeat 50% transparent;
-    background-size: cover;
-    content: "";
-    display: block;
-    height: 10px;
-    position: absolute;
-    right: 0;
-    top: 25px;
-    width: 15px;
-    z-index: -100
+  background: url(../images/icon-arrow-down.png) no-repeat 50% transparent;
+  background-size: cover;
+  content: "";
+  display: block;
+  height: 10px;
+  position: absolute;
+  right: 0;
+  top: 25px;
+  width: 15px;
+  z-index: -100
 }
 
 #contact .style-submit{
