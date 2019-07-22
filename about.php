@@ -60,7 +60,7 @@
 </div><!-- preloader end -->
       
       <main>
-      	<?php include 'index/nav.php'; ?>
+      	<?php include 'index/nav_2.php'; ?>
 
       	<div id="about">
       		<header>
@@ -480,41 +480,7 @@
             </div>
           </div>
         </div>
-
-
-      	<footer>
-      		<a id="scroll-down" href="#team" class="scroll-down show">Scroll Down</a>
-      		<div class="container-fluid">
-      			<ul class="list-inline float-right">
-      				<li class="list-inline-item">
-      					<a href="#">
-      						Privacy Policy
-      					</a>
-      				</li>
-      				<li class="list-inline-item">
-      					<a href="#">
-      						Privacy Practices
-      					</a>
-      				</li>
-      				<li class="list-inline-item">
-      					<a href="#">
-      						Terms of Service
-      					</a>
-      				</li>
-      				<li class="social-media list-inline-item float-right">
-      					<a href="#">
-      						<i class="fab fa-facebook"></i>
-      					</a>
-      					<a href="#">
-      						<i class="fab fa-twitter"></i>
-      					</a>
-      					<a href="#">
-      						<i class="fab fa-instagram"></i>
-      					</a>
-      				</li>
-      			</ul>
-      		</div>
-      	</footer>
+      <?php include 'index/footer.php'; ?>
       </main>
       
       <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview")</script>
