@@ -22,29 +22,6 @@ footer ul li.social-media a {
     font-size: 14px
 }
 
-footer .scroll-down {
-    display: none;
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    bottom: -100px;
-    left: 50%;
-    margin-left: -15px;
-    text-decoration: none;
-    text-indent: -9999px;
-    background: url(../images/scroll-down-arrow.png) no-repeat 50%;
-    -webkit-animation: bounce 1s linear 0s infinite alternate none running;
-    animation: bounce 1s linear 0s infinite alternate none running;
-    -webkit-transition: all .8s cubic-bezier(.25, .46, .45, .94);
-    transition: all .8s cubic-bezier(.25, .46, .45, .94);
-    -webkit-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
-    transition-timing-function: cubic-bezier(.25, .46, .45, .94)
-}
-
-footer .scroll-down.show {
-    bottom: 45px
-}
-
 @media (min-width:992px) {
   footer ul{
     justify-content: flex-end;
@@ -54,8 +31,5 @@ footer .scroll-down.show {
   }
   footer ul li.social-media a {
       font-size: 18px
-  }
-  footer .scroll-down {
-      display: block
   }
 }

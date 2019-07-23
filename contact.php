@@ -69,7 +69,7 @@
 					</div>
 					<div class="col-lg-3">
 						<div class="form-group">
-							<input type="text" class="form-input" placeholder="Full Name">
+							<input type="text" class="form-input" placeholder="First Name">
 						</div>
 						<div class="form-group">
 							<input type="text" class="form-input" placeholder="Last Name">
