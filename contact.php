@@ -41,7 +41,6 @@
 	<div id="contact" class="">
 		<section class="container contact-form pt-5">
 			<form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
-<<<<<<< HEAD
       	<div class="row">
       		<div class="col-12">
       			<h1>We're Here to Help</h1>
