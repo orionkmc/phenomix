@@ -735,3 +735,32 @@ nav .menu ul.right li.login:before {
     background-position: center;
     background-size: cover;
 }
+
+/*  SCROLL  */
+.scroll-down {
+    display: none;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: -100px;
+    left: 50%;
+    margin-left: -15px;
+    text-decoration: none;
+    text-indent: -9999px;
+    background: url(../images/scroll-down-arrow.png) no-repeat 50%;
+    -webkit-animation: bounce 1s linear 0s infinite alternate none running;
+    animation: bounce 1s linear 0s infinite alternate none running;
+    -webkit-transition: all .8s cubic-bezier(.25, .46, .45, .94);
+    transition: all .8s cubic-bezier(.25, .46, .45, .94);
+    -webkit-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
+    transition-timing-function: cubic-bezier(.25, .46, .45, .94)
+}
+
+.scroll-down.show {
+    bottom: 45px
+}
+@media (min-width:992px) {
+  .scroll-down {
+      display: block
+  }
+}

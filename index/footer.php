@@ -1,5 +1,8 @@
 <footer class="container d-none d-xl-block">
+<<<<<<< HEAD
   <a id="scroll-down" href="#" class="scroll-down show">Scroll Down</a>  
+=======
+>>>>>>> master
   <ul class="list-inline">
     <li class="list-inline-item">
       <a data-rel="lightcase" href="legal/PrivacyPolicy/PrivacyPolicy.html" target="_blank">

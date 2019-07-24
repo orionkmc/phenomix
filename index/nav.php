@@ -28,14 +28,16 @@
         </li>
       </ul>
       <ul class="right">
-        <li class="login bar">
+        <li class="login">
           <a href="#" class="btn btn-sm btn-secondary btn-login px-3" data-toggle="modal" data-target="#modalLogin">Login</a>
         </li>
-        <li class="im bar">
+        <li class="bar"></li>
+        <li class="im">
           <a href="about.php" class="link-mobile">
             About
           </a>
         </li>
+        <li class="bar"></li>
         <li class="im">
           <a href="contact.php" class="link-mobile">
             Contact
