@@ -92,9 +92,8 @@
 		<!-- Modales -->
 		<?php include 'index/modales.php'; ?>
 	</div>
-	<a href="#" class="scroll-down show">Scroll Down</a>  
 	<!-- Footer -->
-	<?php include 'index/footer.php'; ?>
+	<?php include 'index/footer-index.php'; ?>
 	
 </main>
 <!-- desconocidas -->

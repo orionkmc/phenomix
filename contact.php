@@ -41,7 +41,6 @@
 	<div id="contact" class="pt-5">
 		<section class="container contact-form pt-5">
 			<form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
-<<<<<<< HEAD
       	<div class="row">
       		<div class="col-12">
       			<h1>We're Here to Help</h1>
@@ -76,13 +75,17 @@
       				<input type="text" class="form-input" placeholder="Last Name">
       			</div>
       			<div class="form-group required">
-      				<input type="email" class="form-input" placeholder="Email Address *" required>
+              <div class="as"></div>
+      				<input type="email" class="form-input" placeholder="Email Address" required>
       			</div>
-      			<p class="d-none d-lg-block">(*) Required fields</p>
+            <div class="form-group mb-0 mb-lg-3 ">
+              <p class="d-none p-0 d-lg-block">(*) Required fields</p>
+            </div>
       		</div>
       		<div class="col-lg-3">
       			<div class="form-group required">
-      				<input type="number" class="form-input" placeholder="Phone Number *" required>
+              <div class="as"></div>
+      				<input type="number" class="form-input" placeholder="Phone Number" required>
       			</div>
       			<div class="form-group form-group-select">
       				<select class="form-select">
@@ -96,7 +99,7 @@
       			</div>
       			<div class="form-group form-group-select required">
       				<select class="form-select">
-      					<option>I am a...*</option>
+      					<option>I am a...</option>
       					<option>Patient</option>
       					<option>Healthcare Provider</option>
       					<option>Other</option>
@@ -106,10 +109,10 @@
       				<p class="d-block d-lg-none">(*) Required fields</p>
       			</div>
       			<div class="form-group">
-      				<div class="custom-control custom-radio custom-control-inline">
-      					<input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
-      					<label class="custom-control-label" for="customRadioInline1">Accept Terms & Conditions</label>
-      				</div>						
+              <label class="container-label" for="customRadioInline1">Accept Terms & Conditions
+                <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark">
+                <span class="checkmark"></span>
+              </label>
       			</div>	
       		</div>
       		<div class="style-submit col-lg-3">

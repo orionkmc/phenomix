@@ -1,15 +1,15 @@
 #contact {
   overflow: hidden;
-  background: url(../images/contact-header.jpg) no-repeat transparent;
+  background: #efeff1;
   background-size: 100% 100%;
 }
 
 #contact .text-direction{
-  font-size: .9rem;
+  font-size: 0.7rem;
 }
 
 #contact .contact-form {
-  min-height: 100vh;
+  min-height: calc(100vh - 50px);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -22,7 +22,7 @@
 #contact .contact-form {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   padding-bottom: 6%;
 }
 
@@ -37,12 +37,8 @@
 #contact .contact-form .contact-form-phone {
   padding-top: 25px
 }
+
 @media (max-width: 991.98px){
-  #contact .contact-form {
-    min-height: 100vh;
-    display: flex;
-    justify-content: flex-start;
-  }
   #contact .contact-form h1 {
     font-size: 5vh;
     line-height: 100%;
@@ -60,6 +56,13 @@
 }
 
 @media (min-width:992px) {
+  #contact {
+    background-image: url(../images/contact-header.jpg);
+    background-size: 100% 100%;
+  }
+  #contact .contact-form {
+    justify-content: flex-end;
+  }
   #contact .contact-form .contact-form-phone>div {
     /*display: inline-block*/
   }
@@ -110,6 +113,16 @@
   padding: 5px 0;
   width: 100%;
   -webkit-appearance: none
+}
+
+.as{
+  position: relative;
+}
+.as:before{
+  content: "*";
+  position: absolute;
+  right: 0;
+  top: 5px;
 }
 
 #contact .contact-form .form-group input[type=email]::-webkit-input-placeholder,
@@ -165,6 +178,10 @@
   line-height: 22px
 }
 
+#contact .contact-form .form-group.form-group-select{
+  position: relative;
+}
+
 #contact .contact-form .form-group.form-group-select:before {
   background: url(../images/icon-arrow-down.png) no-repeat 50% transparent;
   background-size: cover;
@@ -172,8 +189,8 @@
   display: block;
   height: 10px;
   position: absolute;
-  right: 0;
-  top: 25px;
+  right: 5px;
+  top: 35%;
   width: 15px;
   z-index: -100
 }
@@ -181,6 +198,7 @@
 #contact .style-submit{
   display: flex;
   flex-direction: column-reverse;
+  padding-bottom: 5%;
 }
 
 #contact .style-submit button{
@@ -191,4 +209,76 @@
   font-size: 15px;
   font-family: Roboto Slab;
   line-height: 40px;
+}
+
+
+
+/* Customize the label (the container) */
+.container-label {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 0;
+  cursor: pointer;
+  font-size: 13px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container-label input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 22px;
+  width: 22px;
+  border-radius: 100%;
+  background-color: #fff;
+  border: 3px solid #5b72b5;
+}
+
+/* On mouse-over, add a grey background color */
+.container-label:hover input ~ .checkmark {
+}
+
+/* When the checkbox is checked, add a blue background */
+.container-label input:checked ~ .checkmark {
+  background-color: #fff;
+  border: 3px solid #5b72b5;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container-label input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container-label .checkmark:after {
+  left: 5px;
+  top: 1px;
+  width: 7px;
+  height: 13px;
+  border: solid #5b72b5;
+  border-width: 0 4px 4px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
