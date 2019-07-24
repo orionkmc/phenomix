@@ -41,7 +41,7 @@
   #contact .contact-form {
     min-height: 100vh;
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
   }
   #contact .contact-form h1 {
     font-size: 5vh;

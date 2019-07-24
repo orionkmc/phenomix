@@ -38,7 +38,7 @@
 <main>
 	<?php include 'index/nav_2.php'; ?>
 
-	<div id="contact" class="pt-5">
+	<div id="contact" class="">
 		<section class="container contact-form pt-5">
 			<form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
       <div class="row">
