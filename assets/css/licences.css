@@ -2,7 +2,9 @@
 #licences, 
 #licences2{
     background: url(../images/bg-licences.png) no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
+    align-items: flex-end;
+    padding-bottom: 5%;
     /*padding: 20% 50px 0 50px;*/
 }
 
@@ -11,9 +13,13 @@
 #licences2 .licences .content,
 #licences2 .affiliations .content{
     background: #fff;
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1)80%, rgba(255, 255, 255, 0));
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .9)80%, rgba(255, 255, 255, 0));
     border-radius: 15px;
     height: 90%;
+}
+
+.licences-affiliations{
+    margin-top: 25%;
 }
 
 #licences .licences .content h1,

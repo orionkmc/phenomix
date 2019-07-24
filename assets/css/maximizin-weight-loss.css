@@ -60,6 +60,8 @@
   padding: 0.5rem;
   cursor: pointer;    
   transition: all 1s;
+  height: 114px !important;
+  width: 114px !important;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype:hover{
   fill: #fff;
