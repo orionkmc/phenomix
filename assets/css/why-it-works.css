@@ -2,16 +2,17 @@
 #why-it-works {
     position: relative
 }
+@media (max-width: 991.98px){
+  #why-it-works{
+    background-color: #ebebf0;
+  }
+}
 
 @media (min-width:992px) {
     #why-it-works {
         background: url(../images/bg-affiliations.jpg) no-repeat 50% transparent;
         background-size: cover
     }
-}
-
-#why-it-works .row.align-items-center {
-    background-color: #fff
 }
 
 @media (min-width:992px) {
@@ -193,4 +194,10 @@
 }
 #publications .content .arrows a {
     font-size: 45px !important;
+}
+
+@media (max-width: 991.98px){
+  #why-it-works-2{
+    background-color: #ebebf0;
+  }
 }

@@ -2,6 +2,11 @@
   padding-top: 50px;
   padding-bottom: 50px;
 }
+@media (max-width: 991.98px){
+  #maximizing-weight-loss{
+    background-color: #ebebf0;
+  }
+}
 #maximizing-weight-loss .middle-up .content h1{
   color: #1E4484;
   font-family: Roboto Slab;

@@ -1,5 +1,5 @@
 <div class="swiper-slide d-lg-none">
-    <section id="licences2" class="px-3">
+    <section id="licences2" class="pt-5 pt-lg-0 px-3">
         <div class="row licences-affiliations h-100">
             <div class="col-12 col-lg-9 affiliations mt-5 mt-lg-0">
                 <div class="content p-3 text-center appear" data-appear-class="fadeInDown" data-toggle="appear">

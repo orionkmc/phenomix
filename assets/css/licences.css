@@ -1,9 +1,16 @@
-
-#licences, 
-#licences2{
-    background: url(../images/bg-licences.png) no-repeat;
-    background-size: cover;
-    /*padding: 20% 50px 0 50px;*/
+@media (min-width: 992px){
+    #licences, 
+    #licences2{
+        background: url(../images/bg-licences.png) no-repeat;
+        background-size: cover;
+        /*padding: 20% 50px 0 50px;*/
+    }
+}
+@media (max-width: 991.98px){
+  #licences,
+  #licences2{
+    background-color: #ebebf0;
+  }
 }
 
 #licences .licences .content,

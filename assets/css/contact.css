@@ -1,7 +1,15 @@
-#contact {
-  overflow: hidden;
-  background: url(../images/contact-header.jpg) no-repeat transparent;
-  background-size: 100% 100%;
+@media (min-width: 992px){
+  #contact {
+    overflow: hidden;
+    background: url(../images/contact-header.jpg) no-repeat transparent;
+    background-size: 100% 100%;
+  }
+}
+
+@media (max-width: 991.98px){
+  #contact{
+    background-color: #ebebf0;
+  }
 }
 
 #contact .text-direction{
