@@ -6,17 +6,14 @@
   color: #1E4484;
   font-family: Roboto Slab;
   font-size: 5vh;
-  font-weight: 300;
+  font-weight: 500;
 }
 #maximizing-weight-loss .middle-up .content p{
   color: #1E4484;
   font-family: Roboto Lt;
   font-size: 2vh;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 100%;
-}
-#maximizing-weight-loss .middle-up .content p strong{
-  font-weight: bold;
 }
 #maximizing-weight-loss .middle-up .content p small{
   color: #1E4484;
@@ -29,13 +26,13 @@
   font-family: Roboto Slab;
   color: #1E4484;
   font-size: 5vh;
-  font-weight: 300;
+  font-weight: 500;
 }
 #maximizing-weight-loss .middle-down .content p{
   color: #1E4484;
   font-family: Roboto Lt;
   font-size: 2vh;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 100%;
 }
 #maximizing-weight-loss .middle-down .content p a{
@@ -46,7 +43,6 @@
   font-family: Roboto Slab;
   color: #1E4484;
   font-size: 2.4vh;
-  font-weight: 600;
 }
 #maximizing-weight-loss .middle-down .content .items-phenotype p{
   font-family: Roboto Lt;
