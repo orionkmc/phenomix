@@ -1,29 +1,34 @@
 <div class="swiper-slide" data-hash="maximizing-weight-loss">
-  <section id="maximizing-weight-loss" class="container-fluid">
-    <div class="middle-up">
-      <div class="row h-100">
-        <div class="col-12 col-lg-6 h-100 pl-lg-5 d-flex align-items-center bg-gradient">
-          <div class="content">
-            <img class="img-fluid d-lg-none" src="assets/images/maximizing-header-lg.jpg" alt="">
-            <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
-              You are Unique
-            </h1>
-            <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
-              <strong>Your phenotype is made up by the combination of your genes and interaction with your environment.</strong>
-            </p> 
-            <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
-              After decades of research at the Mayo Clinic, we have discovered a new way to classify obesity using each patient’s unique phenotype. Understanding your phenotype can help pinpoint what is driving your weight gain and limiting your ability to lose weight. The phenotype is the underpinning of your obesity; and now, we can identify it with a simple blood test.
-            </p>
-            <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear">PhenoTest is a blood test which measures your DNA as well as certain metabolites and hormones in your body that are related to obesity. Together, these biomarkers from the test can be used identify your unique phenotype.*</p>
-            <p data-toggle="appear" data-appear-class="fadeInDown" class="appear delay-1s">
-              <small>* Exclusively licensed from Mayo Clinic.</small>
-            </p>
+  <section id="maximizing-weight-loss">
+    <div class="pre-bg-img h-50">
+      <div class="bg-img h-100">
+        <div class="container-fluid middle-up h-100 pl-5p">
+          <div class="row h-100">
+            <div class="col-12 col-lg-6 h-100 d-flex align-items-center bg-gradient">
+              <div class="content">
+                <img class="img-fluid d-lg-none" src="assets/images/maximizing-header-lg.jpg" alt="">
+                <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
+                  You are Unique
+                </h1>
+                <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
+                  <strong>Your phenotype is made up by the combination of your genes and interaction with your environment.</strong>
+                </p> 
+                <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
+                  After decades of research at the Mayo Clinic, we have discovered a new way to classify obesity using each patient’s unique phenotype. Understanding your phenotype can help pinpoint what is driving your weight gain and limiting your ability to lose weight. The phenotype is the underpinning of your obesity; and now, we can identify it with a simple blood test.
+                </p>
+                <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear">PhenoTest is a blood test which measures your DNA as well as certain metabolites and hormones in your body that are related to obesity. Together, these biomarkers from the test can be used identify your unique phenotype.*</p>
+                <p data-toggle="appear" data-appear-class="fadeInDown" class="appear delay-1s">
+                  <small>* Exclusively licensed from Mayo Clinic.</small>
+                </p>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 h-100 bg-img"></div>
       </div>
     </div>
-    <div class="middle-down d-none d-lg-block">
+
+
+    <div class="middle-down d-none d-lg-block container-fluid">
       <div class="row h-100">
         <div class="col-12 h-100 px-5">
           <div class="content text-center">

@@ -45,7 +45,7 @@
 }
 
 #publications .content .arrows a:last-child {
-    right: 160px;
+    right: 0;
 }
 
 @media (max-width:575.98px) {

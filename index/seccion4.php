@@ -1,5 +1,5 @@
 <div class="swiper-slide" data-hash="why-it-works">
-  <section id="why-it-works" class="container-fluid">
+  <section id="why-it-works" class="container-fluid pl-5p">
     <div class="row align-items-center">
       <div class="col-12 col-lg-6 h-50 d-flex align-items-center">
         <div class="content">
@@ -14,13 +14,13 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-lg-6 d-none d-lg-block content-img h-50">
-        <img src="assets/images/maximizing-weight-loss-2/grafico_1.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid h-100">
+      <div class="col-12 col-lg-6 d-none d-lg-block content-img h-50 pt-3">
+        <img src="assets/images/maximizing-weight-loss-2/grafico_1.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid">
       </div>
-      <div class="col-12 col-lg-6 px-5 px-lg-0 h-50">
+      <div class="col-12 col-lg-6 h-50">
         <div class="swiper-slide">
           <section id="publications">
-            <div class="content appear pt-2" data-appear-class="fadeInDown" data-toggle="appear">
+            <div class="content appear pt-2 h-100" data-appear-class="fadeInDown" data-toggle="appear">
               <div class="publications">
                 <div id="slick-publications" class="px-3 px-lg-0">
                   <div class="publication">
@@ -201,13 +201,13 @@
                   <i class="fas fa-chevron-right"></i>
                 </a>
               </div>
-              <p class=" text-center text-lg-right">Successful weight loss defined by treatment response of >3% weight loss at 3 months and >10% weight loss at 6 months.</p>
+              <p class=" text-center text-lg-right">Successful weight loss defined by treatment response of >3% weight loss <br> at 3 months and >10% weight loss at 6 months.</p>
             </div>
           </section>
         </div>
       </div>
-      <div class="col-12 col-lg-6 d-none d-lg-block content-img h-50">
-        <img src="assets/images/maximizing-weight-loss-2/grafico_2.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid h-100">
+      <div class="col-12 col-lg-6 d-none d-lg-block content-img h-50 pb-3">
+        <img src="assets/images/maximizing-weight-loss-2/grafico_2.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid">
       </div>
     </div>
   </section>

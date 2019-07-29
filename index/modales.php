@@ -51,13 +51,11 @@
 <div class="modal fade modales-phenotype" id="modalHungryBrain" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
-      </div>
-      <div class="modal-body">
-        <h5 class="modal-title" id="exampleModalLabel">Hungry Brain (50)</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Hungry Brain</h5>
         <br>
         <p>The brain’s inability to determine when a meal is over is the main cause of obesity with this phenotype, which is also known as abnormal satiation. The good news is that, once this is acknowledged, you can implement strategies to help limit your intake during meals. Different interventions work by targeting neurotransmitters that are related to brain-gut signaling and your doctor can help you determine if these are right for you.</p>
       </div>
@@ -67,13 +65,11 @@
 <div class="modal fade modales-phenotype" id="modalHungryGut" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
-      </div>
-      <div class="modal-body">
-        <h5 class="modal-title" id="exampleModalLabel">Hungry Gut (30)</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Hungry Gut</h5>
         <br>
         <p>Feeling hungry sooner or in periods between meals is frequently caused by your stomach and gut sending empty signals to your brain; this is also known as abnormal satiety. Helping the gut to know to wait is the key to reducing weight with this phenotype and some interventions are designed to help block these early hungry signals.</p>
       </div>
@@ -83,13 +79,11 @@
 <div class="modal fade modales-phenotype" id="modalEmotionalHunger" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
-      </div>
-      <div class="modal-body">
-        <h5 class="modal-title" id="exampleModalLabel">Emotional Hunger (15)</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Emotional Hunger</h5>
         <br>
         <p>People who respond to this phenotype tend to seek food as a reaction to negative or positive emotions; this is also known as emotional eating. Once you improve your ability to manage these emotions, you’re on the right track for weight reduction. Cognitive therapy and medications that address some of the underlying emotions can be very helpful and lead to weight loss for individuals with this phenotype.</p>
       </div>
@@ -99,13 +93,11 @@
 <div class="modal fade modales-phenotype" id="modalSlowBurn" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
-      </div>
-      <div class="modal-body">
-        <h5 class="modal-title" id="exampleModalLabel">Slow Burn (5)</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Slow Bur</h5>
         <br>
         <p>With this phenotype, your metabolic rate is lower than normal; this is also known as abnormal energy expenditure. Understanding the underlying condition that is making your energy expenditure inefficient is essential to address this problem. In this phenotype, most effective strategy for weight reduction is to increase activity and implementing an effective exercise routine.</p>
       </div>

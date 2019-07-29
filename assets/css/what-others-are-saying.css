@@ -6,12 +6,14 @@
 
 @media (min-width:992px) {
     #what-others-are-saying {
+        padding-top: 50px;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
         -webkit-box-align: center;
         -ms-flex-align: center;
-        align-items: center
+        align-items: center;
+        justify-content: center;
     }
 }
 
@@ -21,7 +23,6 @@
     color: #fff;
     padding: 65px 20px;
     text-align: center;
-    margin: auto
 }
 
 @media (min-width:992px) {
@@ -32,10 +33,10 @@
 
 #what-others-are-saying .header .container h2 {
     color: #61e0e4;
-    font-family: Roboto Slab;
-    font-weight: 300;
-    font-size: 30px;
-    line-height: 32px;
+    font-size: 48px !important;
+    line-height: 50px !important;
+    font-weight: 300 !important;
+    font-family: Roboto Slab !important;
     letter-spacing: -.01em;
     text-align: left;
     margin-bottom: 20px
@@ -52,7 +53,6 @@
         font-size: 43px;
         line-height: 45px;
         position: absolute;
-        left: 10%;
         top: 20%;
     }
 }

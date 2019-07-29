@@ -1,4 +1,10 @@
 
+#about .container-fluid {
+  display: flex;
+  min-height: 100%;
+  height: 100vh;
+  align-items: flex-end;
+}
 #about .team {
     background-color: #f0f2f4;
     padding: 25px 0
@@ -220,24 +226,23 @@
 
 #about header .content {
     max-width: 640px;
-    padding: 20px 35px;
     text-align: center;
-    width: 100%
+    width: 100%;
+    padding-bottom: 83px;
 }
 
 @media (min-width:992px) {
     #about header .content {
-        bottom: 60px;
-        left: 20px;
-        position: absolute;
         text-align: left
     }
 }
 
 #about header .content h1 {
-    color: #525e86;
-    font-family: Roboto Slab;
-    font-weight: 300;
+    font-size: 48px !important;
+    line-height: 50px !important;
+    font-weight: 300 !important;
+    font-family: Roboto Slab !important;
+    color: #4a66b0;
     letter-spacing: -.01em
 }
 
@@ -257,9 +262,9 @@
 
 @media (min-width:992px) {
     #about header .content h4 {
-        font-size: 26px;
-        line-height: 28px;
-        margin-bottom: 40px
+        font-size: 24px;
+        line-height: 26px;
+        margin-bottom: 16px
     }
 }
 
@@ -272,8 +277,9 @@
 }
 
 @media (min-width:992px) {
-    #about header .content p {
-        font-size: 15px;
-        line-height: 17px
-    }
+  #about header .content p {
+    font-size: 14px;
+    line-height: 16px
+    font-family: Roboto;
+  }
 }

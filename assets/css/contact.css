@@ -28,10 +28,10 @@
 
 #contact .contact-form h1 {
   color: #4a66b0;
-  font-size: 43px;
-  line-height: 45px;
-  font-family: Roboto Slab;
-  font-weight: 300;
+  font-size: 48px !important;
+  line-height: 50px !important;
+  font-weight: 300 !important;
+  font-family: Roboto Slab !important;
   margin: 30px 0;
 }
 #contact .contact-form .contact-form-phone {

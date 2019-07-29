@@ -1,47 +1,148 @@
 
 #home {
-    position: relative
+  padding-top: 100px;
+  padding-bottom: 35px;
+  display: flex;
+  align-items: flex-end;
+}
+
+#home .header-text{
+  padding-bottom: 3rem;
+}
+
+
+.header-text.row {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: hidden
+}
+
+@media (min-width:992px) {
+  .header-text.row {
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end
+  }
+}
+
+.header-text.row h1 {
+  color: #4a66b0;
+  font-family: Roboto Slab;
+  font-size: 36px;
+  font-weight: 300;
+  letter-spacing: -.025em;
+  line-height: 38px;
+  margin-bottom: 25px
+}
+
+@media (min-width:992px) {
+  .header-text.row h1 {
+    font-size: 48px;
+    line-height: 50px
+  }
+}
+
+.header-text.row p {
+  font-family: Roboto Slab;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: -.01em
+}
+
+@media (min-width:992px) {
+  .header-text.row p {
+    font-size: 24px;
+    line-height: 26px
+  }
+}
+
+.header-text.row p.p2 {
+  font-family: Roboto;
+  font-size: 11px;
+  line-height: 12px
+}
+
+@media (min-width:992px) {
+  .header-text.row p.p2 {
+    font-size: 14px;
+    line-height: 16px
+  }
+}
+
+.header-text.row .logo-mayo {
+    margin-top: 60px
+}
+
+@media (min-width:992px) {
+  .header-text.row .logo-mayo {
+      margin-top: 20px
+  }
+}
+
+.header-text.row .logo-mayo p {
+  color: #4a66b0;
+  font-family: Roboto Slab;
+  font-weight: 400;
+  font-size: 11px;
+  letter-spacing: .01em;
+  line-height: 12px;
+  margin-top: 13px;
+  max-width: 100%
+}
+
+@media (min-width:992px) {
+  .header-text.row .logo-mayo p {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+    /*margin-left: 10px;*/
+    margin-top: 0;
+    max-width: 150px;
+    vertical-align: middle
+  }
 }
 
 #home:before {
-    background-color: hsla(0, 0%, 100%, .7);
-    content: "";
-    top: 0;
-    left: 0;
-    z-index: -99
+  background-color: hsla(0, 0%, 100%, .7);
+  content: "";
+  top: 0;
+  left: 0;
+  z-index: -99
 }
 
 #home:before,
 #home video {
-    position: fixed;
-    bottom: 0;
-    right: 0
+  position: fixed;
+  bottom: 0;
+  right: 0
 }
 
 #home video {
-    min-width: 100vw;
-    min-height: 100vh;
-    z-index: -100
+  min-width: 100vw;
+  min-height: 100vh;
+  z-index: -100
 }
 
 #home .icon-mouse {
-    bottom: 35px;
-    left: 0;
-    position: absolute;
-    right: 0
+  bottom: 35px;
+  left: 0;
+  position: absolute;
+  right: 0
 }
 
 #home .icon-mouse a {
-    display: inline-block
+  display: inline-block
 }
 
 #home .icon-mouse a svg {
-    height: 42px;
-    fill: #4a66b0
+  height: 42px;
+  fill: #4a66b0
 }
 
 @media (min-width:992px) {
-    #home .icon-mouse a svg {
-        height: 42px
-    }
+  #home .icon-mouse a svg {
+    height: 42px
+  }
 }

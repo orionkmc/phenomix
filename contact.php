@@ -39,7 +39,7 @@
 	<?php include 'index/nav_2.php'; ?>
 
 	<div id="contact" class="pt-5">
-		<section class="container contact-form pt-5">
+		<section class="container-fluid contact-form pt-5 pl-5p">
 			<form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
       	<div class="row">
       		<div class="col-12">

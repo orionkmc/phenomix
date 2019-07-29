@@ -1,12 +1,12 @@
 @media (min-width: 992px) {
     .father-hiw{
-        padding-top: 50px;
     }
 }
 
 #how-it-works {
     background-color: #fff;
-    padding: 60px 0;
+    padding-top: 50px;
+    padding-bottom: 35px;
     position: relative;
     overflow: hidden
 }
@@ -95,6 +95,10 @@
 
 @media (min-width:992px) {
     #how-it-works .container h2 {
+        font-size: 48px !important;
+  
+        font-weight: 300 !important;
+        font-family: Roboto Slab !important;
         font-size: 6vh;
         line-height: 62px;
         margin-bottom: 5px

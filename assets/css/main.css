@@ -159,7 +159,9 @@ section,
 section .overflow-hidden {
     overflow: hidden
 }
-
+.pl-5p{
+    padding-left: 5%;
+}
 .appear {
     opacity: 0
 }
@@ -207,12 +209,6 @@ section .overflow-hidden {
 .appear.delay-900 {
     -webkit-animation-delay: .9s;
     animation-delay: .9s
-}
-
-@media (min-width:992px) {
-    .pl-lg-100 {
-        padding-left: 100px
-    }
 }
 
 .btn-bio {
@@ -263,7 +259,9 @@ section .overflow-hidden {
     font-size: 0;
     padding: 0;
     position: relative;
-    width: 21px
+    width: 21px;
+    display: flex;
+    justify-content: center;
 }
 
 @media (min-width:992px) {
@@ -295,7 +293,8 @@ section .overflow-hidden {
     height: 1px;
     position: absolute;
     top: 6px;
-    width: 10px
+    width: 10px;
+    right: -10px;
 }
 
 @media (min-width:992px) {
@@ -311,111 +310,6 @@ section .overflow-hidden {
 
 .slick-dots-container .slick-dots li:last-child button:after {
     display: none
-}
-
-@media (min-width:992px) {
-    .header-text {
-        padding-bottom: 50px
-    }
-}
-
-@media (min-width:1200px) {
-    .header-text {
-        padding-bottom: 100px
-    }
-}
-
-.header-text.row {
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    overflow: hidden
-}
-
-@media (min-width:992px) {
-    .header-text.row {
-        -webkit-box-align: end;
-        -ms-flex-align: end;
-        align-items: flex-end
-    }
-}
-
-.header-text.row h1 {
-    color: #4a66b0;
-    font-family: Roboto Slab;
-    font-size: 36px;
-    font-weight: 300;
-    letter-spacing: -.025em;
-    line-height: 38px;
-    margin-bottom: 25px
-}
-
-@media (min-width:992px) {
-    .header-text.row h1 {
-        font-size: 48px;
-        line-height: 50px
-    }
-}
-
-.header-text.row p {
-    font-family: Roboto Slab;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 22px;
-    letter-spacing: -.01em
-}
-
-@media (min-width:992px) {
-    .header-text.row p {
-        font-size: 24px;
-        line-height: 26px
-    }
-}
-
-.header-text.row p.p2 {
-    font-family: Roboto;
-    font-size: 11px;
-    line-height: 12px
-}
-
-@media (min-width:992px) {
-    .header-text.row p.p2 {
-        font-size: 14px;
-        line-height: 16px
-    }
-}
-
-.header-text.row .logo-mayo {
-    margin-top: 60px
-}
-
-@media (min-width:992px) {
-    .header-text.row .logo-mayo {
-        margin-top: 20px
-    }
-}
-
-.header-text.row .logo-mayo p {
-    color: #4a66b0;
-    font-family: Roboto Slab;
-    font-weight: 400;
-    font-size: 11px;
-    letter-spacing: .01em;
-    line-height: 12px;
-    margin-top: 13px;
-    max-width: 100%
-}
-
-@media (min-width:992px) {
-    .header-text.row .logo-mayo p {
-        display: inline-block;
-        font-size: 14px;
-        line-height: 16px;
-        /*margin-left: 10px;*/
-        margin-top: 0;
-        max-width: 150px;
-        vertical-align: middle
-    }
 }
 
 .modal .modal-body h5 {
@@ -747,7 +641,7 @@ nav .menu ul.right li.login:before {
     margin-left: -15px;
     text-decoration: none;
     text-indent: -9999px;
-    background: url(../images/scroll-down-arrow.png) no-repeat 50%;
+    background: url(../images/scroll-down-arrow-blue-2.png) no-repeat 50%;
     -webkit-animation: bounce 1s linear 0s infinite alternate none running;
     animation: bounce 1s linear 0s infinite alternate none running;
     -webkit-transition: all .8s cubic-bezier(.25, .46, .45, .94);

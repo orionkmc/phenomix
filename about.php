@@ -63,17 +63,25 @@
 
   <div id="about">
     <header>
-      <div class="content">
-        <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
-          About
-        </h1>
-        <h4 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
-          Individualized Intervention <br>for Unique Patients
-        </h4>
-        <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
-          <p>
-            Phenomix Sciences is a comprehensive, data driven platform that brings precision medicine to obesity management. Our first product, licensed from the Mayo Clinic, is a novel blood test supported with an AI-driven algorithm that classifies the unique pathophysiological phenotype of patients with obesity. This disruptive new approach can be applied clinically to individualize therapy selections and improve overall weight-loss outcomes.
-          </p>
+      <div class="container-fluid pl-5p">
+        <div class="content">
+          <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
+            About
+          </h1>
+          <h4 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
+            Individualized Intervention <br>for Unique Patients
+          </h4>
+          <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
+            <p>
+              Phenomix Sciences is a comprehensive, data driven platform that <br>
+              brings precision medicine to obesity management. Our first <br>
+              product, licensed from the Mayo Clinic, is a novel blood test <br>
+              supported with an AI-driven algorithm that classifies the unique <br>
+              pathophysiological phenotype of patients with obesity. This <br>
+              disruptive new approach can be applied clinically to individualize <br>
+              therapy selections and improve overall weight-loss outcomes.
+            </p>
+          </div>
         </div>
       </div>			
     </header>

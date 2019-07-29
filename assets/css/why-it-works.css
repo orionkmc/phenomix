@@ -6,7 +6,6 @@
 @media (min-width:992px) {
     #why-it-works {
         background: url(../images/bg-affiliations.jpg) no-repeat 50% transparent;
-        background-size: cover
     }
 }
 
@@ -40,12 +39,11 @@
 }
 
 @media (min-width:992px) {
-    #why-it-works .row.align-items-center .content {
-        padding-left: 5rem;
-        padding-right: 5rem;
-        padding-top: 5rem;
-        margin: auto
-    }
+  #why-it-works .row.align-items-center .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 }
 
 #why-it-works .row.align-items-center .content h1 {
@@ -60,9 +58,12 @@
 
 @media (min-width:992px) {
     #why-it-works .row.align-items-center .content h1 {
-        color: #1e4484;
-        font-size: 48px;
-        line-height: 52px;
+        font-size: 48px !important;
+        line-height: 50px !important;
+        font-weight: 300 !important;
+        font-family: Roboto Slab !important;
+        color: #4a66b0;
+
         margin-bottom: 30px;
         text-align: left
     }
@@ -156,8 +157,8 @@
     }
 }
 #why-it-works{
-  padding-top: 50px;
-  padding-bottom: 45px;
+  padding-top: 65px;
+  padding-bottom: 35px;
 }
 #why-it-works .align-items-center{
   align-items: unset !important;
@@ -174,23 +175,29 @@
   font-size: 2vh !important;
   line-height: 110% !important;
   padding-left: .5rem;
-  padding-right: .5rem;
+  padding-right: 2rem;
 }
 #why-it-works .align-items-center .content a{
   color: #1e4484;
-  font-size: 2vh !important;
+  font-size: 2.5vh !important;
+  font-family: Roboto Slab;
   text-decoration: underline;
 }
 @media (min-width: 992px){
   #why-it-works .align-items-center .content-img{
     display: flex !important;
     justify-content: center;
-}
+    align-items: center;
+    background: #fff;
+  }
+  #why-it-works .align-items-center .content-img img{
+    height: 90%;
+  }
 }
 #publications .content .publication .appear {
   margin: 0 auto;
-  max-width: 220px !important;
 }
+
 #publications .content .arrows a {
     font-size: 45px !important;
 }
