@@ -3,10 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="description" content="">
-	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+  	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
 	<title>Phenomix</title>
 	<link rel="apple-touch-icon" href="apple-touch-icon.png">
-
 	<!-- librerias -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="assets/dist/swiper/dist/css/swiper.css">
@@ -34,7 +36,6 @@
 	<link rel="stylesheet" href="assets/css/affiliations.css">
 	<link rel="stylesheet" href="assets/css/four-phenotypes.css">
 	<link rel="stylesheet" href="assets/css/publications.css">
-
 	<script src="scripts/vendor/modernizr.js"></script>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<!--Popup Legales-->
@@ -50,7 +51,7 @@
 		}
 	</style>
 </head>
-<body id="page-">
+<body id="page-" onload="setTimeout(function() { window.scrollTo(0, 1) }, 100);">
 <!--[if IE]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
@@ -105,5 +106,18 @@
 <script type="text/javascript" src="js/flowtype.js"></script>
 <script type="text/javascript" src="js/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
 <script src="js/lightbox.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	// iOS web app full screen hacks.
+	if(window.navigator.standalone == true) {
+		// make all link remain in web app mode.
+		$('a').click(function() {
+			window.location = $(this).attr('href');
+			return false;
+		});
+	}
+});
+</script>
+
 </body>
 </html>

@@ -1,8 +1,15 @@
 
-#licences, 
+#licences{
+  height: 100%;
+  padding: 0px 7%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+#licences,
 #licences2{
-    background: url(../images/bg-licences.png) no-repeat;
-    background-size: 100% 100%;
+    background: #efeff1;
     align-items: flex-end;
     padding-bottom: 5%;
     /*padding: 20% 50px 0 50px;*/
@@ -12,16 +19,22 @@
 #licences .affiliations .content,
 #licences2 .licences .content,
 #licences2 .affiliations .content{
-    background: #fff;
-    background: linear-gradient(to bottom, rgba(255, 255, 255, .9)80%, rgba(255, 255, 255, 0));
-    border-radius: 15px;
-    height: 90%;
+  background: #fff;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 1)30%, rgba(255, 255, 255, 0)80%);
+  border-radius: 15px;
+  padding-top: 80px !important;
 }
 
+ #licences2 .affiliations .content{
+  padding-top: 15px !important;
+}
 .licences-affiliations{
     margin-top: 25%;
 }
 
+#licences .img-fluid {
+  max-width: 75%;
+}
 .img-container{
   display: flex;
   flex-wrap: wrap;
@@ -40,18 +53,24 @@
 #licences .affiliations .content h1{
     color: #1e4484;
     font-size: 32px;
-    line-height: 50px;
+    line-height: 100%;
     font-family: Roboto Slab;
-    font-weight: 300;
+    font-weight: 100;
     letter-spacing: -.025em;
+    margin-bottom: 30px;
+}
+
+#licences .licences .content p{
+    color: #1e4484;
+    font-family: Roboto Lt;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 0;
 }
 
 @media (max-width:575.98px){
-    #licences .licences .content h1{
-        font-size: 28px;
-    }
     #licences2 .affiliations .content h1{
-        font-size: 28px;
+        font-size: 19px;
         color: #1e4484;
         font-family: Roboto Slab;
         font-weight: 300;
@@ -59,8 +78,32 @@
     }
 }
 
-#licences .licences .content p{
-    color: #1e4484;
-    font-family: Roboto Lt;
-    font-size: 13px;
+@media (min-width:992px) {
+  #licences{
+    justify-content: flex-end;
+  }
+  .licences-affiliations {
+    margin-top: 25%;
+  }
+  #licences,
+  #licences2{
+    background: url(../images/background/bg-licences.jpg) no-repeat;
+    background-size: cover;
+  }
+  #licences .licences .content h1,
+  #licences .affiliations .content h1{
+    line-height: 50px;
+  }
+  #licences .img-fluid {
+    max-width: 100%;
+  }
+  #licences .licences .content,
+  #licences .affiliations .content,
+  #licences2 .licences .content,
+  #licences2 .affiliations .content{
+    background: linear-gradient(to bottom, rgba(255, 255, 255, .9)80%, rgba(255, 255, 255, 0));
+    border-radius: 15px;
+    height: 90%;
+    padding-top: 15px !important;
+  }
 }

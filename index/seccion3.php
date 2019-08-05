@@ -1,18 +1,18 @@
 <div class="swiper-slide d-lg-none" data-hash="maximizing-weight-loss-2">
-  <section id="maximizin-weight-loss-2" class="container-fluid pt-5">
-    <div class="row align-items-center">
+  <section id="maximizin-weight-loss-2" class="container-fluid">
+    <div class="row">
       <div class="col-12 text-center">
-        <div class="content">
-          <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear mt-5">
+        <div class="content h-100">
+          <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
             Four Primary Types of Obesity
           </h1>
           <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
             <strong>Now using a <a href="#" data-modall=".modal-omics" style="text-decoration: underline;;">multi-level “omics”</a> test developed at Mayo Clinic, we can accurately predict your obesity <a href="#" data-modall=".modal-phenotype" style="text-decoration: underline;;">phenotype</a> with a sensitivity and specificity > 90%.</strong>
           </p>
-          <div id="slick-phenotype" class="m-5">
+          <div id="slick-phenotype" class="">
             <div class="publication">
               <a href="#" class="link-no-decoration" data-toggle="modal" data-target="#modalHungryBrain">
-                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
+                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype width-img m-auto">
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                     <g>
                       <g>
@@ -45,7 +45,7 @@
             </div>
             <div class="publication">
               <a href="#" class="link-no-decoration" data-toggle="modal" data-target="#modalHungryGut">
-                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
+                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype width-img m-auto">
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                     <g>
                       <g>
@@ -108,7 +108,7 @@
             </div>
             <div class="publication">
               <a href="#" class="link-no-decoration" data-toggle="modal" data-target="#modalEmotionalHunger">
-                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
+                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype width-img m-auto">
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                     <path d="M258,160c-7.7-23.2-22.1-57.8-57.7-90.8c-33.4-31.1-65-54.2-65.3-54.4c-1.4-1-3.2-1.2-4.7-0.4c-1.5,0.8-2.5,2.3-2.6,4
                     c0,0.5-2,46.8-60,106.2c-31.7,32.4-40,78.3-21.3,117c20.2,41.6,68,44.5,70,44.6c2.6,0.1,4.7-1.8,4.8-4.4c0.1-2.5-1.8-4.7-4.4-4.8
@@ -129,7 +129,7 @@
             </div>
             <div class="publication">
               <a href="#" class="link-no-decoration" data-toggle="modal" data-target="#modalSlowBurn">
-                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype w-75 m-auto">
+                <div data-toggle="appear" data-appear-class="fadeInDown" class="appear icon-phenotype width-img m-auto">
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                     <g>
                       <g>

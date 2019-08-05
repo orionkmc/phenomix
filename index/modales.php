@@ -57,7 +57,7 @@
         </button>
         <h5 class="modal-title" id="exampleModalLabel">Hungry Brain</h5>
         <br>
-        <p>The brain’s inability to determine when a meal is over is the main cause of obesity with this phenotype, which is also known as abnormal satiation. The good news is that, once this is acknowledged, you can implement strategies to help limit your intake during meals. Different interventions work by targeting neurotransmitters that are related to brain-gut signaling and your doctor can help you determine if these are right for you.</p>
+        <p>The brain’s inability to determine when a meal is over is the main cause of obesity with this phenotype, which is also known as abnormal satiation or fullness.  Abnormal satiation has been characterized by increased calorie intake during meal periods using ad libitum buffet meals and nutrient drink feeding paradigm tests. Presence of certain satiation-related gene variants and/or low levels of certain metabolites predict the satiation/hungry brain obesity phenotype. Along with implementing strategies to limit intake during meals, some weight-loss interventions work by targeting neurotransmitters that are related to brain-gut signaling and may prove effective in treating a dominant satiation phenotype.</p>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@
         </button>
         <h5 class="modal-title" id="exampleModalLabel">Hungry Gut</h5>
         <br>
-        <p>Feeling hungry sooner or in periods between meals is frequently caused by your stomach and gut sending empty signals to your brain; this is also known as abnormal satiety. Helping the gut to know to wait is the key to reducing weight with this phenotype and some interventions are designed to help block these early hungry signals.</p>
+        <p>Feeling hungry sooner or in periods between meals is frequently caused by the stomach and gut sending empty signals to the brain; this is also known as abnormal satiety.  Abnormal satiety has been characterized by rapid gastric emptying after meals as measured with scintigraphy imaging techniques or by visual analog scores for satiety after a standard meal.  Patients with a dominant satiety/hungry gut phenotype will return to a state of hunger between meals faster than other phenotypes. Presence of certain satiety-related gene variants and/or low levels of certain metabolites may be used to predict the hungry gut phenotype. Some weight loss-interventions work by targeting the early satiety signals and may prove effective in treating a dominant satiety phenotype.</p>
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@
         </button>
         <h5 class="modal-title" id="exampleModalLabel">Emotional Hunger</h5>
         <br>
-        <p>People who respond to this phenotype tend to seek food as a reaction to negative or positive emotions; this is also known as emotional eating. Once you improve your ability to manage these emotions, you’re on the right track for weight reduction. Cognitive therapy and medications that address some of the underlying emotions can be very helpful and lead to weight loss for individuals with this phenotype.</p>
+        <p>Seeking food as a reaction to negative or positive emotions, or as a coping mechanism can be defined as emotional hunger. Emotional hunger has been characterized by high levels of cravings, anxiety, and depression as measured with tools such as the Three Eating Factor Questionnaire or the Hospital Anxiety Depression Scale (HADS). Presence of certain gene variants and/or high levels of certain metabolites may be used to predict the emotional hunger obesity phenotype. Cognitive therapy and medications that address some of the underlying emotions or psychological conditions may be helpful and lead to weight-loss for patients with this phenotype.</p>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@
         </button>
         <h5 class="modal-title" id="exampleModalLabel">Slow Bur</h5>
         <br>
-        <p>With this phenotype, your metabolic rate is lower than normal; this is also known as abnormal energy expenditure. Understanding the underlying condition that is making your energy expenditure inefficient is essential to address this problem. In this phenotype, most effective strategy for weight reduction is to increase activity and implementing an effective exercise routine.</p>
+        <p>With this phenotype, the base metabolic rate is lower than normal; this is also known as abnormal energy expenditure.  The slow burn phenotype has been characterized clinically by low muscle mass and abnormal resting energy expenditure (metabolic rate) as measured by indirect calorimetry. Presence of certain gene variants and/or low levels of certain metabolites may be used to predict the slow burn phenotype. Increasing physical activity may prove to be the most effective weight-loss  strategy for patients presenting with a dominant slow burn obesity phenotype.</p>
       </div>
     </div>
   </div>

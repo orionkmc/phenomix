@@ -21,13 +21,13 @@ nav#desktop .logo {
   display: inline-block;
   -webkit-transition: all .5s ease-out;
   transition: all .5s ease-out;
-  margin: 30px 0;
+  margin: 25px 0;
 }
 
 nav#desktop .logo img {
   -webkit-transition: all .5s ease-out;
   transition: all .5s ease-out;
-  height: 40px;
+  height: 50px;
   padding: 5px 0;
 }
 
@@ -37,6 +37,10 @@ nav#desktop.collapsed {
 }
 nav#desktop.collapsed .logo {
   margin: 5px 0;
+}
+
+nav#desktop.collapsed .logo img{
+  height: 40px;
 }
 
 nav#desktop.collapsed .menu li {
@@ -89,12 +93,20 @@ nav#desktop ul.right>li.bar:after {
 nav#desktop ul li a {
   text-decoration: none !important;
   font-family: Roboto Slab;
-  font-weight: 500;
+  font-weight: bold;
   font-size: 14px;
   line-height: 20px;
   letter-spacing: -.01em;
 }
+nav#desktop .btn-login{
+  color: #fff;
+  border: 0;
+  font-weight: 400;
+}
 
+nav#desktop .btn-login:focus{
+  box-shadow: none;
+}
 /* MOBILE */
 #header{
   background: #fff;
@@ -121,7 +133,6 @@ nav#desktop ul li a {
 }
 
 nav.header{
-  padding-top: 3rem;
   background-color: rgba(74, 102, 176, .9);
   position: fixed;
   right: 0;
@@ -141,6 +152,9 @@ nav.header.active{
 }
 
 nav.header .container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   height: 100%;
 }
 
@@ -151,8 +165,8 @@ nav.header ul{
 nav.header ul li a {
   color: rgb(255, 255, 255);
   font-family: "Roboto Slab";
-  font-weight: 500;
-  font-size: 14px;
+  font-weight: bold;
+  font-size: 15px;
   line-height: 20px;
   letter-spacing: -0.01em;
 }
@@ -164,11 +178,7 @@ nav.header ul li {
 }
 
 nav.header ul.footer{
-  position: absolute;
   display: flex;
-  bottom: 0;
-  left: 0;
-  right: 0;
   margin: 0;
   padding: 0;
   justify-content: space-evenly;
@@ -178,7 +188,7 @@ nav.header ul.footer li{
   margin: 0;
 }
 nav.header ul.footer li a{
-  font-size: 10px;
+  font-size: 11px;
 }
 
 /* Boton hamburguesa*/

@@ -73,12 +73,12 @@
           </h4>
           <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
             <p>
-              Phenomix Sciences is a comprehensive, data driven platform that <br>
-              brings precision medicine to obesity management. Our first <br>
-              product, licensed from the Mayo Clinic, is a novel blood test <br>
-              supported with an AI-driven algorithm that classifies the unique <br>
-              pathophysiological phenotype of patients with obesity. This <br>
-              disruptive new approach can be applied clinically to individualize <br>
+              Phenomix Sciences is a comprehensive, data driven platform that <br class="d-none d-lg-block">
+              brings precision medicine to obesity management. Our first <br class="d-none d-lg-block">
+              product, licensed from the Mayo Clinic, is a novel blood test <br class="d-none d-lg-block">
+              supported with an AI-driven algorithm that classifies the unique <br class="d-none d-lg-block">
+              pathophysiological phenotype of patients with obesity. This <br class="d-none d-lg-block">
+              disruptive new approach can be applied clinically to individualize <br class="d-none d-lg-block">
               therapy selections and improve overall weight-loss outcomes.
             </p>
           </div>
@@ -232,7 +232,7 @@
           </div>
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.png" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Paul Owen</h5>
                 <span>Strategic Advisor </span>
@@ -242,6 +242,65 @@
                 </a>
               </div>
             </div>					
+          </div>
+
+          <div class="col-sm-6">
+            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
+              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <div class="media-body align-self-center">
+                <h5 class="mt-0">Ken Fujioka, MD</h5>
+                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalKenFujioka"><i class="fas fa-chevron-right"></i> Biography</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-6">
+            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
+              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <div class="media-body align-self-center">
+                <h5 class="mt-0">Angela Fitch, MD</h5>
+                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalAngelaFitch"><i class="fas fa-chevron-right"></i> Biography</a>
+                <a href="https://www.linkedin.com/in/angela-fitch-md-3148b94/" class="btn-linkedin" target="_blank">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-6">
+            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
+              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <div class="media-body align-self-center">
+                <h5 class="mt-0">Shelby Sullivan, MD</h5>
+                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalShelbySullivan"><i class="fas fa-chevron-right"></i> Biography</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-6">
+            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
+              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <div class="media-body align-self-center">
+                <h5 class="mt-0">Angela Golden, NP</h5>
+                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalAngelaGolden"><i class="fas fa-chevron-right"></i> Biography</a>
+                <a href="https://www.linkedin.com/in/angela-golden-dnp-faanp-34851034/" class="btn-linkedin" target="_blank">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-6">
+            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
+              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <div class="media-body align-self-center">
+                <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA</h5>
+                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalCraigPrimack"><i class="fas fa-chevron-right"></i> Biography</a>
+                <a href="https://www.linkedin.com/in/craigprimack/" class="btn-linkedin" target="_blank">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -262,11 +321,11 @@
           </h5>
           <span>Founder and CEO</span>
           <br>
-          <p><strong>Dr. Acosta</strong> is Founder and CEO of Phenomix Sciences and an Assistant Professor of Gastroenterology at the Mayo Clinic, Rochester, MN.  He is Board Certified in obesity and directs the Mayo Endoscopic Obesity Clinic.</p>
+          <p>Dr. Acosta is Founder and CEO of Phenomix Sciences and an Assistant Professor of Gastroenterology at the Mayo Clinic, Rochester, MN.  He is Board Certified in obesity and directs the Mayo Endoscopic Obesity Clinic.</p>
           <br>
-          <p><strong>Dr. Acosta</strong> has spent much of his career studying obesity and gastrointestinal hormones, during which time he discovered the alternative satiation signaling pathway connecting the oral mucosa and hypothalamus.  At the Mayo Obesity Center he has been involved in clinical trials of most of the approved obesity treatments, and of many others in development.</p>
+          <p>Dr. Acosta has spent much of his career studying obesity and gastrointestinal hormones, during which time he discovered the alternative satiation signaling pathway connecting the oral mucosa and hypothalamus.  At the Mayo Obesity Center he has been involved in clinical trials of most of the approved obesity treatments, and of many others in development.</p>
           <br>
-          <p><strong>Dr. Acosta</strong> holds an MD from Universidad San Francisco De Quito, Ecuador, a PhD from University of Florida, Gainesville and has authored more than 35 publications and several patents pending.</p>
+          <p>Dr. Acosta holds an MD from Universidad San Francisco De Quito, Ecuador, a PhD from University of Florida, Gainesville and has authored more than 35 publications and several patents pending.</p>
         </div>
       </div>
     </div>
@@ -285,11 +344,11 @@
           </h5>
           <span>Co-Founder</span>
           <br>
-          <p><strong>Dr. Camilleri</strong> is co-Founder of Phenomix Sciences, a named Professor of Medicine, Pharmacology and Physiology and a Distinguished Investigator at the Mayo Clinic, Rochester, MN.</p>
+          <p>Dr. Camilleri is co-Founder of Phenomix Sciences, a named Professor of Medicine, Pharmacology and Physiology and a Distinguished Investigator at the Mayo Clinic, Rochester, MN.</p>
           <br>
-          <p><strong>Dr. Camilleri</strong> has conducted research funded by the National Institutes of Health on gastric function, and gastrointestinal hormones in obesity.</p>
+          <p>Dr. Camilleri has conducted research funded by the National Institutes of Health on gastric function, and gastrointestinal hormones in obesity.</p>
           <br>
-          <p><strong>Dr. Camilleri</strong> holds an MD from the University of Malta, a Masters of Philosophy degree (in Medicine and Physiology) from University of London, England, membership of the Royal College of Physicians of the United Kingdom, and doctorates (honoris causa) from the Universities of Antwerp, Belgium and the University of Malta.  He has authored more than 700 peer-reviewed publications.</p>
+          <p>Dr. Camilleri holds an MD from the University of Malta, a Masters of Philosophy degree (in Medicine and Physiology) from University of London, England, membership of the Royal College of Physicians of the United Kingdom, and doctorates (honoris causa) from the Universities of Antwerp, Belgium and the University of Malta.  He has authored more than 700 peer-reviewed publications.</p>
         </div>
       </div>
     </div>
@@ -308,7 +367,7 @@
           </h5>
           <span>Chief Operating Officer </span>
           <br>
-          <p><strong>Ross Higgins</strong> is the Chief Operating Officer at Phenomix with responsibility for establishment and management of laboratory and company operations. Ross brings over 10 years of experience in operations and management within laboratory and biotech startups. Most recently, he was responsible for establishing and running a CAP/CLIA accredited laboratory for the Minneapolis-based OneOme, a pharmacogenomics company also co-founded by Mayo Clinic where he served as Sr. Director of Laboratory Operations and Clinical Development for 3 years before joining Phenomix. In his prior roles with other laboratory and biotech startups, Ross has overseen the development and launch of several successful new products and services for the human genetics and agrigenomics space. Ross has a B.S. in Clinical Laboratory Science and an MBA from Virginia Commonwealth University. He also maintains ASCP certification as a Medical Laboratory Scientist.</p>
+          <p>Ross Higgins is the Chief Operating Officer at Phenomix with responsibility for establishment and management of laboratory and company operations. Ross brings over 10 years of experience in operations and management within laboratory and biotech startups. Most recently, he was responsible for establishing and running a CAP/CLIA accredited laboratory for the Minneapolis-based OneOme, a pharmacogenomics company also co-founded by Mayo Clinic where he served as Sr. Director of Laboratory Operations and Clinical Development for 3 years before joining Phenomix. In his prior roles with other laboratory and biotech startups, Ross has overseen the development and launch of several successful new products and services for the human genetics and agrigenomics space. Ross has a B.S. in Clinical Laboratory Science and an MBA from Virginia Commonwealth University. He also maintains ASCP certification as a Medical Laboratory Scientist.</p>
         </div>
       </div>
     </div>
@@ -327,9 +386,9 @@
           </h5>
           <span>Interim Chief Financial Officer</span>
           <br>
-          <p><strong>Erich Heneke</strong> has 16 years of experience in management accounting in the for-profit and not-for profit sectors, with emphasis in financial planning and controls, financial modeling and forecasting and risk management.  Erich’s current role is that of Interim Chief Financial Officer at Phenomix Sciences.</p>
+          <p>Erich Heneke has 16 years of experience in management accounting in the for-profit and not-for profit sectors, with emphasis in financial planning and controls, financial modeling and forecasting and risk management.  Erich’s current role is that of Interim Chief Financial Officer at Phenomix Sciences.</p>
           <br>
-          <p><strong>Erich</strong> earned his Masters of Business Administration (MBA) at the University of Minnesota and is currently completing his doctoral dissertation at Capella University.  He is a Certified Management Accountant (CMA), Certified Financial Manager (CFM), and Certified Fraud Examiner (CFE).</p>
+          <p>Erich earned his Masters of Business Administration (MBA) at the University of Minnesota and is currently completing his doctoral dissertation at Capella University.  He is a Certified Management Accountant (CMA), Certified Financial Manager (CFM), and Certified Fraud Examiner (CFE).</p>
         </div>
       </div>
     </div>
@@ -348,7 +407,7 @@
           </h5>
           <span>Director, Medical Sciences</span>
           <br>
-          <p><strong>Diane Dell’Armo</strong> has over 30 years of experience in the pharmaceutical and biopharmaceutical fields, with a focus on developing medical, scientific advocates.  At Merck, Diane led multiple teams, developing scientific markets in preparation for product launches.  Several of these products ultimately became multi-billion dollar drugs.</p>
+          <p>Diane Dell’Armo has over 30 years of experience in the pharmaceutical and biopharmaceutical fields, with a focus on developing medical, scientific advocates.  At Merck, Diane led multiple teams, developing scientific markets in preparation for product launches.  Several of these products ultimately became multi-billion dollar drugs.</p>
           <br>
           <p>While at Orexigen, as Senior Director, Health Science Associates, Diane built and managed a team of 8 Health Science Associates (MSLs) with national responsibility for the top clinicians, researchers and medical opinion leaders in the field of obesity. Diane received her Bachelor of Science (BS) in Microbiology from San Jose State University.</p>
         </div>
@@ -369,9 +428,9 @@
           </h5>
           <span></span>
           <br>
-          <p><strong>Donna H. Ryan,</strong> MD is Professor Emerita at Pennington Biomedical in Baton Rouge, LA. She is also President Elect of the World Obesity Federation. Dr Ryan’s research focuses on nutrition, obesity and obesity comorbidities. She has been an investigator for various US National Institutes of Health-sponsored studies, including Pounds Lost, DASH (Dietary Approaches to Stop Hypertension), DPP (Diabetes Prevention Program) and the Look AHEAD study.</p>
+          <p>Donna H. Ryan, MD is Professor Emerita at Pennington Biomedical in Baton Rouge, LA. She is also President Elect of the World Obesity Federation. Dr Ryan’s research focuses on nutrition, obesity and obesity comorbidities. She has been an investigator for various US National Institutes of Health-sponsored studies, including Pounds Lost, DASH (Dietary Approaches to Stop Hypertension), DPP (Diabetes Prevention Program) and the Look AHEAD study.</p>
           <br>
-          <p><strong>Dr. Ryan’s</strong> continuing interests focus on translation of effective weight management into primary care practices. Dr Ryan also served as Co-Chair on the expert panel for the American College of Cardiology/American Heart Association/The Obesity Society evidence-based Guidelines on the Evaluation and Management of Overweight and Obesity in Adults and was a panel member of the 2015 Endocrine Society Systematic Evidence Review and Guidelines for Medications that Affect Body Weight. In addition, she is Associate Editor in Chief of the journal Obesity.</p>
+          <p>Dr. Ryan’s continuing interests focus on translation of effective weight management into primary care practices. Dr Ryan also served as Co-Chair on the expert panel for the American College of Cardiology/American Heart Association/The Obesity Society evidence-based Guidelines on the Evaluation and Management of Overweight and Obesity in Adults and was a panel member of the 2015 Endocrine Society Systematic Evidence Review and Guidelines for Medications that Affect Body Weight. In addition, she is Associate Editor in Chief of the journal Obesity.</p>
         </div>
       </div>
     </div>
@@ -390,9 +449,9 @@
           </h5>
           <span></span>
           <br>
-          <p><strong>Dr. Abu Dayyeh</strong> is Associate Professor of Medicine, Director of the Bariatric and Metabolic Endoscopy program, and Consultant in Gastroenterology and Advanced Therapeutic endoscopy at the Mayo Clinic in Rochester, Minnesota. His research focuses on the development of minimally invasive interventions for the endoscopic management of obesity and metabolic disease.</p>
+          <p>Dr. Abu Dayyeh is Associate Professor of Medicine, Director of the Bariatric and Metabolic Endoscopy program, and Consultant in Gastroenterology and Advanced Therapeutic endoscopy at the Mayo Clinic in Rochester, Minnesota. His research focuses on the development of minimally invasive interventions for the endoscopic management of obesity and metabolic disease.</p>
           <br>
-          <p><strong>Dr. Abu Dayyeh</strong> has published more than 100 peer reviewed articles, reviews and book chapters in the field. His work has been cited on more than one thousand times. He has received multiple awards and grants in support of his research and has been invited to give more than 80 national and international keynote lectures. He serves as a consultant and advisor to multiple leading US and international companies who are developing novel therapeutics for obesity and metabolic disease.</p>
+          <p>Dr. Abu Dayyeh has published more than 100 peer reviewed articles, reviews and book chapters in the field. His work has been cited on more than one thousand times. He has received multiple awards and grants in support of his research and has been invited to give more than 80 national and international keynote lectures. He serves as a consultant and advisor to multiple leading US and international companies who are developing novel therapeutics for obesity and metabolic disease.</p>
         </div>
       </div>
     </div>
@@ -411,7 +470,7 @@
           </h5>
           <span></span>
           <br>
-          <p><strong>Dr. Anthony Auriemma</strong> received his Doctor of Medicine Degree from Loyola University, Chicago and his law degree from The John Marshall Law School. He is board certified in both Family Medicine and Obesity Medicine. Dr. Auriemma has been practicing Obesity Medicine since opening his first weight management program in 2006. He is the Medical Director for AMITA Health Weight Loss Solutions which has 7 locations in the Chicago area. Dr. Auriemma speaks both nationally and internationally on the treatment and practice of Obesity Medicine.</p>
+          <p>Dr. Anthony Auriemma received his Doctor of Medicine Degree from Loyola University, Chicago and his law degree from The John Marshall Law School. He is board certified in both Family Medicine and Obesity Medicine. Dr. Auriemma has been practicing Obesity Medicine since opening his first weight management program in 2006. He is the Medical Director for AMITA Health Weight Loss Solutions which has 7 locations in the Chicago area. Dr. Auriemma speaks both nationally and internationally on the treatment and practice of Obesity Medicine.</p>
         </div>
       </div>
     </div>
@@ -430,9 +489,9 @@
           </h5>
           <span></span>
           <br>
-          <p><strong>Dr. Daniel Guerron</strong> is an assistant professor of Surgery at Duke University Health System. After completing his medical school at the Pontificia Universidad Catolica del Ecuador he completed a dedicated research period of training in basic and translational research at the Children’s National Medical Center in Washington DC.He completed his residency in general Surgery at the Cleveland Clinic Foundation, Ohio where he was the recipient of the 2015 Steiger Award granted to a Surgical Resident for significant research contributions. He complemented his surgical training with an advanced gastrointestinal minimally invasive and bariatric surgery fellowship at Duke University in Durham, North Carolina.</p>
+          <p>Dr. Daniel Guerron is an assistant professor of Surgery at Duke University Health System. After completing his medical school at the Pontificia Universidad Catolica del Ecuador he completed a dedicated research period of training in basic and translational research at the Children’s National Medical Center in Washington DC.He completed his residency in general Surgery at the Cleveland Clinic Foundation, Ohio where he was the recipient of the 2015 Steiger Award granted to a Surgical Resident for significant research contributions. He complemented his surgical training with an advanced gastrointestinal minimally invasive and bariatric surgery fellowship at Duke University in Durham, North Carolina.</p>
           <br>
-          <p><strong>Dr. Guerron</strong> is passionate about clinical excellence and patient-centered care, with a particular focus on surgical research and innovation. His specialty interests include advanced laparoscopic gastrointestinal surgery, metabolic surgery, advanced endoscopy and robotic surgery.</p>
+          <p>Dr. Guerron is passionate about clinical excellence and patient-centered care, with a particular focus on surgical research and innovation. His specialty interests include advanced laparoscopic gastrointestinal surgery, metabolic surgery, advanced endoscopy and robotic surgery.</p>
         </div>
       </div>
     </div>
@@ -475,6 +534,125 @@
       </div>
     </div>
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="modal fade" id="modalKenFujioka" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>       
+          <h5 class="mt-0">Ken Fujioka, MD
+          </h5>
+          <br>
+          <p>Dr. Fujioka is currently director of Nutrition and Metabolic research and Obesity Telemedicine at Scripps Clinic in the Department of Diabetes and Endocrine. He has completed over 150 clinical trials and authored over 100 peer reviewed papers. In 1997 he started the Center for Weight management at Scripps Clinic that has grown from one physician to over a dozen health care providers that cover all aspects of Obesity treatment.  The Center cares for over 1000 patients per month. The Weight loss Center is completely insurance based and a significant number of patients have managed care or accountable care. Dr. Fujioka is proud to say that he is certified in Obesity medicine by ABOM. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="modalAngelaFitch" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>       
+          <h5 class="mt-0">Angela Fitch, MD
+            <a href="https://www.linkedin.com/in/angela-fitch-md-3148b94/" class="btn-linkedin" target="_blank">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </h5>
+          <br>
+          <p>Angela Fitch, MD, FACP, FOMA is the Associate Director of the Massachusetts General Hospital Weight Center and faculty at the Harvard Medical School. She is board certified in obesity medicine, internal medicine and pediatrics. Dr. Fitch became a diplomate of the American Board of Obesity Medicine in 2012 and created a multidisciplinary medical surgical center at the University of Cincinnati.  There she was also appointed medical director of the Executive Health Program and Vice President of Primary Care before moving to Boston. She currently is serving as Secretary-Treasurer of the Obesity Medicine Association and previously served as a trustee. She was the 2015-2016 chair of the clinical management section of The Obesity Society. Dr. Fitch is the winner of the 2017 Clinician of the Year Award from the Obesity Medicine Association. Dr. Fitch enjoys seeing patients of all ages to help them reach their weight and wellness goals.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="modalShelbySullivan" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>       
+          <h5 class="mt-0">Shelby Sullivan, MD</h5>
+          <br>
+          <p>Dr. Shelby Sullivan is an Associate Professor of Medicine at the University Of Colorado School Of Medicine and is the director of the Gastroenterology Metabolic and Bariatric Program.  She has an undergraduate degree in nutrition and specializes in obesity treatment and endoscopic therapies for obesity.  She is board certified in gastroenterology and obesity medicine and she has been an investigator on eight FDA trials for endoscopic bariatric therapies.  She is the current chair of the board for the Association of Bariatric Endoscopy, has written many papers on endoscopic bariatric therapies, and lectures extensively in the US and abroad on endoscopic therapies to treat obesity.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="modalAngelaGolden" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>       
+          <h5 class="mt-0">Angela Golden, NP
+            <a href="https://www.linkedin.com/in/angela-golden-dnp-faanp-34851034/" class="btn-linkedin" target="_blank">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </h5>
+          <br>
+          <p>Dr. Golden, is a current fellow and past president of the American Association of Nurse Practitioners (AANP). Her tenure as the president of the AANP gives her a unique perspective of the nation’s perspective of health care. Her practice is NP Obesity Treatment Clinic where she provides obesity treatment as a family nurse practitioner.  She received OMAs Certificate of Advanced Education in Obesity Management and the Specialist Certification of Obesity Professional Education, an internationally-recognized certification. She is an author, researcher, and speaker.</p>
+          <p>Dr. Golden has a great deal of experience as a consultant in the development of patient education materials. She has authored a chapter on obesity management, written several peer reviewed articles, participated in research, and been interviewed by lay media on obesity treatment. She presents nationally and internationally with an emphasis on health policy, leadership and clinical care.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="modalCraigPrimack" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>       
+          <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA
+            <a href="https://www.linkedin.com/in/craigprimack/" class="btn-linkedin" target="_blank">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </h5>
+          <br>
+          <p>Dr. Craig Primack is co-director and co-founder of the Scottsdale Weight Loss Center (scottsdaleweightloss.com) in Scottsdale, Ariz. He is a Diplomate of the American Board of Obesity Medicine and is board-certified in both Internal Medicine and Pediatrics.</p>
+          <p>Dr. Primack is president-elect of the Obesity Medicine Association and will assume the presidency in October 2019. Dr. Primack received his medical degree from Loyola University Stritch School of Medicine in Chicago and completed a combined residency in internal medicine and pediatrics at Banner University Phoenix Campus and Phoenix Children’s Hospital in Arizona.</p>
+          <p>In 2012, Dr. Primack received the Dr. Vernon B. Astler Award from OMA in recognition of his efforts to advance the association’s place and purpose within the media, government, and medical community.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <!-- Modall Login -->
   <div class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

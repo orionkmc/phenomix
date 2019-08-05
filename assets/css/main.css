@@ -36,10 +36,10 @@ body {
     -moz-osx-font-smoothing: grayscale
 }
 
-section {
+/*section {
     height: 100%;
     position: relative
-}
+}*/
 
 .GPDR-white {
     background-color: hsla(0, 0%, 100%, .2);
@@ -656,5 +656,17 @@ nav .menu ul.right li.login:before {
 @media (min-width:992px) {
   .scroll-down {
       display: block
+  }
+}
+
+@media (max-width:992px) {
+  #home,
+  #maximizin-weight-loss-2,
+  #why-it-works,
+  #why-it-works-2,
+  #how-it-works,{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 }

@@ -1,14 +1,13 @@
-#maximizing-weight-loss{
-  padding-bottom: 50px;
-}
 section#maximizing-weight-loss{
   height: auto;
+  background: #efeff1;
 }
 #maximizing-weight-loss .middle-up{
   padding-top: 50px;
 }
 #maximizing-weight-loss .middle-up .content h1{
-  font-size: 48px !important;
+  font-size: 36px !important;
+  text-align: center;
   line-height: 50px !important;
   font-weight: 300 !important;
   font-family: Roboto Slab !important;
@@ -27,6 +26,9 @@ section#maximizing-weight-loss{
   font-size: 1.8vh;
   font-weight: 300;
   line-height: 100%;
+}
+#maximizing-weight-loss .middle-up .bg-gradient{
+  padding: 0 7%;
 }
 #maximizing-weight-loss .middle-down .content h1{
   font-size: 48px !important;
@@ -93,10 +95,27 @@ section#maximizing-weight-loss{
   #maximizing-weight-loss .middle-up,
   #maximizing-weight-loss .middle-down{
     height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
   }
 }
 /* RESOLUTION 992 UP*/
+@media (max-width: 992px){
+  section#maximizing-weight-loss{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
 @media (min-width: 992px){
+  #maximizing-weight-loss{
+    padding-bottom: 50px;
+  }
+  section#maximizing-weight-loss{
+    height: 100%;
+    background: #fff;
+  }
   #maximizing-weight-loss .middle-up,
   #maximizing-weight-loss .middle-down{
     height: 50%;
@@ -106,18 +125,31 @@ section#maximizing-weight-loss{
   }
 
   #maximizing-weight-loss .pre-bg-img{
+    height: 50%;
     /*background: linear-gradient(to top, #d4d3d8  0%,  #f1f1f3 100%);*/
     background: linear-gradient(to bottom, rgba(235, 235, 240, 1)80%, rgba(255, 255, 255, 1));
+  }
+  #maximizing-weight-loss .center-xy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 /* RESOLUTION 1024 UP*/
 @media (min-width: 1024px){
+  #maximizing-weight-loss .middle-up .content h1{
+    font-size: 48px !important;
+    text-align: left;
+    padding: 15px 0;
+  }
+
   #maximizing-weight-loss .bg-img{
     /*background: linear-gradient(to bottom, rgba(235, 235, 240, 1)80%, rgba(255, 255, 255, 1));*/
     background-repeat: no-repeat;
     background-position: right;
     /*background-size: 50% 100%;*/
-    background-image: url(../images/maximizing-header-2.png);
+    background-image: url(../images/background/maximizing-header-lg.jpg);
+    background-size: 50% auto;
   }
 }
 /* RESOLUTION 1200 UP*/

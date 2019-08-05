@@ -14,12 +14,20 @@
             Doesn’t Fit All
           </h1>
           <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear animated slow fadeInDown delay-500">
-            Know Why You are Overweight Before <br class="d-block d-lg-none">
+            Know Why You are Overweight Before <br >
             You Begin Your Weight Loss Journey
           </p>
-          <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear d-none d-lg-block p2 animated slow fadeInDown delay-1s">Identifying your phenotype facilitates a personalized approach to weight loss that is more precise; saving you time, money and frustration.</p>
+          <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear d-none d-lg-block p2 animated slow fadeInDown delay-1s">
+            Identifying your phenotype facilitates a personalized <br>approach to weight loss that is more precise; saving <br>you time, money, and frustration.
+          </p>
           <div class="clearfix logo-mayo">
-            <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear animated slow fadeInDown delay-1s">Exclusively Licensed <br class="b-block d-lg-none">by Mayo Clinic</p>
+            <p 
+              data-toggle="appear"
+              data-appear-class="fadeInDown delay-1s"
+              class="appear animated slow fadeInDown delay-1s"
+            >
+              Exclusively Licensed <br class="b-block d-lg-none">by Mayo Clinic
+            </p>
           </div>
         </div>
       </div>

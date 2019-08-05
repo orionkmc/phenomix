@@ -12,7 +12,7 @@
   <div class="container">
     <div class="menu">
       <a href="index.php#home" class="logo" data-slide="0">
-        <img src="assets/images/phenomix-logo.png" class="img-fluid">
+        <img src="assets/images/phenomix-logo.png" class="img-fluid" style="height: 40px;">
       </a>
 
       <ul class="menu-center">

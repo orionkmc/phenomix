@@ -1,9 +1,9 @@
-<div id="contact" class="swiper-slide pt-5" data-hash="contact">
-  <section class="container contact-form pt-5">
+<div id="contact" class="swiper-slide" data-hash="contact">
+  <section class="container contact-form">
     <form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
       <div class="row">
         <div class="col-12">
-          <h1 class="my-0 my-lg-4">Ready to Get Started</h1>
+          <h1 class="my-0 my-lg-4">Ready to Get Started?</h1>
         </div>
       </div>
       <div class="row">
@@ -14,8 +14,8 @@
             </div>
             <div class="col-9 p-0 text-center text-direction">
               info@phenomixsciences.com<br>
-              1000 Westgate Drive Suite<br>
-              1002-1003 St. Paul, MN 55114<br>
+              1000 Westgate Drive<br>
+              Suite 1002-1003 St. Paul, MN 55114<br>
             </div>
           </div>
           <div class="row">
@@ -45,11 +45,11 @@
         <div class="col-lg-3">
           <div class="form-group mb-0 mb-lg-3 required">
             <div class="as"></div>
-            <input type="number" class="form-input" placeholder="Phone Number" required>
+            <input type="text" class="form-input" placeholder="Phone Number" required>
           </div>
           <div class="form-group mb-0 mb-lg-3 form-group-select">
             <select class="form-select">
-              <option>Inquiry Type</option>
+              <option class="d-none">Inquiry Type</option>
               <option>Questions about testing</option>
               <option>Billing inquiries</option>
               <option>Media inquiry</option>
@@ -59,7 +59,7 @@
           </div>
           <div class="form-group mb-0 mb-lg-3 form-group-select required">
             <select class="form-select">
-              <option>I am a...</option>
+              <option class="d-none">I am a...</option>
               <option>Patient</option>
               <option>Healthcare Provider</option>
               <option>Other</option>

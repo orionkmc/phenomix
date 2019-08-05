@@ -2,6 +2,7 @@
   overflow: hidden;
   background: #efeff1;
   background-size: 100% 100%;
+  padding-top: 65px;
 }
 
 #contact .text-direction{
@@ -28,7 +29,7 @@
 
 #contact .contact-form h1 {
   color: #4a66b0;
-  font-size: 48px !important;
+  font-size: 30px !important;
   line-height: 50px !important;
   font-weight: 300 !important;
   font-family: Roboto Slab !important;
@@ -40,7 +41,6 @@
 
 @media (max-width: 991.98px){
   #contact .contact-form h1 {
-    font-size: 5vh;
     line-height: 100%;
     font-family: Roboto Slab;
     font-weight: 300;
@@ -56,8 +56,11 @@
 }
 
 @media (min-width:992px) {
+  #contact .contact-form h1 {
+    font-size: 48px !important;
+  }
   #contact {
-    background-image: url(../images/contact-header.jpg);
+    background-image: url(../images/background/contact-header.jpg);
     background-size: 100% 100%;
   }
   #contact .contact-form {

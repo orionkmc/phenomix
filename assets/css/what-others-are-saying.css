@@ -1,154 +1,74 @@
-
 #what-others-are-saying {
-    background-color: #4a66b0;
-    position: relative
-}
-
-@media (min-width:992px) {
-    #what-others-are-saying {
-        padding-top: 50px;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
-        justify-content: center;
-    }
+  padding-top: 65px;
+  background-color: #4a66b0;
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 #what-others-are-saying .header {
-    background: url(../images/bg-what.png) no-repeat 0 100% #4a66b0;
-    background-blend-mode: multiply;
-    color: #fff;
-    padding: 65px 20px;
-    text-align: center;
+  background: url(../images/bg-what.png) no-repeat 0 100% #4a66b0;
+  color: #fff;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header {
-        padding: 86px 65px 40px
-    }
+#what-others-are-saying .header h2 {
+  color: #61e0e4;
+  margin: 0px;
+  padding: 10px 0;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 300;
+  font-family: Roboto Slab;
+  letter-spacing: -.01em;
+  text-align: left;
 }
 
-#what-others-are-saying .header .container h2 {
-    color: #61e0e4;
-    font-size: 48px !important;
-    line-height: 50px !important;
-    font-weight: 300 !important;
-    font-family: Roboto Slab !important;
-    letter-spacing: -.01em;
-    text-align: left;
-    margin-bottom: 20px
+#what-others-are-saying .header .slick-saying{
+  padding: 0 38px;
 }
 
-@media (max-width:575.98px) {
-    #what-others-are-saying .header .container h2 {
-        font-size: 20px;
-    }
+#what-others-are-saying .header .slick-saying .content{
+  text-align: center;
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header .container h2 {
-        font-size: 43px;
-        line-height: 45px;
-        position: absolute;
-        top: 20%;
-    }
+/* IMAGEN*/
+#what-others-are-saying .header .slick-saying .content img {
+  -webkit-transition: all .3s ease-out .3s;
+  transition: all .3s ease-out .3s;
+  border: 1px solid #61e0e4;
+  padding: 10px;
+  max-width: 100px;
+  margin: auto;
 }
 
-#what-others-are-saying .header .container .arrows {
-    position: absolute;
-    top: 50%;
-    left: 20px;
-    right: 20px
-}
-
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .arrows {
-        left: 45px;
-        right: 45px
-    }
-}
-
-#what-others-are-saying .header .container .arrows a {
-    position: absolute
-}
-
-#what-others-are-saying .header .container .arrows a svg {
-    fill: #fff;
-    height: 24px
-}
-
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .arrows a svg {
-        height: 33px
-    }
-}
-
-#what-others-are-saying .header .container .arrows a.arrow-left {
-    left: 0
-}
-
-#what-others-are-saying .header .container .arrows a.arrow-right {
-    right: 0
-}
-
-#what-others-are-saying .header .container .slick-saying .content {
-    position: relative
-}
-
-#what-others-are-saying .header .container .slick-saying .content img {
-    opacity: 0;
-    -webkit-transition: all .3s ease-out .3s;
-    transition: all .3s ease-out .3s;
-    border: 1px solid #61e0e4;
-    padding: 10px;
-    max-width: 120px;
-    margin: auto
-}
-
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .slick-saying .content img {
-        max-width: 172px
-    }
-}
-
-#what-others-are-saying .header .container .slick-saying .content h4 {
+/* TEXTOS */
+#what-others-are-saying .header .slick-saying .content h4 {
     opacity: 0;
     -webkit-transition: all .3s ease-out .5s;
     transition: all .3s ease-out .5s;
     margin-top: 15px;
     font-family: Roboto Slab;
     font-size: 15px;
-    line-height: 17px
+    line-height: 17px;
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .slick-saying .content h4 {
-        font-size: 16px;
-        line-height: 18px
-    }
-}
-
-#what-others-are-saying .header .container .slick-saying .content h5 {
+#what-others-are-saying .header .slick-saying .content h5 {
     opacity: 0;
     -webkit-transition: all .3s ease-out .7s;
     transition: all .3s ease-out .7s;
     font-family: Roboto Slab;
     color: #b4b4b4;
     font-size: 13px;
-    line-height: 15px
+    line-height: 15px;
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .slick-saying .content h5 {
-        font-size: 16px;
-        line-height: 18px
-    }
-}
-
-#what-others-are-saying .header .container .slick-saying .content p {
+#what-others-are-saying .header .slick-saying .content p {
     opacity: 0;
     -webkit-transition: all .3s ease-out .9s;
     transition: all .3s ease-out .9s;
@@ -156,25 +76,11 @@
     font-weight: 300;
     font-size: 13px;
     line-height: 18px;
-    letter-spacing: -.01em
+    letter-spacing: -.01em;
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .slick-saying .content p {
-        font-size: 18px;
-        line-height: 28px;
-        margin: 0 100px;
-        margin-top: 25px;
-    }
-}
-
-@media (max-width: 575.98px){
-    #what-others-are-saying .header .container .slick-saying .content p {
-        font-size: 10px;
-    }
-}
-
-#what-others-are-saying .header .container .slick-saying .content .quotes {
+/* COMILLAS */
+#what-others-are-saying .header .slick-saying .content .quotes {
     opacity: 0;
     -webkit-transition: all .3s ease-out 1.1s;
     transition: all .3s ease-out 1.1s;
@@ -186,34 +92,121 @@
     margin-bottom: -20px
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .slick-saying .content .quotes {
-        font-size: 180px;
-        position: absolute;
-        left: 0;
-        top: 50%
-    }
-}
-
-#what-others-are-saying .header .container .slick-saying .content .quotes.quotes-close {
+#what-others-are-saying .header .slick-saying .content .quotes.quotes-close {
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
     margin-top: -30px
 }
 
-@media (min-width:992px) {
-    #what-others-are-saying .header .container .slick-saying .content .quotes.quotes-close {
-        top: 50%;
-        right: 0;
-        margin-top: -100px;
-        text-align: left
-    }
+/* FLECHAS */
+#what-others-are-saying .header .arrows {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    right: 20px;
 }
 
-#what-others-are-saying .header .container .slick-saying .slick-active .content .quotes,
-#what-others-are-saying .header .container .slick-saying .slick-active .content h4,
-#what-others-are-saying .header .container .slick-saying .slick-active .content h5,
-#what-others-are-saying .header .container .slick-saying .slick-active .content img,
-#what-others-are-saying .header .container .slick-saying .slick-active .content p {
-    opacity: 1
+#what-others-are-saying .header .arrows a {
+  position: absolute;
+}
+
+#what-others-are-saying .header .arrows a svg {
+  fill: #fff;
+  height: 24px;
+}
+
+
+#what-others-are-saying .header .arrows a.arrow-left {
+  left: 0;
+}
+
+#what-others-are-saying .header .arrows a.arrow-right {
+  right: 0;
+}
+
+.slick-dots-container{
+  margin: 0 auto;
+}
+/* MEDIA QUERY*/
+@media (max-height: 600px){
+  #what-others-are-saying .header .slick-saying .content img {
+    max-width: 80px;
+  }
+}
+
+@media (max-width: 575.98px){
+  #what-others-are-saying .header .slick-saying .content p {
+    font-size: 10px;
+  }
+}
+
+/* DESKTOP */
+@media (min-width:992px) {
+  #what-others-are-saying{
+    padding-bottom: 40px
+  }
+  #what-others-are-saying .header h2 {
+    position: absolute;
+    top: 20%;
+
+    color: #61e0e4;
+    font-size: 48px;
+    line-height: 50px;
+    font-weight: 300;
+    font-family: Roboto Slab;
+    letter-spacing: -.01em;
+    text-align: left;
+    margin-bottom: 20px
+  } 
+  /* IMAGEN*/
+  #what-others-are-saying .header .slick-saying .content img {
+    max-width: 172px;
+  }
+
+  /* TEXTOS */ 
+  #what-others-are-saying .header .slick-saying .content h4 {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  #what-others-are-saying .header .slick-saying .content h5 {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  #what-others-are-saying .header .slick-saying .content p {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 100px;
+    margin-top: 25px;
+  }
+  
+  /* COMILLAS */
+  #what-others-are-saying .header .slick-saying .content .quotes {
+    font-size: 180px;
+    position: absolute;
+    left: 0;
+    top: 50%
+  }
+  #what-others-are-saying .header .slick-saying .content .quotes.quotes-close {
+    top: 50%;
+    right: 0;
+    margin-top: -100px;
+    text-align: left
+  }
+
+  /* FLECHAS */
+  #what-others-are-saying .header .arrows {
+    left: 45px;
+    right: 45px;
+  }
+  #what-others-are-saying .header .arrows a svg {
+    height: 33px;
+  }
+}
+
+#what-others-are-saying .header .slick-saying .slick-active .content .quotes,
+#what-others-are-saying .header .slick-saying .slick-active .content h4,
+#what-others-are-saying .header .slick-saying .slick-active .content h5,
+#what-others-are-saying .header .slick-saying .slick-active .content img,
+#what-others-are-saying .header .slick-saying .slick-active .content p {
+  opacity: 1;
 }

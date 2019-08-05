@@ -1,6 +1,6 @@
 <div class="swiper-slide" data-hash="maximizing-weight-loss">
   <section id="maximizing-weight-loss">
-    <div class="pre-bg-img h-50">
+    <div class="pre-bg-img">
       <div class="bg-img h-100">
         <div class="container-fluid middle-up h-100 pl-5p">
           <div class="row h-100">
@@ -30,7 +30,7 @@
 
     <div class="middle-down d-none d-lg-block container-fluid">
       <div class="row h-100">
-        <div class="col-12 h-100 px-5">
+        <div class="col-12 h-100 px-5 center-xy">
           <div class="content text-center">
             <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
               Four Primary Types of Obesity

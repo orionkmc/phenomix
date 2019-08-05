@@ -85,7 +85,6 @@ $(document).ready(function(){
   })), $(".slick-saying").slick({
     arrows: !1,
     dots: !0,
-    swipe: !1,
     fade: !0,
     appendDots: $("#what-others-are-saying .slick-dots-container")
   }), $("#what-others-are-saying .slick-dots-container button").on("click", function (e) {
@@ -93,15 +92,15 @@ $(document).ready(function(){
     var s = $(this);
     return $(".slick-saying .slick-slide.slick-active").removeClass("slick-active"), setTimeout(function () {
       $(".slick-saying").slick("slickGoTo", parseInt(s.text()) - 1)
-    }, 1500), !1
+    }, 1000), !1
   }), $("#what-others-are-saying .arrow-left").on("click", function (e) {
     e.preventDefault(), $(".slick-saying .slick-slide.slick-active").removeClass("slick-active"), setTimeout(function () {
       $(".slick-saying").slick("slickPrev")
-    }, 1500)
+    }, 1000)
   }), $("#what-others-are-saying .arrow-right").on("click", function (e) {
     e.preventDefault(), $(".slick-saying .slick-slide.slick-active").removeClass("slick-active"), setTimeout(function () {
       $(".slick-saying").slick("slickNext")
-    }, 1500)
+    }, 1000)
   });
   $("#how-it-works .slick").slick({
     dots: !0,

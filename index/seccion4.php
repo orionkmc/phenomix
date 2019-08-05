@@ -1,7 +1,7 @@
 <div class="swiper-slide" data-hash="why-it-works">
-  <section id="why-it-works" class="container-fluid pl-5p">
-    <div class="row align-items-center">
-      <div class="col-12 col-lg-6 h-50 d-flex align-items-center">
+  <section id="why-it-works" class="container-fluid">
+    <div class="row container-row">
+      <div class="col-12 col-lg-6 col-extend"> 
         <div class="content">
           <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
             Phenotype-Guided Therapy Maximizes Weight Loss
@@ -10,14 +10,16 @@
             Initial clinical study data has shown a doubling of treatment responders and twice as much weight loss for patients whose treatment is guided by their dominant obesity phenotype.
           </p>
           <div data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear text-center text-lg-left">
-            <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank">Mayo Clinic Publications</a>
+            <a href="#">Mayo Clinic Publications</a>
           </div>
         </div>
       </div>
-      <div class="col-12 col-lg-6 d-none d-lg-block content-img h-50 pt-3">
+      <div class="col-12 col-lg-6 d-none d-lg-flex col-extend"  style="background: #fff;">
         <img src="assets/images/maximizing-weight-loss-2/grafico_1.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid">
       </div>
-      <div class="col-12 col-lg-6 h-50">
+    </div>
+    <div class="row container-row">
+      <div class="col-12 col-lg-6 col-extend">
         <div class="swiper-slide">
           <section id="publications">
             <div class="content appear pt-2 h-100" data-appear-class="fadeInDown" data-toggle="appear">
@@ -201,14 +203,111 @@
                   <i class="fas fa-chevron-right"></i>
                 </a>
               </div>
-              <p class=" text-center text-lg-right">Successful weight loss defined by treatment response of >3% weight loss <br> at 3 months and >10% weight loss at 6 months.</p>
             </div>
           </section>
         </div>
       </div>
-      <div class="col-12 col-lg-6 d-none d-lg-block content-img h-50 pb-3">
+      <div class="col-12 col-lg-6 d-none d-lg-flex col-extend justify-content-between" style="background: #fff;">
         <img src="assets/images/maximizing-weight-loss-2/grafico_2.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid">
+        <p data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear text-center">Successful weight loss defined by treatment response of >3% weight loss <br> at 3 months and >10% weight loss at 6 months.</p>
       </div>
     </div>
   </section>
 </div>
+<style>
+  #why-it-works{
+    background: #efeff1;
+    padding-top: 65px;
+    height: 100%;
+  }
+
+  #why-it-works .container-row{
+    padding: 0px 7%;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #why-it-works .col-extend {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+  }
+  #why-it-works .col-extend img{
+    height: 70%;
+  }
+  
+  #why-it-works h1 {
+    color: #1e4484;
+    font-family: Roboto Slab;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: -.01em;
+    margin-bottom: 25px;
+    text-align: center
+  }
+  
+  #why-it-works p {
+    font-family: Roboto Lt;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+  }
+  
+  #why-it-works a{
+    color: #1e4484;
+    font-size: 2.5vh !important;
+    font-family: Roboto Slab;
+    text-decoration: underline;
+  }
+
+  #why-it-works #publications .content .publication .appear{
+    width: 130px;
+  }
+  #why-it-works #publications .content .arrows{
+    top: 46%;
+  }
+  #why-it-works .swiper-slide {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  #why-it-works .publication {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10px;
+  }
+
+  @media (min-width:992px) {
+    #why-it-works{
+      background: url(./assets/images/bg-affiliations.jpg) no-repeat 50% transparent;
+      padding-bottom: 40px;
+    }
+    
+    #why-it-works .container-row{
+      padding: 0px 7%;
+    }
+    #why-it-works  h1{
+      font-size: 48px;
+      line-height: 50px;
+      font-weight: 300;
+      font-family: Roboto Slab;
+      color: #4a66b0;
+      margin-bottom: 30px;
+      text-align: left
+    }
+
+    #why-it-works p {
+        color: #1e4484;
+    }
+    #why-it-works .swiper-slide {
+      align-items: center;
+    }
+    #why-it-works #publications .content .publication .appear{
+      width: 150px;
+    }
+  }
+</style>
