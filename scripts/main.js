@@ -7,7 +7,7 @@ $(document).ready(function(){
       el: ".swiper-pagination"
     },
     hashNavigation: {
-      watchState: !0
+      watchState: true,
     }
   });
 

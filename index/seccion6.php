@@ -33,135 +33,135 @@
                             <ul>
                                 <p>
                                     - Testing must be ordered by your Healthcare Provider.
-                                </br>
-                                - Looking for a Healthcare Provider that specializes in weight-loss?
-                            </p>
-                        </ul>
-                        <a href="https://abom.learningbuilder.com/public/membersearch" target="_blank" class="button" tabindex="0">
-                            <i class="fas fa-chevron-right"></i>
-                            <span>Find one here: ABOM website</span>
-                        </a>
+                                    <br>
+                                    - Looking for a Healthcare Provider that specializes in weight-loss?
+                                </p>
+                            </ul>
+                            <a href="https://abom.learningbuilder.com/public/membersearch" target="_blank" class="button" tabindex="0">
+                                <i class="fas fa-chevron-right"></i>
+                                <span>Find one here: ABOM website</span>
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div>
-                <div class="content">
-                    <div class="icons">
-                        <strong>2</strong>
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-                            <path d="M214.3,146.8H85.7c-6.5,0-11.8,5.3-11.8,11.8v107.8c0,6.5,5.3,11.8,11.8,11.8h128.6c6.5,0,11.8-5.3,11.8-11.8V158.6
-                            C226.1,152.1,220.8,146.8,214.3,146.8z M216.5,266.4c0,1.2-1,2.2-2.2,2.2H85.7c-1.2,0-2.2-1-2.2-2.2V158.6c0-1.2,1-2.2,2.2-2.2
-                            h128.6c1.2,0,2.2,1,2.2,2.2V266.4z M65.9,113.2c-5.3,0-9.6,4.3-9.6,9.6s4.3,9.6,9.6,9.6c5.3,0,9.6-4.3,9.6-9.6
-                            S71.2,113.2,65.9,113.2z M83.5,32.3c0-0.4,0.4-0.8,0.8-0.8h131.4c0.4,0,0.8,0.4,0.8,0.8v48.9h9.6V32.3c0-5.7-4.7-10.4-10.4-10.4
-                            H84.3c-5.7,0-10.4,4.7-10.4,10.4v48.9h9.6V32.3z M237.7,82.7H62.3C44,82.7,29.1,97.6,29.1,116V184c0,18.3,14.9,33.2,33.2,33.2h6.8
-                            v-9.6h-6.8c-13,0-23.6-10.6-23.6-23.6V116c0-13,10.6-23.6,23.6-23.6h175.4c13,0,23.6,10.6,23.6,23.6V184c0,13-10.6,23.6-23.6,23.6
-                            h-8.4v9.6h8.4c18.3,0,33.2-14.9,33.2-33.2V116C270.9,97.6,256,82.7,237.7,82.7z M190.8,178.8h-86.5c-2.7,0-4.8,2.2-4.8,4.8
-                            c0,2.7,2.2,4.8,4.8,4.8h86.5c2.7,0,4.8-2.2,4.8-4.8C195.7,181,193.5,178.8,190.8,178.8z M104.3,217.3h54.5c2.7,0,4.8-2.2,4.8-4.8
-                            c0-2.7-2.2-4.8-4.8-4.8h-54.5c-2.7,0-4.8,2.2-4.8,4.8C99.5,215.1,101.7,217.3,104.3,217.3z M181.2,236.5h-76.9
-                            c-2.7,0-4.8,2.2-4.8,4.8c0,2.7,2.2,4.8,4.8,4.8h76.9c2.7,0,4.8-2.2,4.8-4.8C186,238.6,183.9,236.5,181.2,236.5z"/>
-                        </svg>
-                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
-                    </div>
-                    <div class="text">
-                        <small>STEP 2</small>
-                        <h3>Print our “Healthcare Provider Overview” to Share with Your Healthcare Provider</h3>
-                        <p>We have created a pdf file to help facilitate a conversation with you and your Healthcare Provider.</p>
-                        <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button btn" tabindex="0">
-                            <img src="assets/images/icon-adn.png">
-                            <span>Healthcare Provider Overview</span>
-                        </a>
+                <div>
+                    <div class="content">
+                        <div class="icons">
+                            <strong>2</strong>
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
+                                <path d="M214.3,146.8H85.7c-6.5,0-11.8,5.3-11.8,11.8v107.8c0,6.5,5.3,11.8,11.8,11.8h128.6c6.5,0,11.8-5.3,11.8-11.8V158.6
+                                C226.1,152.1,220.8,146.8,214.3,146.8z M216.5,266.4c0,1.2-1,2.2-2.2,2.2H85.7c-1.2,0-2.2-1-2.2-2.2V158.6c0-1.2,1-2.2,2.2-2.2
+                                h128.6c1.2,0,2.2,1,2.2,2.2V266.4z M65.9,113.2c-5.3,0-9.6,4.3-9.6,9.6s4.3,9.6,9.6,9.6c5.3,0,9.6-4.3,9.6-9.6
+                                S71.2,113.2,65.9,113.2z M83.5,32.3c0-0.4,0.4-0.8,0.8-0.8h131.4c0.4,0,0.8,0.4,0.8,0.8v48.9h9.6V32.3c0-5.7-4.7-10.4-10.4-10.4
+                                H84.3c-5.7,0-10.4,4.7-10.4,10.4v48.9h9.6V32.3z M237.7,82.7H62.3C44,82.7,29.1,97.6,29.1,116V184c0,18.3,14.9,33.2,33.2,33.2h6.8
+                                v-9.6h-6.8c-13,0-23.6-10.6-23.6-23.6V116c0-13,10.6-23.6,23.6-23.6h175.4c13,0,23.6,10.6,23.6,23.6V184c0,13-10.6,23.6-23.6,23.6
+                                h-8.4v9.6h8.4c18.3,0,33.2-14.9,33.2-33.2V116C270.9,97.6,256,82.7,237.7,82.7z M190.8,178.8h-86.5c-2.7,0-4.8,2.2-4.8,4.8
+                                c0,2.7,2.2,4.8,4.8,4.8h86.5c2.7,0,4.8-2.2,4.8-4.8C195.7,181,193.5,178.8,190.8,178.8z M104.3,217.3h54.5c2.7,0,4.8-2.2,4.8-4.8
+                                c0-2.7-2.2-4.8-4.8-4.8h-54.5c-2.7,0-4.8,2.2-4.8,4.8C99.5,215.1,101.7,217.3,104.3,217.3z M181.2,236.5h-76.9
+                                c-2.7,0-4.8,2.2-4.8,4.8c0,2.7,2.2,4.8,4.8,4.8h76.9c2.7,0,4.8-2.2,4.8-4.8C186,238.6,183.9,236.5,181.2,236.5z"/>
+                            </svg>
+                            <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
+                        </div>
+                        <div class="text">
+                            <small>STEP 2</small>
+                            <h3>Print our “Healthcare Provider Overview” to Share with Your Healthcare Provider</h3>
+                            <p>We have created a pdf file to help facilitate a conversation with you and your Healthcare Provider.</p>
+                            <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button btn" tabindex="0">
+                                <img src="assets/images/icon-adn.png">
+                                <span>Healthcare Provider Overview</span>
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div>
-                <div class="content">
-                    <div class="icons">
-                        <strong>3</strong>
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-                            <path d="M253.5,91.1c0.6-1.9,0.1-3.9-1.3-5.3l-54.6-54.6c-1.4-1.4-3.4-1.9-5.3-1.3c-1.9,0.6-3.2,2.2-3.6,4.1l-2,11.6L23.7,208.7
-                            c-14.1,14.1-14.1,37,0,51.1c6.8,6.8,15.9,10.5,25.5,10.5s18.7-3.7,25.5-10.5L238.1,96.4l11.3-1.8C251.3,94.4,252.9,93,253.5,91.1z
-                            M234.8,86.4c-1.1,0.2-2.1,0.7-2.9,1.5l-12,12l-14.1-14.1c-2-2-5.3-2-7.4,0c-2,2-2,5.3,0,7.4l14.1,14.1l-22.7,22.7l-14.1-14.1
-                            c-2-2-5.3-2-7.4,0c-2,2-2,5.3,0,7.4l14.1,14.1L67.3,252.4c-4.8,4.8-11.3,7.5-18.2,7.5s-13.3-2.7-18.2-7.5c-10-10-10-26.3,0-36.3
-                            L195.3,51.8c0.8-0.8,1.3-1.7,1.5-2.8l0.6-3.3L237.6,86L234.8,86.4z M40.6,226.4c-4.3,4.3-4.3,11.3,0,15.7c4.3,4.3,11.3,4.3,15.7,0
-                            l68.6-68.6l-15.7-15.7L40.6,226.4z M285.7,153.6c-4-12.1-19.3-35-19.9-36c-1.9-2.9-6.7-2.9-8.7,0c-0.3,0.5-8.1,12.3-16,31.9
-                            c-5,12.6-2.5,20.5,0.5,24.9c4,5.9,11.2,9.3,19.8,9.3c9.1,0,17-3.6,21.5-9.9C287,168.1,288,160.7,285.7,153.6z M274.4,167.7
-                            c-2.6,3.6-7.2,5.6-13,5.6c-5,0-9.2-1.8-11.2-4.7c-2.9-4.2-1.3-10.6,0.6-15.2c4-9.9,7.9-17.7,10.8-22.9c4.7,7.6,11.9,19.5,14.2,26.5
-                            C277.1,160.9,276.6,164.7,274.4,167.7z"/>
-                        </svg>
-                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
-                    </div>
-                    <div class="text">
-                        <small>STEP 3</small>
-                        <h3>Request Testing</h3>
-                        <ul>
-                            <p>Your Healthcare Provider will collect a blood sample for submission to our CLIA laboratory in St. Paul, MN for analysis.</p>
-                            <li class="italic">Note that fasting for 8-12 hours before your test is required. </li>
+                <div>
+                    <div class="content">
+                        <div class="icons">
+                            <strong>3</strong>
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
+                                <path d="M253.5,91.1c0.6-1.9,0.1-3.9-1.3-5.3l-54.6-54.6c-1.4-1.4-3.4-1.9-5.3-1.3c-1.9,0.6-3.2,2.2-3.6,4.1l-2,11.6L23.7,208.7
+                                c-14.1,14.1-14.1,37,0,51.1c6.8,6.8,15.9,10.5,25.5,10.5s18.7-3.7,25.5-10.5L238.1,96.4l11.3-1.8C251.3,94.4,252.9,93,253.5,91.1z
+                                M234.8,86.4c-1.1,0.2-2.1,0.7-2.9,1.5l-12,12l-14.1-14.1c-2-2-5.3-2-7.4,0c-2,2-2,5.3,0,7.4l14.1,14.1l-22.7,22.7l-14.1-14.1
+                                c-2-2-5.3-2-7.4,0c-2,2-2,5.3,0,7.4l14.1,14.1L67.3,252.4c-4.8,4.8-11.3,7.5-18.2,7.5s-13.3-2.7-18.2-7.5c-10-10-10-26.3,0-36.3
+                                L195.3,51.8c0.8-0.8,1.3-1.7,1.5-2.8l0.6-3.3L237.6,86L234.8,86.4z M40.6,226.4c-4.3,4.3-4.3,11.3,0,15.7c4.3,4.3,11.3,4.3,15.7,0
+                                l68.6-68.6l-15.7-15.7L40.6,226.4z M285.7,153.6c-4-12.1-19.3-35-19.9-36c-1.9-2.9-6.7-2.9-8.7,0c-0.3,0.5-8.1,12.3-16,31.9
+                                c-5,12.6-2.5,20.5,0.5,24.9c4,5.9,11.2,9.3,19.8,9.3c9.1,0,17-3.6,21.5-9.9C287,168.1,288,160.7,285.7,153.6z M274.4,167.7
+                                c-2.6,3.6-7.2,5.6-13,5.6c-5,0-9.2-1.8-11.2-4.7c-2.9-4.2-1.3-10.6,0.6-15.2c4-9.9,7.9-17.7,10.8-22.9c4.7,7.6,11.9,19.5,14.2,26.5
+                                C277.1,160.9,276.6,164.7,274.4,167.7z"/>
+                            </svg>
+                            <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
+                        </div>
+                        <div class="text">
+                            <small>STEP 3</small>
+                            <h3>Request Testing</h3>
+                            <ul>
+                                <p>Your Healthcare Provider will collect a blood sample for submission to our CLIA laboratory in St. Paul, MN for analysis.</p>
+                                <li class="italic">Note that fasting for 8-12 hours before your test is required. </li>
 
-                        </ul>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div>
-                <div class="content">
-                    <div class="icons">
-                        <strong>4</strong>
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-                            <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
-                            c-13.2,0-24,10.8-24,24v221.3c0,13.2,10.8,24,24,24h181.1c13.2,0,24-10.8,24-24V44.9C264.5,31.6,253.8,20.9,240.5,20.9z
-                            M254.3,266.2c0,7.6-6.2,13.7-13.7,13.7H59.5c-7.6,0-13.7-6.2-13.7-13.7V44.9c0-7.6,6.2-13.7,13.7-13.7h40.1v18.8
-                            c0,0.4,0.1,0.9,0.2,1.3c-0.1,0.4-0.2,0.8-0.2,1.3c0,2.8,2.3,5.1,5.1,5.1h85.5c2.8,0,5.1-2.3,5.1-5.1V40.7c0-2.8-2.3-5.1-5.1-5.1
-                            c-2.8,0-5.1,2.3-5.1,5.1v6.5h-75.3V31.1H129c1.4,0,2.7-0.6,3.7-1.5l4.6-4.7c3-3.1,7.1-4.8,11.4-4.8c4.3,0,8.4,1.7,11.4,4.8l4.6,4.7
-                            c1,1,2.3,1.5,3.7,1.5h72.1c7.6,0,13.7,6.2,13.7,13.7V266.2z M142.5,112.7H82.1c-2.8,0-5.1,2.3-5.1,5.1c0,2.8,2.3,5.1,5.1,5.1h60.4
-                            c2.8,0,5.1-2.3,5.1-5.1C147.6,115,145.3,112.7,142.5,112.7z M213.7,97.8l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.2,0,7.3
-                            l15.7,15.7c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4c2-2,2-5.3,0-7.3C218.9,95.8,215.7,95.8,213.7,97.8z M142.5,165.5H82.1
-                            c-2.8,0-5.1,2.3-5.1,5.1c0,2.8,2.3,5.1,5.1,5.1h60.4c2.8,0,5.1-2.3,5.1-5.1C147.6,167.8,145.3,165.5,142.5,165.5z M213.7,150.6
-                            l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.3,0,7.3l15.7,15.7c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4
-                            c2-2,2-5.3,0-7.3C218.9,148.6,215.7,148.6,213.7,150.6z M142.5,218.3H82.1c-2.8,0-5.1,2.3-5.1,5.1s2.3,5.1,5.1,5.1h60.4
-                            c2.8,0,5.1-2.3,5.1-5.1S145.3,218.3,142.5,218.3z M213.7,203.5l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.3,0,7.3l15.7,15.7
-                            c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4c2-2,2-5.3,0-7.3C218.9,201.5,215.7,201.5,213.7,203.5z"/>
-                        </svg>
-                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
-                    </div>
-                    <div class="text">
-                        <small>STEP 4</small>
-                        <h3>Fill Out the Online Questionnaire</h3>
-                        <p>You will receive a call or an email inviting you to set up a portal account and to submit a questionnaire related to your diet, exercise, and other behaviors.</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="content">
-                    <div class="icons">
-                        <strong>5</strong>
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
-                            <path d="M226.4,41.5c0,0,0-0.1,0-0.1c0-10.3-8.4-18.7-18.7-18.7c-10.3,0-18.7,8.4-18.7,18.7S197.4,60,207.7,60
-                            c6.6,0,12.4-3.4,15.7-8.6c8.3,4.5,26.8,16.7,26.8,37.5c0,27.4-11.5,46.5-22.8,61.5c-10.3,13.7-29.4,28.5-46.9,28.5
-                            s-36.6-14.8-46.9-28.5c-11.3-15-22.8-34-22.8-61.5c0-20.8,18.4-33,26.8-37.5c3.3,5.2,9.1,8.6,15.7,8.6c10.3,0,18.7-8.4,18.7-18.7
-                            s-8.4-18.7-18.7-18.7s-18.7,8.4-18.7,18.7c0,0,0,0.1,0,0.1c-9.1,4.5-34,19.3-34,47.4c0,30.4,12.5,51.2,24.8,67.6
-                            c11.2,14.9,30.5,29.9,49.9,32.3v53c0,16.9-7.4,25.5-22.1,25.5c-12.7,0-25.5-6.8-25.5-22.1v-37.4c0-8.1-8.6-18-17.1-21.1
-                            c0.1-0.9,0.1-1.8,0.1-2.7c0-19.7-16-35.7-35.7-35.7s-35.7,16-35.7,35.7s16,35.7,35.7,35.7c15.2,0,28.1-9.5,33.3-22.9
-                            c4.1,2.1,9.2,7.8,9.2,11v37.4c0,19,14.7,32.3,35.7,32.3c20.5,0,32.3-13,32.3-35.7v-53c19.4-2.3,38.7-17.3,49.9-32.3
-                            c12.3-16.3,24.8-37.2,24.8-67.6C260.4,60.8,235.5,45.9,226.4,41.5z M207.7,49.8c-4.7,0-8.5-3.8-8.5-8.5s3.8-8.5,8.5-8.5
-                            c4.7,0,8.5,3.8,8.5,8.5S212.4,49.8,207.7,49.8z M153.4,32.8c4.7,0,8.5,3.8,8.5,8.5s-3.8,8.5-8.5,8.5c-4.7,0-8.5-3.8-8.5-8.5
-                            S148.7,32.8,153.4,32.8z M75.3,209.4c-14,0-25.5-11.4-25.5-25.5c0-14,11.4-25.5,25.5-25.5s25.5,11.4,25.5,25.5
-                            C100.8,198,89.3,209.4,75.3,209.4z M75.3,170.4c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6c7.5,0,13.6-6.1,13.6-13.6
-                            C88.9,176.5,82.8,170.4,75.3,170.4z"/>
-                        </svg>
-                        <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
-                    </div>
-                    <div class="text">
-                        <small>STEP 5</small>
-                        <h3>Discuss the Results with your Healthcare Provider</h3>
-                        <p>Reports are delivered in 7-10 business days to your Healthcare Provider.</p>
-                        <p>Armed with the information about your unique sub-type, your Healthcare Provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
-                        <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
-                            <img src="assets/images/icon-adn.png">
-                            <span>Sample Report</span>
-                        </a>
+                <div>
+                    <div class="content">
+                        <div class="icons">
+                            <strong>4</strong>
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
+                                <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
+                                c-13.2,0-24,10.8-24,24v221.3c0,13.2,10.8,24,24,24h181.1c13.2,0,24-10.8,24-24V44.9C264.5,31.6,253.8,20.9,240.5,20.9z
+                                M254.3,266.2c0,7.6-6.2,13.7-13.7,13.7H59.5c-7.6,0-13.7-6.2-13.7-13.7V44.9c0-7.6,6.2-13.7,13.7-13.7h40.1v18.8
+                                c0,0.4,0.1,0.9,0.2,1.3c-0.1,0.4-0.2,0.8-0.2,1.3c0,2.8,2.3,5.1,5.1,5.1h85.5c2.8,0,5.1-2.3,5.1-5.1V40.7c0-2.8-2.3-5.1-5.1-5.1
+                                c-2.8,0-5.1,2.3-5.1,5.1v6.5h-75.3V31.1H129c1.4,0,2.7-0.6,3.7-1.5l4.6-4.7c3-3.1,7.1-4.8,11.4-4.8c4.3,0,8.4,1.7,11.4,4.8l4.6,4.7
+                                c1,1,2.3,1.5,3.7,1.5h72.1c7.6,0,13.7,6.2,13.7,13.7V266.2z M142.5,112.7H82.1c-2.8,0-5.1,2.3-5.1,5.1c0,2.8,2.3,5.1,5.1,5.1h60.4
+                                c2.8,0,5.1-2.3,5.1-5.1C147.6,115,145.3,112.7,142.5,112.7z M213.7,97.8l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.2,0,7.3
+                                l15.7,15.7c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4c2-2,2-5.3,0-7.3C218.9,95.8,215.7,95.8,213.7,97.8z M142.5,165.5H82.1
+                                c-2.8,0-5.1,2.3-5.1,5.1c0,2.8,2.3,5.1,5.1,5.1h60.4c2.8,0,5.1-2.3,5.1-5.1C147.6,167.8,145.3,165.5,142.5,165.5z M213.7,150.6
+                                l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.3,0,7.3l15.7,15.7c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4
+                                c2-2,2-5.3,0-7.3C218.9,148.6,215.7,148.6,213.7,150.6z M142.5,218.3H82.1c-2.8,0-5.1,2.3-5.1,5.1s2.3,5.1,5.1,5.1h60.4
+                                c2.8,0,5.1-2.3,5.1-5.1S145.3,218.3,142.5,218.3z M213.7,203.5l-27.8,27.8l-12.1-12.1c-2-2-5.2-2-7.3,0c-2,2-2,5.3,0,7.3l15.7,15.7
+                                c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4c2-2,2-5.3,0-7.3C218.9,201.5,215.7,201.5,213.7,203.5z"/>
+                            </svg>
+                            <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
+                        </div>
+                        <div class="text">
+                            <small>STEP 4</small>
+                            <h3>Fill Out the Online Questionnaire</h3>
+                            <p>You will receive a call or an email inviting you to set up a portal account and to submit a questionnaire related to your diet, exercise, and other behaviors.</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-                    <!-- <div>
+                <div>
+                    <div class="content">
+                        <div class="icons">
+                            <strong>5</strong>
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
+                                <path d="M226.4,41.5c0,0,0-0.1,0-0.1c0-10.3-8.4-18.7-18.7-18.7c-10.3,0-18.7,8.4-18.7,18.7S197.4,60,207.7,60
+                                c6.6,0,12.4-3.4,15.7-8.6c8.3,4.5,26.8,16.7,26.8,37.5c0,27.4-11.5,46.5-22.8,61.5c-10.3,13.7-29.4,28.5-46.9,28.5
+                                s-36.6-14.8-46.9-28.5c-11.3-15-22.8-34-22.8-61.5c0-20.8,18.4-33,26.8-37.5c3.3,5.2,9.1,8.6,15.7,8.6c10.3,0,18.7-8.4,18.7-18.7
+                                s-8.4-18.7-18.7-18.7s-18.7,8.4-18.7,18.7c0,0,0,0.1,0,0.1c-9.1,4.5-34,19.3-34,47.4c0,30.4,12.5,51.2,24.8,67.6
+                                c11.2,14.9,30.5,29.9,49.9,32.3v53c0,16.9-7.4,25.5-22.1,25.5c-12.7,0-25.5-6.8-25.5-22.1v-37.4c0-8.1-8.6-18-17.1-21.1
+                                c0.1-0.9,0.1-1.8,0.1-2.7c0-19.7-16-35.7-35.7-35.7s-35.7,16-35.7,35.7s16,35.7,35.7,35.7c15.2,0,28.1-9.5,33.3-22.9
+                                c4.1,2.1,9.2,7.8,9.2,11v37.4c0,19,14.7,32.3,35.7,32.3c20.5,0,32.3-13,32.3-35.7v-53c19.4-2.3,38.7-17.3,49.9-32.3
+                                c12.3-16.3,24.8-37.2,24.8-67.6C260.4,60.8,235.5,45.9,226.4,41.5z M207.7,49.8c-4.7,0-8.5-3.8-8.5-8.5s3.8-8.5,8.5-8.5
+                                c4.7,0,8.5,3.8,8.5,8.5S212.4,49.8,207.7,49.8z M153.4,32.8c4.7,0,8.5,3.8,8.5,8.5s-3.8,8.5-8.5,8.5c-4.7,0-8.5-3.8-8.5-8.5
+                                S148.7,32.8,153.4,32.8z M75.3,209.4c-14,0-25.5-11.4-25.5-25.5c0-14,11.4-25.5,25.5-25.5s25.5,11.4,25.5,25.5
+                                C100.8,198,89.3,209.4,75.3,209.4z M75.3,170.4c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6c7.5,0,13.6-6.1,13.6-13.6
+                                C88.9,176.5,82.8,170.4,75.3,170.4z"/>
+                            </svg>
+                            <img src="assets/images/how-its-work-shadow.png" class="img-fluid">
+                        </div>
+                        <div class="text">
+                            <small>STEP 5</small>
+                            <h3>Discuss the Results with your Healthcare Provider</h3>
+                            <p>Reports are delivered in 7-10 business days to your Healthcare Provider.</p>
+                            <p>Armed with the information about your unique sub-type, your Healthcare Provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
+                            <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
+                                <img src="assets/images/icon-adn.png">
+                                <span>Sample Report</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div>
                         <div class="content">
                             <div class="icons">
                                 <strong>6</strong>
@@ -209,7 +209,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div> -->
+                </div> -->
                 <!-- <div>
                         <div class="content">
                             <div class="icons">
@@ -232,10 +232,10 @@
                                 </ul>
                             </div>
                         </div>
-                    </div> -->
-                </div>
-                <div class="slick-dots-container"></div>
-                <div data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear arrows">
+                </div> -->
+            </div>
+            <div class="slick-dots-container"></div>
+            <div data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear arrows">
                     <a href="#" class="arrow-left">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M135,150l74.8-74.8c8.3-8.3,8.3-21.6,0-29.9s-21.7-8.3-29.9,0L90.2,135c-8.3,8.3-8.3,21.6,0,29.9l89.7,89.7
@@ -248,8 +248,8 @@
                             c8.3,8.3,21.6,8.3,29.9,0l89.7-89.7C218.1,156.7,218.1,143.3,209.8,135z"/>
                         </svg>
                     </a>            
-                </div>
-                <div data-toggle="appear" class="slick-paginator-lg">
+            </div>
+            <div data-toggle="appear" class="slick-paginator-lg">
                     <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear active">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M278.1,55.7c-7.8-7.1-18.4-8.7-24.9-8.9v-6.8c0-9.5-7.7-17.2-17.2-17.2c-9.5,0-17.2,7.7-17.2,17.2v6.9h-86v-6.9
@@ -362,7 +362,7 @@
                             C125.5,221.5,125.5,221.3,125.5,221.1z"/>
                         </svg>
                     </div> -->
-                <!-- <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
+            <!-- <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                         <path d="M150,54.5c-61.4,0-111.4,50-111.4,111.4s50,111.4,111.4,111.4s111.4-50,111.4-111.4S211.4,54.5,150,54.5z M150,267.8
                         c-56.2,0-101.9-45.7-101.9-101.9S93.8,64,150,64s101.9,45.7,101.9,101.9S206.2,267.8,150,267.8z M221.6,162.7h-68.4V97.5
@@ -370,7 +370,7 @@
                         c2.6,0,4.8-2.1,4.8-4.8S224.3,162.7,221.6,162.7z M126.1,32.2h17.5v11.1c0,2.6,2.1,4.8,4.8,4.8s4.8-2.1,4.8-4.8V32.2h17.5
                         c2.6,0,4.8-2.1,4.8-4.8s-2.1-4.8-4.8-4.8h-44.6c-2.6,0-4.8,2.1-4.8,4.8S123.5,32.2,126.1,32.2z"/>
                     </svg>              
-                </div> -->
+            </div> -->
             </div>
         </div>
     </section>
