@@ -211,7 +211,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-6 d-none d-lg-flex col-extend justify-content-between" style="background-color: #efeff1;">
-        <img src="assets/images/maximizing-weight-loss-2/grafico_2.svg" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid">
+        <img src="assets/images/maximizing-weight-loss-2/grafico_2.svg" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear img-fluid" style="height: 80%;">
         <p data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear text-center">Successful weight loss defined by treatment response of >3% weight loss <br> at 3 months and >10% weight loss at 6 months.</p>
       </div>
     </div>
