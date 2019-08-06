@@ -7,27 +7,31 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-3 contact-form-phone">
+        <div class="col-lg-4 contact-form-phone">
           <div class="row pb-0 pb-lg-3">
             <div class="col-3 d-flex align-items-center">
               <img src="assets/images/icon-mail.png" class="img-fluid">
             </div>
             <div class="col-9 p-0 text-center text-direction">
-              info@phenomixsciences.com<br>
+              <strong>info@phenomixsciences.com</strong><br>
               1000 Westgate Drive<br>
-              Suite 1002-1003 St. Paul, MN 55114<br>
+              Suite 1002-1003<br>
+              St. Paul, MN 55114<br>
             </div>
           </div>
           <div class="row">
             <div class="col-3 d-flex align-items-center">
               <img src="assets/images/icon-phone.png" class="img-fluid">
             </div>
-            <div class="col-9 p-0 text-direction d-flex align-items-center justify-content-center">
-              1-877-673-0981 (Toll Free)
+            <div class="col-9 p-0 text-direction text-center d-flex align-items-center justify-content-center">
+              <p class="m-0">
+                <strong>1-877-673-0981</strong>
+                <br>
+                (Toll Free)</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-4">
           <div class="form-group mb-0 mb-lg-3">
             <input type="text" class="form-input" placeholder="First Name">
           </div>
@@ -42,7 +46,7 @@
             <p class="d-none p-0 d-lg-block">(*) Required fields</p>
           </div>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-4">
           <div class="form-group mb-0 mb-lg-3 required">
             <div class="as"></div>
             <input type="text" class="form-input" placeholder="Phone Number" required>
@@ -69,14 +73,15 @@
             <p class="d-block d-lg-none">(*) Required fields</p>
           </div>
           <div class="form-group mb-0 mb-lg-3 mb-3">
-              <label class="container-label" for="customRadioInline1">Accept Terms & Conditions
-                <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark">
-                <span class="checkmark"></span>
-              </label>
-            </div>  
-        </div>
-        <div class="style-submit col-lg-3">
-          <button type="submit" class="btn-block">SEND</button>
+            <label class="container-label text-right" for="customRadioInline1">
+              <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark">
+              <span class="checkmark"></span>
+              Accept Terms & Conditions
+            </label>
+          </div>  
+          <div class="style-submit col-lg-9 offset-lg-3 px-lg-0">
+            <button type="submit" class="btn-block">SEND</button>
+          </div>
         </div>
       </div>
     </form>
