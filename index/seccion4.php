@@ -289,7 +289,7 @@
 
   @media (min-width:992px) {
     #why-it-works{
-      background: url(./assets/images/bg-affiliations.png) no-repeat 50% -52% transparent;
+      background: url(./assets/images/bg-affiliations-ok.png) no-repeat 50% -52% transparent;
       padding-bottom: 40px;
       background-color: #efeff1;
     }

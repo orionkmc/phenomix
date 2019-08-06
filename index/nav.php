@@ -104,12 +104,6 @@
       <li class="im login bar">
         <a href="#" class="btn btn-sm btn-secondary btn-login px-3" data-toggle="modal" data-target="#modalLogin">Login</a>
       </li>
-      <li>
-        
-      <a data-rel="lightcase" href="legal/PrivacyPractices/PrivacyPractices.html" target="_blank">
-        word
-      </a>
-      </li>
     </ul>
 
     <ul class="footer">

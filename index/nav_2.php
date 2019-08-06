@@ -32,7 +32,7 @@
           </a>
         </li>
         <li class="im">
-          <a href="index.php#why-it-works-2" data-slide="4">
+          <a href="index.php#what-others-are-saying" data-slide="4">
             What Others are Saying
           </a>
         </li>
@@ -81,7 +81,7 @@
   <div class="container">
     <ul class="menu-center">
       <li class="im">
-        <a href="index.php#maximizing-weight-loss" data-slide="1" class="">
+        <a href="index.php#maximizing-weight-loss" data-slide="1">
           Obesity Phenotyping
         </a>                      
       </li>
