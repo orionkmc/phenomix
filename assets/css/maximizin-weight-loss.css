@@ -48,6 +48,9 @@ section#maximizing-weight-loss{
   color: #1E4484;
   text-decoration: underline;
 }
+#maximizing-weight-loss a:focus {
+  outline-color: transparent;
+}
 #maximizing-weight-loss .middle-down .content .items-phenotype h5{
   font-family: Roboto Slab;
   color: #1E4484;

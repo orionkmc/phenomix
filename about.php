@@ -232,7 +232,7 @@
           </div>
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/paul_owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Paul Owen</h5>
                 <span>Strategic Advisor </span>

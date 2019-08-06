@@ -2,10 +2,10 @@
   <section id="why-it-works-2" class="container d-flex align-items-center h-100">
       <div class="row align-items-center">
           <div class="col-12 col-lg-6 h-50 mt-2 text-center col-extends img-graphic-1">
-              <img src="assets/images/maximizing-weight-loss-2/grafico_1.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear pb-3 img-fluid">
+              <img src="assets/images/maximizing-weight-loss-2/grafico_1.svg" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear pb-3 img-fluid">
           </div>
           <div class="col-12 col-lg-6 h-50 text-center col-extends img-graphic-2">
-              <img src="assets/images/maximizing-weight-loss-2/grafico_2.png" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear pb-3 img-fluid">
+              <img src="assets/images/maximizing-weight-loss-2/grafico_2.svg" data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear pb-3 img-fluid">
               <p data-toggle="appear" data-appear-class="fadeIn slow delay-1s" class="appear text-center">Successful weight loss defined by treatment response of >3% weight loss at 3 months and >10% weight loss at 6 months.</p>
           </div>
       </div>
