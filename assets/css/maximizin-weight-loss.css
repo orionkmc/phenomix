@@ -4,6 +4,7 @@ section#maximizing-weight-loss{
 }
 #maximizing-weight-loss .middle-up{
   padding-top: 50px;
+  padding-bottom: 70px;
 }
 #maximizing-weight-loss .middle-up .content h1{
   font-size: 36px !important;
@@ -114,6 +115,9 @@ section#maximizing-weight-loss{
 @media (min-width: 992px){
   #maximizing-weight-loss{
     padding-bottom: 50px;
+  }
+  #maximizing-weight-loss .middle-up{
+    padding-bottom: 0;
   }
   section#maximizing-weight-loss{
     height: 100%;

@@ -264,6 +264,7 @@
     font-size: 2.5vh !important;
     font-family: Roboto Slab;
     text-decoration: underline;
+    cursor: auto;
   }
 
   #why-it-works #publications .content .publication .appear{
