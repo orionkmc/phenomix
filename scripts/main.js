@@ -2,6 +2,7 @@ $(document).ready(function(){
   var i = new Swiper(".swiper-container", {
     direction: "vertical",
     mousewheel: !0,
+    simulateTouch: false,
     speed: 1200,
     pagination: {
       el: ".swiper-pagination"

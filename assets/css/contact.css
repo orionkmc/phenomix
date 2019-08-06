@@ -66,6 +66,7 @@
   }
   #contact .contact-form {
     padding: 0px 15px;
+    padding-bottom: 6%;
     justify-content: flex-end;
   }
   #contact .contact-form .contact-form-phone>div {

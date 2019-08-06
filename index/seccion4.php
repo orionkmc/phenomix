@@ -227,7 +227,7 @@
   #why-it-works .container-row{
     padding: 0px 7%;
     height: 50%;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
   }
 
@@ -296,6 +296,7 @@
     
     #why-it-works .container-row{
       padding: 0px 7%;
+      align-items: center;
     }
     #why-it-works  h1{
       font-size: 48px;
