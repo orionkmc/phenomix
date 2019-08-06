@@ -18,8 +18,12 @@ $(document).ready(function(){
       var e = $(this);
       e.addClass("animated slow " + e.data("appearClass"))
     })
-  }), $(".swiper-container").length && (0 < i.activeIndex ? $("nav").addClass("collapsed") : $("nav").removeClass("collapsed")), $("*[data-slide]").click(function (e) {
-    e.preventDefault(), $(this).attr("href").includes(window.location.pathname.substr(window.location.pathname.lastIndexOf('/') + 1)) ? (i.slideTo($(this).data("slide")), $(".menu").hasClass("open") && $(".menu").removeClass("open")) : window.location = $(this).attr("href")
+  }), $(".swiper-container").length && (0 < i.activeIndex ? $("nav").addClass("collapsed") : $("nav").removeClass("collapsed")),
+  $("*[data-slide]").click(function (e) {
+    e.preventDefault(), 
+    console.log('asd')
+    $(this).attr("href").includes(window.location.pathname.substr(window.location.pathname.lastIndexOf('/') + 1)) ? (i.slideTo($(this).data("slide")),
+    $(".menu").hasClass("open") && $(".menu").removeClass("open")) : window.location = $(this).attr("href")
   }), $("#slick-licences").slick({
     slidesToShow: 4,
     autoplay: !0,

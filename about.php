@@ -246,7 +246,7 @@
 
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/ken_fujioka.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Ken Fujioka, MD</h5>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalKenFujioka"><i class="fas fa-chevron-right"></i> Biography</a>
@@ -256,7 +256,7 @@
 
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/angela_fitch.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Angela Fitch, MD</h5>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalAngelaFitch"><i class="fas fa-chevron-right"></i> Biography</a>
@@ -269,7 +269,7 @@
 
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/shelby_sullivan.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Shelby Sullivan, MD</h5>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalShelbySullivan"><i class="fas fa-chevron-right"></i> Biography</a>
@@ -279,7 +279,7 @@
 
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/angela_golden.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Angela Golden, NP</h5>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalAngelaGolden"><i class="fas fa-chevron-right"></i> Biography</a>
@@ -292,7 +292,7 @@
 
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio-owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/craig_primack.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA</h5>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalCraigPrimack"><i class="fas fa-chevron-right"></i> Biography</a>
@@ -622,7 +622,7 @@
       <div class="modal-content">
         <div class="modal-body">
           <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
+            <span aria-hidden="true">&times;< /span>
           </button>       
           <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA
             <a href="https://www.linkedin.com/in/craigprimack/" class="btn-linkedin" target="_blank">

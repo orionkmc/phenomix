@@ -6,7 +6,8 @@
   align-items: center;
 }
 #about .team {
-    background-color: #f0f2f4;
+    background: url(../images/background/contact-header.jpg) 50% transparent;
+    background-color: #fff;
     padding: 25px 0
 }
 

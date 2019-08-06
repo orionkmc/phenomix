@@ -6,7 +6,7 @@
           <div class="row h-100">
             <div class="col-12 col-lg-6 h-100 d-flex align-items-center bg-gradient">
               <div class="content">
-                <img class="img-fluid d-lg-none" src="assets/images/maximizing-header-lg.jpg" alt="">
+                <img class="img-fluid d-lg-none" src="assets/images/background/maximizing-header-lg.jpg" alt="">
                 <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
                   You are Unique
                 </h1>
