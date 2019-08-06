@@ -135,8 +135,15 @@
 }
 
 @media (max-width: 575.98px){
+  #what-others-are-saying {
+    padding-bottom: 50px;
+  }
+  #what-others-are-saying .header h2 {
+    font-size: 25px;
+  }
   #what-others-are-saying .header .slick-saying .content p {
     font-size: 10px;
+    line-height: 12px;
   }
 }
 

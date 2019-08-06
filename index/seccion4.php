@@ -251,7 +251,6 @@
     margin-bottom: 25px;
     text-align: center
   }
-  
   #why-it-works p {
     font-family: Roboto Lt;
     font-size: 14px;
@@ -319,4 +318,13 @@
       width: 110px;
     }
   }
+  @media (max-width: 575.98px){
+    #why-it-works h1 {
+      font-size: 25px;
+      margin-bottom: 20px;
+    }
+    #why-it-works #publications .content .publication .appear{
+    width: 100px;
+    }
+  }  
 </style>

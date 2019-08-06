@@ -171,3 +171,9 @@ section#maximizing-weight-loss{
 @media (min-width: 1980px){
 
 }
+/* RESOLUTION 576 DOWN*/
+@media (min-width: 575.98px){
+  #maximizing-weight-loss .middle-up{
+    padding-top: 56px;
+  }
+}

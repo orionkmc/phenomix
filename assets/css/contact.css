@@ -288,3 +288,18 @@
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
+
+@media (max-width: 575.98px){
+  #contact .contact-form {
+    padding-bottom: 10%;
+  }
+  #contact .contact-form h1 {
+    font-size: 25px !important;
+  }
+  .container-label {
+    font-size: 12px;
+  }
+  #contact .contact-form .form-group p {
+   padding: 10px 0;
+  }
+}
