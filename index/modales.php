@@ -97,7 +97,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
-        <h5 class="modal-title" id="exampleModalLabel">Slow Bur</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Slow Burn</h5>
         <br>
         <p>With this phenotype, the base metabolic rate is lower than normal; this is also known as abnormal energy expenditure.  The slow burn phenotype has been characterized clinically by low muscle mass and abnormal resting energy expenditure (metabolic rate) as measured by indirect calorimetry. Presence of certain gene variants and/or low levels of certain metabolites may be used to predict the slow burn phenotype. Increasing physical activity may prove to be the most effective weight-loss  strategy for patients presenting with a dominant slow burn obesity phenotype.</p>
       </div>
