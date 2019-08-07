@@ -622,7 +622,7 @@
       <div class="modal-content">
         <div class="modal-body">
           <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;< /span>
+            <span aria-hidden="true">&times;</span>
           </button>       
           <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA
             <a href="https://www.linkedin.com/in/craigprimack/" class="btn-linkedin" target="_blank">
