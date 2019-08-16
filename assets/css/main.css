@@ -483,7 +483,7 @@ section .overflow-hidden {
     display: none
 }
 
-@media only screen and (min-device-width:320px) and (max-device-width:640px) and (orientation:landscape) {
+@media only screen and (min-device-width:320px) and (max-device-width:768px) and (orientation:landscape) {
     .placa {
         display: block;
         position: absolute;
@@ -496,7 +496,7 @@ section .overflow-hidden {
         z-index: 100000000000
     }
 }
-@media only screen and (min-device-height:320px) and (max-device-height:640px) and (orientation:landscape) {
+/*@media only screen and (min-device-height:320px) and (max-device-height:640px) and (orientation:landscape) {
     .placa {
         display: block;
         position: absolute;
@@ -508,7 +508,7 @@ section .overflow-hidden {
         background-size: cover;
         z-index: 100000000000
     }
-}
+}*/
 
 nav .menu ul.right li.login:before {
     background-color: transparent;

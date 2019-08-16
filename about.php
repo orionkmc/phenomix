@@ -62,8 +62,67 @@
   <?php include 'index/nav_2.php'; ?>
 
   <div id="about">
-    <header>
-      <div class="container-fluid pl-5p">
+    <header class="d-flex align-items-end pb-lg-5 pt-5">
+      <div class="container-fluid pl-5p pr-5p pt-2">
+        <div class="content">
+          <div class="row">
+            <div class="col-lg-6">
+              <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
+                About
+              </h1>
+              <h4 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
+                Individualized Intervention <br>for Unique Patients
+              </h4>
+              <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
+                <p>
+                  Phenomix Sciences is a comprehensive, data driven platform that brings precision medicine to obesity management. Our first product, licensed from the Mayo Clinic, is a novel blood test supported with an AI-driven algorithm that classifies the unique pathophysiological phenotype of patients with obesity. This disruptive new approach can be applied clinically to individualize therapy selections and improve overall weight-loss outcomes.
+                </p>
+              </div>
+              <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
+                <p>
+                  <strong>ABOUT US</strong><br>
+                  Phenomix Sciences was established in Rochester, MN in 2017 by two leading NIH-funded obesity experts, Dr. Andres Acosta and Dr. Michael Camilleri.<br>
+                  In early 2019, we established a start of the art facility located in University Enterprise Laboratories in St. Paul, MN. Our space is equipped with the latest platforms for metabolomic, genomic, and hormonal testing, as well as biobanking facilities to support the development and validation of the PhenoTest under strict adherence to regulatory guidelines. With the CLIA-accreditation process underway, we are anticipating launch of the PhenoTest by early 2020.
+                </p>
+              </div>
+              <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
+                <p>
+                  <strong>Our Mission, Vision, and Values</strong>
+                </p>
+              </div>
+              <div class="row">
+                <div class="col-6">
+                  <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
+                    <p>
+                      <strong>Mission</strong><br>
+                      At Phenomix Sciences, our mission is to provide precision medicine tools and services that transform obesity management with better efficacy, fewer side effects, and lower costs.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
+                    <p>
+                      <strong>Mission</strong><br>
+                      By delivering transformative new tools and services for the treatment of obesity, we envision bringing an end the obesity epidemic, one patient at a time.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 d-flex align-items-end">
+              <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500 pt-lg-3 px-lg-3" class="appear">
+                <div class="box-border-about p-3">
+                  <p class="m-0">
+                    <strong>Investment Opportunities</strong><br>
+                    If you are interested in investment opportunities with a company poised to bring precision medicine innovations to the obesity epidemic, please contact us at <a href="mailto: IR@phenomixsciences.com"><strong>IR@phenomixsciences.com</strong></a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="container-fluid pl-5p">
         <div class="content">
           <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
             About
@@ -83,7 +142,7 @@
             </p>
           </div>
         </div>
-      </div>			
+      </div> -->			
     </header>
     <section class="team">
       <h2 data-toggle="appear" data-appear-class="fadeInDown" class="appear text-center mt-5">Founders, Board, and Leadership</h2>
