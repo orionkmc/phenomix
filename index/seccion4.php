@@ -264,6 +264,9 @@
     font-family: Roboto Slab;
     text-decoration: underline;
     cursor: auto;
+  } 
+  #why-it-works a:focus{
+    outline: none;
   }
 
   #why-it-works #publications .content .publication .appear{

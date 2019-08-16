@@ -291,7 +291,7 @@
           </div>
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio/paul_owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <img src="assets/images/bio/owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Paul Owen</h5>
                 <span>Strategic Advisor </span>
@@ -381,9 +381,7 @@
           <span>Founder and CEO</span>
           <br>
           <p>Dr. Acosta is Founder and CEO of Phenomix Sciences and an Assistant Professor of Gastroenterology at the Mayo Clinic, Rochester, MN.  He is Board Certified in obesity and directs the Mayo Endoscopic Obesity Clinic.</p>
-          <br>
           <p>Dr. Acosta has spent much of his career studying obesity and gastrointestinal hormones, during which time he discovered the alternative satiation signaling pathway connecting the oral mucosa and hypothalamus.  At the Mayo Obesity Center he has been involved in clinical trials of most of the approved obesity treatments, and of many others in development.</p>
-          <br>
           <p>Dr. Acosta holds an MD from Universidad San Francisco De Quito, Ecuador, a PhD from University of Florida, Gainesville and has authored more than 35 publications and several patents pending.</p>
         </div>
       </div>
@@ -404,9 +402,7 @@
           <span>Co-Founder</span>
           <br>
           <p>Dr. Camilleri is co-Founder of Phenomix Sciences, a named Professor of Medicine, Pharmacology and Physiology and a Distinguished Investigator at the Mayo Clinic, Rochester, MN.</p>
-          <br>
           <p>Dr. Camilleri has conducted research funded by the National Institutes of Health on gastric function, and gastrointestinal hormones in obesity.</p>
-          <br>
           <p>Dr. Camilleri holds an MD from the University of Malta, a Masters of Philosophy degree (in Medicine and Physiology) from University of London, England, membership of the Royal College of Physicians of the United Kingdom, and doctorates (honoris causa) from the Universities of Antwerp, Belgium and the University of Malta.  He has authored more than 700 peer-reviewed publications.</p>
         </div>
       </div>
@@ -446,7 +442,6 @@
           <span>Interim Chief Financial Officer</span>
           <br>
           <p>Erich Heneke has 16 years of experience in management accounting in the for-profit and not-for profit sectors, with emphasis in financial planning and controls, financial modeling and forecasting and risk management.  Erich’s current role is that of Interim Chief Financial Officer at Phenomix Sciences.</p>
-          <br>
           <p>Erich earned his Masters of Business Administration (MBA) at the University of Minnesota and is currently completing his doctoral dissertation at Capella University.  He is a Certified Management Accountant (CMA), Certified Financial Manager (CFM), and Certified Fraud Examiner (CFE).</p>
         </div>
       </div>
@@ -467,7 +462,6 @@
           <span>Director, Medical Sciences</span>
           <br>
           <p>Diane Dell’Armo has over 30 years of experience in the pharmaceutical and biopharmaceutical fields, with a focus on developing medical, scientific advocates.  At Merck, Diane led multiple teams, developing scientific markets in preparation for product launches.  Several of these products ultimately became multi-billion dollar drugs.</p>
-          <br>
           <p>While at Orexigen, as Senior Director, Health Science Associates, Diane built and managed a team of 8 Health Science Associates (MSLs) with national responsibility for the top clinicians, researchers and medical opinion leaders in the field of obesity. Diane received her Bachelor of Science (BS) in Microbiology from San Jose State University.</p>
         </div>
       </div>
@@ -488,7 +482,6 @@
           <span></span>
           <br>
           <p>Donna H. Ryan, MD is Professor Emerita at Pennington Biomedical in Baton Rouge, LA. She is also President Elect of the World Obesity Federation. Dr Ryan’s research focuses on nutrition, obesity and obesity comorbidities. She has been an investigator for various US National Institutes of Health-sponsored studies, including Pounds Lost, DASH (Dietary Approaches to Stop Hypertension), DPP (Diabetes Prevention Program) and the Look AHEAD study.</p>
-          <br>
           <p>Dr. Ryan’s continuing interests focus on translation of effective weight management into primary care practices. Dr Ryan also served as Co-Chair on the expert panel for the American College of Cardiology/American Heart Association/The Obesity Society evidence-based Guidelines on the Evaluation and Management of Overweight and Obesity in Adults and was a panel member of the 2015 Endocrine Society Systematic Evidence Review and Guidelines for Medications that Affect Body Weight. In addition, she is Associate Editor in Chief of the journal Obesity.</p>
         </div>
       </div>
@@ -509,7 +502,6 @@
           <span></span>
           <br>
           <p>Dr. Abu Dayyeh is Associate Professor of Medicine, Director of the Bariatric and Metabolic Endoscopy program, and Consultant in Gastroenterology and Advanced Therapeutic endoscopy at the Mayo Clinic in Rochester, Minnesota. His research focuses on the development of minimally invasive interventions for the endoscopic management of obesity and metabolic disease.</p>
-          <br>
           <p>Dr. Abu Dayyeh has published more than 100 peer reviewed articles, reviews and book chapters in the field. His work has been cited on more than one thousand times. He has received multiple awards and grants in support of his research and has been invited to give more than 80 national and international keynote lectures. He serves as a consultant and advisor to multiple leading US and international companies who are developing novel therapeutics for obesity and metabolic disease.</p>
         </div>
       </div>
@@ -549,7 +541,6 @@
           <span></span>
           <br>
           <p>Dr. Daniel Guerron is an assistant professor of Surgery at Duke University Health System. After completing his medical school at the Pontificia Universidad Catolica del Ecuador he completed a dedicated research period of training in basic and translational research at the Children’s National Medical Center in Washington DC.He completed his residency in general Surgery at the Cleveland Clinic Foundation, Ohio where he was the recipient of the 2015 Steiger Award granted to a Surgical Resident for significant research contributions. He complemented his surgical training with an advanced gastrointestinal minimally invasive and bariatric surgery fellowship at Duke University in Durham, North Carolina.</p>
-          <br>
           <p>Dr. Guerron is passionate about clinical excellence and patient-centered care, with a particular focus on surgical research and innovation. His specialty interests include advanced laparoscopic gastrointestinal surgery, metabolic surgery, advanced endoscopy and robotic surgery.</p>
         </div>
       </div>
