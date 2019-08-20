@@ -4,6 +4,7 @@
   padding-bottom: 35px;
   display: flex;
   align-items: center;
+  background-color: rgba(255, 255, 255, .7);
 }
 
 @media (min-width:992px) {
@@ -108,13 +109,13 @@
   }
 }
 
-#home:before {
-  background-color: hsla(0, 0%, 100%, .7);
+/*#home:before {
+  background-color: rgba(255, 255, 255, .7);
   content: "";
   top: 0;
   left: 0;
   z-index: -99
-}
+}*/
 
 #home:before,
 #home video {
