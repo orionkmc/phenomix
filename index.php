@@ -71,20 +71,20 @@
 			<?php include 'index/seccion1.php'; ?>
 			<!-- Maximizing Weight Loss -->
 			<?php include 'index/seccion2.php'; ?>
-			<!-- Maximizing Weight Loss 2 -->
-			<?php include 'index/seccion3.php'; ?>
+<!-- Maximizing Weight Loss 2 -->
+<?php include 'index/seccion3.php'; ?>
 			<!-- Why It Works -->
 			<?php include 'index/seccion4.php'; ?>
-			<!-- Why It Works 2 -->
-			<?php include 'index/seccion5.php'; ?>
+<!-- Why It Works 2 -->
+<?php include 'index/seccion5.php'; ?>
 			<!-- How It Works -->
 			<?php include 'index/seccion6.php'; ?>			
 			<!-- What Others Are Saying -->
 			<?php include 'index/seccion7.php'; ?>
 			<!-- Licences -->
 			<?php include 'index/seccion8.php'; ?>
-			<!-- Licences 2 -->
-			<?php include 'index/seccion9.php'; ?>
+<!-- Licences 2 -->
+<?php include 'index/seccion9.php'; ?>
 			<!-- Contact -->
 			<?php include 'index/seccion10.php'; ?>
 		</div>
@@ -98,6 +98,26 @@
 	
 </main>
 <!-- desconocidas -->
+<script>
+if (window.matchMedia("(min-width: 992px)").matches) {
+  /* La pantalla tiene al menos 992 píxeles de ancho */
+  let maximizin = document.getElementById("maximizin-weight-loss-2");
+	let maximizin_padre = maximizin.parentNode;
+	let maximizin_padre2 = maximizin_padre.parentNode
+	maximizin_padre2.removeChild(maximizin_padre);
+
+	let why = document.getElementById("why-it-works-2");
+	let why_padre = why.parentNode;
+	let why_padre2 = why_padre.parentNode
+	why_padre2.removeChild(why_padre);
+
+	let licences2 = document.getElementById("licences2");
+	let licences2_padre = licences2.parentNode;
+	let licences2_padre2 = licences2_padre.parentNode
+	licences2_padre2.removeChild(licences2_padre);
+}
+
+</script>
 <script src="scripts/vendor.js"></script>
 <script src="scripts/main.js"></script>
 

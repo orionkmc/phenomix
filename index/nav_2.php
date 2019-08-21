@@ -32,7 +32,7 @@
           </a>
         </li>
         <li class="im">
-          <a href="index.php#why-it-works-2" data-slide="4">
+          <a href="index.php#what-others-are-saying" data-slide="4">
             What Others are Saying
           </a>
         </li>
