@@ -10,33 +10,32 @@
           </div>
       </div>
   </section>
+  <style>
+    #why-it-works-2{
+      background: #efeff1;
+      padding: 0px 7%;
+    }
+    #why-it-works-2 .col-extends{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #why-it-works-2 .img-graphic-1{
+        align-items: flex-end;
+    }
+    #why-it-works-2 .img-graphic-2{
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+    #why-it-works-2 .col-extends img{
+      width: 90%;
+    }
+    #why-it-works-2 .img-graphic-2 p{
+      color: #1e4484;
+      font-family: Roboto Lt;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 20px;
+    }
+  </style>
 </div>
-
-<style>
-  #why-it-works-2{
-    background: #efeff1;
-    padding: 0px 7%;
-  }
-  #why-it-works-2 .col-extends{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  #why-it-works-2 .img-graphic-1{
-      align-items: flex-end;
-  }
-  #why-it-works-2 .img-graphic-2{
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-  #why-it-works-2 .col-extends img{
-    width: 90%;
-  }
-  #why-it-works-2 .img-graphic-2 p{
-    color: #1e4484;
-    font-family: Roboto Lt;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 20px;
-  }
-</style>
