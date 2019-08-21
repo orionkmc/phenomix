@@ -72,11 +72,11 @@
 			<!-- Maximizing Weight Loss -->
 			<?php include 'index/seccion2.php'; ?>
 			<!-- Maximizing Weight Loss 2 -->
-			<!-- <?php include 'index/seccion3.php'; ?> -->
+			<?php include 'index/seccion3.php'; ?>
 			<!-- Why It Works -->
 			<?php include 'index/seccion4.php'; ?>
 			<!-- Why It Works 2 -->
-			<!-- <?php include 'index/seccion5.php'; ?> -->
+			<?php include 'index/seccion5.php'; ?>
 			<!-- How It Works -->
 			<?php include 'index/seccion6.php'; ?>			
 			<!-- What Others Are Saying -->
@@ -84,7 +84,7 @@
 			<!-- Licences -->
 			<?php include 'index/seccion8.php'; ?>
 			<!-- Licences 2 -->
-			<!-- <?php include 'index/seccion9.php'; ?> -->
+			<?php include 'index/seccion9.php'; ?>
 			<!-- Contact -->
 			<?php include 'index/seccion10.php'; ?>
 		</div>
