@@ -216,118 +216,118 @@
       </div>
     </div>
   </section>
-</div>
-<style>
-  #why-it-works{
-    background: #efeff1;
-    padding-top: 65px;
-    height: 100%;
-  }
-
-  #why-it-works .container-row{
-    padding: 0px 7%;
-    height: 50%;
-    align-items: flex-start;
-    justify-content: center;
-  }
-
-  #why-it-works .col-extend {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    flex-direction: column;
-  }
-  #why-it-works .col-extend img{
-    height: 70%;
-  }
-  
-  #why-it-works h1 {
-    color: #1e4484;
-    font-family: Roboto Slab;
-    font-size: 30px;
-    font-weight: 300;
-    letter-spacing: -.01em;
-    margin-bottom: 25px;
-    text-align: center
-  }
-  #why-it-works p {
-    font-family: Roboto Lt;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 20px;
-  }
-  
-  #why-it-works a{
-    color: #1e4484;
-    font-size: 2.5vh !important;
-    font-family: Roboto Slab;
-    text-decoration: underline;
-    cursor: auto;
-  } 
-  #why-it-works a:focus{
-    outline: none;
-  }
-
-  #why-it-works #publications .content .publication .appear{
-    width: 130px;
-  }
-  #why-it-works #publications .content .publications{
-    width: 90%;
-  }
-  #why-it-works #publications .content .arrows{
-    top: 46%;
-  }
-  #why-it-works .swiper-slide {
-    display: flex;
-    align-items: flex-start;
-  }
-
-  #why-it-works .publication {
-    display: flex !important;
-    flex-direction: column;
-    align-items: center;
-    margin: 0 10px;
-  }
-
-  @media (min-width:992px) {
+  <style>
     #why-it-works{
-      background: url(./assets/images/bg-affiliations-ok.png) no-repeat 50% -52% transparent;
-      padding-bottom: 40px;
-      background-color: #efeff1;
+      background: #efeff1;
+      padding-top: 65px;
+      height: 100%;
     }
-    
+
     #why-it-works .container-row{
       padding: 0px 7%;
-      align-items: center;
-    }
-    #why-it-works  h1{
-      font-size: 48px;
-      line-height: 50px;
-      font-weight: 300;
-      font-family: Roboto Slab;
-      color: #4a66b0;
-      margin-bottom: 30px;
-      text-align: left
+      height: 50%;
+      align-items: flex-start;
+      justify-content: center;
     }
 
+    #why-it-works .col-extend {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      flex-direction: column;
+    }
+    #why-it-works .col-extend img{
+      height: 70%;
+    }
+    
+    #why-it-works h1 {
+      color: #1e4484;
+      font-family: Roboto Slab;
+      font-size: 30px;
+      font-weight: 300;
+      letter-spacing: -.01em;
+      margin-bottom: 25px;
+      text-align: center
+    }
     #why-it-works p {
-        color: #1e4484;
+      font-family: Roboto Lt;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 20px;
+    }
+    
+    #why-it-works a{
+      color: #1e4484;
+      font-size: 2.5vh !important;
+      font-family: Roboto Slab;
+      text-decoration: underline;
+      cursor: auto;
+    } 
+    #why-it-works a:focus{
+      outline: none;
+    }
+
+    #why-it-works #publications .content .publication .appear{
+      width: 130px;
+    }
+    #why-it-works #publications .content .publications{
+      width: 90%;
+    }
+    #why-it-works #publications .content .arrows{
+      top: 46%;
     }
     #why-it-works .swiper-slide {
+      display: flex;
+      align-items: flex-start;
+    }
+
+    #why-it-works .publication {
+      display: flex !important;
+      flex-direction: column;
       align-items: center;
+      margin: 0 10px;
     }
-    #why-it-works #publications .content .publication .appear{
-      width: 110px;
+
+    @media (min-width:992px) {
+      #why-it-works{
+        background: url(./assets/images/bg-affiliations-ok.png) no-repeat 50% -52% transparent;
+        padding-bottom: 40px;
+        background-color: #efeff1;
+      }
+      
+      #why-it-works .container-row{
+        padding: 0px 7%;
+        align-items: center;
+      }
+      #why-it-works  h1{
+        font-size: 48px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: Roboto Slab;
+        color: #4a66b0;
+        margin-bottom: 30px;
+        text-align: left
+      }
+
+      #why-it-works p {
+          color: #1e4484;
+      }
+      #why-it-works .swiper-slide {
+        align-items: center;
+      }
+      #why-it-works #publications .content .publication .appear{
+        width: 110px;
+      }
     }
-  }
-  @media (max-width: 575.98px){
-    #why-it-works h1 {
-      font-size: 25px;
-      margin-bottom: 20px;
-    }
-    #why-it-works #publications .content .publication .appear{
-    width: 100px;
-    }
-  }  
-</style>
+    @media (max-width: 575.98px){
+      #why-it-works h1 {
+        font-size: 25px;
+        margin-bottom: 20px;
+      }
+      #why-it-works #publications .content .publication .appear{
+      width: 100px;
+      }
+    }  
+  </style>
+</div>
