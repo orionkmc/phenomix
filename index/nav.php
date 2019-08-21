@@ -25,6 +25,7 @@
           <a href="index.php#what-others-are-saying" data-slide="4">
             What Others are Saying
           </a>
+        </li>
       </ul>
       <ul class="right">
         <li class="login">

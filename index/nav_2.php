@@ -22,12 +22,12 @@
           </a>                      
         </li>
         <li class="im">
-          <a href="index.php#maximizing-weight-loss-2" data-slide="2">
+          <a href="index.php#why-it-works" data-slide="2">
             Maximize Your Weight Loss
           </a>
         </li>
         <li class="im">
-          <a href="index.php#why-it-works" data-slide="3">
+          <a href="index.php#how-it-works" data-slide="3">
             How it Works
           </a>
         </li>
