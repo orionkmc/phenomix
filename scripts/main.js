@@ -4,6 +4,9 @@ $(document).ready(function(){
     mousewheel: !0,
     simulateTouch: false,
     speed: 1200,
+    keyboard: {
+      enabled: true,
+    },
     pagination: {
       el: ".swiper-pagination",
       clickable: true,
