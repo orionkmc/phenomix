@@ -5,7 +5,8 @@ $(document).ready(function(){
     simulateTouch: false,
     speed: 1200,
     pagination: {
-      el: ".swiper-pagination"
+      el: ".swiper-pagination",
+      clickable: true,
     },
     hashNavigation: {
       watchState: true,
