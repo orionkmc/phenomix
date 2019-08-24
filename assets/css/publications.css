@@ -21,6 +21,7 @@
     border-radius: 50%;
     fill: #fff;
     transition: all 1s;
+    cursor: pointer;
 }
 
 #publications .icon:hover{

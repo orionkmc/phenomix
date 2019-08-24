@@ -193,10 +193,12 @@ $(document).ready(function(){
 
   $("[data-close]").click(function (e) {
     e.preventDefault(), $("nav, footer").fadeIn(), $($(this).data("close")).removeClass("show")
+    $(".scroll-down").addClass("show")
   });
 
   $("[data-modall]").click(function (e) {
     e.preventDefault(), $("nav, footer").fadeOut(), $($(this).data("modall")).addClass("show")
+    $(".scroll-down").removeClass("show")
   });
 
   if ($(window).width() < 992) {
