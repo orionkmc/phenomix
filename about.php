@@ -81,13 +81,12 @@
               <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
                 <p>
                   <strong>ABOUT US</strong><br>
-                  Phenomix Sciences was established in Rochester, MN in 2017 by two leading NIH-funded obesity experts, Dr. Andres Acosta and Dr. Michael Camilleri.<br>
-                  In early 2019, we established a start of the art facility located in University Enterprise Laboratories in St. Paul, MN. Our space is equipped with the latest platforms for metabolomic, genomic, and hormonal testing, as well as biobanking facilities to support the development and validation of the PhenoTest under strict adherence to regulatory guidelines. With the CLIA-accreditation process underway, we are anticipating launch of the PhenoTest by early 2020.
+                  Phenomix Sciences was established in Rochester, MN in 2017 by two leading NIH-funded obesity experts, Dr. Andres Acosta and Dr. Michael Camilleri. In early 2019, we established a start of the art facility located in University Enterprise Laboratories in St. Paul, MN. Our space is equipped with the latest platforms for metabolomic, genomic, and hormonal testing, as well as biobanking facilities to support the development and validation of the PhenoTest under strict adherence to regulatory guidelines. With the CLIA-accreditation process underway, we are anticipating launch of the PhenoTest by early 2020.
                 </p>
               </div>
               <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
                 <p>
-                  <strong>Our Mission, Vision, and Values</strong>
+                  <strong>Our Mission and Vision</strong>
                 </p>
               </div>
               <div class="row">
@@ -102,7 +101,7 @@
                 <div class="col-6">
                   <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
                     <p>
-                      <strong>Mission</strong><br>
+                      <strong>Vision</strong><br>
                       By delivering transformative new tools and services for the treatment of obesity, we envision bringing an end the obesity epidemic, one patient at a time.
                     </p>
                   </div>
