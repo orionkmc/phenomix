@@ -114,7 +114,7 @@
       </div>
       <div class="col-12">
         <div class="content-scroll">
-          <p>Multi-Level “Omics” – incorporates the analysis of multiple layers of your biological information such as genomics (study of your DNA makeup), proteomics (study of your proteins) and metabolomics (study of your metabolites which are by-products of metabolism and the microbiome).</p>
+          <p>Multi-Level “Omics” – incorporates the analysis of multiple layers of your biological information such as genomics (study of your DNA makeup), proteomics (study of your proteins), and metabolomics (study of your metabolites which are by-products of metabolism and the microbiome).</p>
         </div>
       </div>
       <a href="#" data-close=".modal-omics" class="modal-close">

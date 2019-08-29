@@ -301,8 +301,7 @@
         align-items: center;
       }
       #why-it-works  h1{
-        font-size: 48px;
-        line-height: 50px;
+        font-size: 36px;
         font-weight: 300;
         font-family: Roboto Slab;
         color: #4a66b0;
@@ -318,6 +317,17 @@
       }
       #why-it-works #publications .content .publication .appear{
         width: 110px;
+      }
+    }
+    @media (min-width:1200px) {
+      #why-it-works  h1{
+        font-size: 48px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: Roboto Slab;
+        color: #4a66b0;
+        margin-bottom: 30px;
+        text-align: left
       }
     }
     @media (max-width: 575.98px){

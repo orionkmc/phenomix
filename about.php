@@ -81,7 +81,7 @@
               <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
                 <p>
                   <strong>ABOUT US</strong><br>
-                  Phenomix Sciences was established in Rochester, MN in 2017 by two leading NIH-funded obesity experts, Dr. Andres Acosta and Dr. Michael Camilleri. In early 2019, we established a start of the art facility located in University Enterprise Laboratories in St. Paul, MN. Our space is equipped with the latest platforms for metabolomic, genomic, and hormonal testing, as well as biobanking facilities to support the development and validation of the PhenoTest under strict adherence to regulatory guidelines. With the CLIA-accreditation process underway, we are anticipating launch of the PhenoTest by early 2020.
+                  Phenomix Sciences was established in Rochester, MN in 2017 by two leading NIH-funded obesity experts, Dr. Andres Acosta and Dr. Michael Camilleri. In early 2019, we established a state of the art facility located in University Enterprise Laboratories in St. Paul, MN. Our space is equipped with the latest platforms for metabolomic, genomic, and hormonal testing, as well as biobanking facilities to support the development and validation of the PhenoTest under strict adherence to regulatory guidelines. With the CLIA-accreditation process underway, we are anticipating launch of the PhenoTest by early 2020.
                 </p>
               </div>
               <div data-toggle="appear" data-appear-class="fadeInDownTwo delay-500" class="appear">
@@ -183,7 +183,7 @@
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
               <img src="assets/images/bio-higgins.png" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
-                <h5 class="mt-0">Ross Higgins, MBA, MLS (ASCP)</h5>
+                <h5 class="mt-0">Ross Higgins, MBA</h5>
                 <span>Chief Operating Officer</span>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalHiggins"><i class="fas fa-chevron-right"></i> Biography</a>
                 <a href="https://www.linkedin.com/in/ross-higgins-103a8338/" class="btn-linkedin" target="_blank">
@@ -230,6 +230,19 @@
                 </a>
               </div>
             </div>					
+          </div>
+          <div class="col-sm-6">
+            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
+              <img src="assets/images/bio/owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
+              <div class="media-body align-self-center">
+                <h5 class="mt-0">Paul Owen</h5>
+                <span>Board Member </span>
+                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalOwen"><i class="fas fa-chevron-right"></i> Biography</a>
+                <a href="https://www.linkedin.com/in/powen/" class="btn-linkedin" target="_blank">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>          
           </div>
         </div>
       </div>
@@ -290,20 +303,6 @@
           </div>
           <div class="col-sm-6">
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
-              <img src="assets/images/bio/owen.jpg" class="align-self-top rounded-circle img-fluid" alt="">
-              <div class="media-body align-self-center">
-                <h5 class="mt-0">Paul Owen</h5>
-                <span>Strategic Advisor </span>
-                <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalOwen"><i class="fas fa-chevron-right"></i> Biography</a>
-                <a href="https://www.linkedin.com/in/powen/" class="btn-linkedin" target="_blank">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </div>
-            </div>					
-          </div>
-
-          <div class="col-sm-6">
-            <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
               <img src="assets/images/bio/ken_fujioka.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
                 <h5 class="mt-0">Ken Fujioka, MD</h5>
@@ -352,7 +351,7 @@
             <div data-toggle="appear" data-appear-class="fadeIn" class="appear media">
               <img src="assets/images/bio/craig_primack.jpg" class="align-self-top rounded-circle img-fluid" alt="">
               <div class="media-body align-self-center">
-                <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA</h5>
+                <h5 class="mt-0">Craig Primack, MD</h5>
                 <a href="#" class="btn-bio" data-toggle="modal" data-target="#modalCraigPrimack"><i class="fas fa-chevron-right"></i> Biography</a>
                 <a href="https://www.linkedin.com/in/craigprimack/" class="btn-linkedin" target="_blank">
                   <i class="fab fa-linkedin-in"></i>
@@ -384,6 +383,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalCamilleri" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -403,6 +403,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalHiggins" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -410,7 +411,7 @@
           <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>       
-          <h5 class="mt-0">Ross Higgins, MBA, MLS (ASCP)
+          <h5 class="mt-0">Ross Higgins, MBA
             <a href="https://www.linkedin.com/in/ross-higgins-103a8338/" class="btn-linkedin" target="_blank">
               <i class="fab fa-linkedin-in"></i>
             </a>
@@ -422,6 +423,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalHeneke" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -441,6 +443,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalDellArmo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -460,6 +463,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalRyan" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -479,6 +483,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalDayyeh" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -498,6 +503,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalAuriemma" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -517,6 +523,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalGuerron" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -536,6 +543,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalMcCauley" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -555,6 +563,7 @@
       </div>
     </div>
   </div>
+
   <div class="modal fade" id="modalOwen" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -567,25 +576,13 @@
               <i class="fab fa-linkedin-in"></i>
             </a>
           </h5>
-          <span>Strategic Advisor</span>
+          <span>Board Member</span>
           <br>
           <p>Paul serves as CEO at OneOme, a Mayo-clinic Pharmacogenomics startup. Prior to OneOme, Paul led global commercialization for Invitae, a San Francisco-based hereditary disease diagnostics company that is listed on the New York Stock Exchange and that raised over $120 Million in capital during Paul’s tenure. Prior to Invitae, Paul served as Vice Chair of Global Business Development for Mayo Clinic and was the leader of Mayo Medical Laboratories’ global commercial team and also held leadership roles at what is now Zimmer-Biomet and at Boston Scientific, both highly competitive, cutting-edge, and fast-paced organizations. Paul received his B.S. in business administration from the University of Wisconsin – Stout.</p>
         </div>
       </div>
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
   <div class="modal fade" id="modalKenFujioka" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
@@ -663,7 +660,7 @@
           <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>       
-          <h5 class="mt-0">Craig Primack, MD, FACP, FAAP, FOMA
+          <h5 class="mt-0">Craig Primack, MD
             <a href="https://www.linkedin.com/in/craigprimack/" class="btn-linkedin" target="_blank">
               <i class="fab fa-linkedin-in"></i>
             </a>
@@ -674,22 +671,6 @@
       </div>
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   <!-- Modall Login -->
   <div class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

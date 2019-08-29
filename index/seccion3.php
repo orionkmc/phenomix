@@ -223,7 +223,7 @@
                 </div>
               </a>
               <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">EMOTIONAL HUNGER</h5>
-              <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Emotional/Rewards</strong></p>
+              <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Emotional/Reward</strong></p>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Eating in response to negative and/or positive emotions</p>
             </div>
             <div class="publication">

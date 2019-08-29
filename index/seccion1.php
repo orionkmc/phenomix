@@ -26,7 +26,7 @@
               data-appear-class="fadeInDown delay-1s"
               class="appear animated slow fadeInDown delay-1s"
             >
-              Exclusively Licensed <br class="b-block d-lg-none">by Mayo Clinic
+              Exclusively Licensed <br class="b-block d-lg-none">from Mayo Clinic
             </p>
           </div>
         </div>
