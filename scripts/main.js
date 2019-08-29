@@ -1,7 +1,7 @@
 $(document).ready(function(){
   var i = new Swiper(".swiper-container", {
     direction: "vertical",
-    mousewheel: !0,
+    mousewheel: false,
     simulateTouch: false,
     speed: 1200,
     keyboard: {
@@ -13,6 +13,13 @@ $(document).ready(function(){
     },
     hashNavigation: {
       watchState: true,
+    }
+  });
+  var indicator = new WheelIndicator({
+    elem: document.querySelector('.swiper-container'),
+    callback: function(e){
+      if(e.direction == 'up') i.slidePrev();
+      else i.slideNext();
     }
   });
 

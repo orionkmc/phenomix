@@ -120,6 +120,7 @@ if (window.matchMedia("(min-width: 992px)").matches) {
 </script>
 <script src="scripts/vendor.js"></script>
 <script src="scripts/main.js"></script>
+<script src="https://rawgit.com/Promo/wheel-indicator/master/lib/wheel-indicator.js"></script>
 
 <!--popup legales-->
 <script type="text/javascript" src="js/jquery.fullpage.js"></script>
