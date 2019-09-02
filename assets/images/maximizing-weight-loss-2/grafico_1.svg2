@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-658.7 168.5 354.7 200.1" style="enable-background:new -658.7 168.5 354.7 200.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#5B79B5;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#353D54;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;stroke:#747373;stroke-miterlimit:10;}
+	.st5{font-family:'Roboto-Regular';}
+	.st6{font-size:8.71px;}
+	.st7{fill:#5B79B5;}
+	.st8{fill:#353D54;}
+	.st9{font-size:11px;}
+</style>
+<text transform="matrix(1 0 0 1 -427.4714 204.6053)" class="st5 st6">Non-Phenotype Guided</text>
+<text transform="matrix(1 0 0 1 -427.3813 215.2653)" class="st5 st6">Phenotype Guided</text>
+<path class="st2" d="M-440.5,200.3h5.2c0.9,0,1.6,0.7,1.6,1.6l0,0c0,0.9-0.7,1.6-1.6,1.6h-5.2c-0.9,0-1.6-0.7-1.6-1.6l0,0
+	C-442.1,201.1-441.4,200.3-440.5,200.3z"/>
+<path class="st1" d="M-440.5,210.8h5.2c0.9,0,1.6,0.7,1.6,1.6l0,0c0,0.9-0.7,1.6-1.6,1.6h-5.2c-0.9,0-1.6-0.7-1.6-1.6l0,0
+	C-442.1,211.5-441.4,210.8-440.5,210.8z"/>
+<path class="st7" d="M-556.9,219.5h8c6.6,0,12,5.4,12,12v110.2c0,0.5-0.4,0.8-0.8,0.8l0,0h-31.2l0,0v-111
+	C-568.9,224.9-563.5,219.5-556.9,219.5z"/>
+<path class="st8" d="M-590.5,282.9h8c6.6,0,12,5.4,12,12l0,0v46.8c0,0.5-0.4,0.8-0.8,0.8l0,0h-31.2l0,0v-47.7
+	C-602.5,288.2-597.1,282.9-590.5,282.9L-590.5,282.9z"/>
+<path class="st7" d="M-465.4,250.5h8c6.6,0,12,5.4,12,12v79.2c0,0.5-0.4,0.8-0.8,0.8l0,0h-31.2l0,0v-80
+	C-477.4,255.9-472,250.5-465.4,250.5z"/>
+<path class="st8" d="M-499,299.2h8c6.6,0,12,5.4,12,12v30.5c0,0.5-0.4,0.8-0.8,0.8l0,0H-511l0,0v-31.3
+	C-511,304.6-505.6,299.2-499,299.2z"/>
+<path class="st7" d="M-373.9,300.7h8c6.6,0,12,5.4,12,12v29c0,0.5-0.4,0.8-0.8,0.8h-31.2l0,0v-29.8
+	C-385.9,306.1-380.5,300.7-373.9,300.7z"/>
+<path class="st8" d="M-407.5,320.9h8c6.6,0,12,5.4,12,12v8.8c0,0.5-0.4,0.8-0.8,0.8h-31.2l0,0v-9.7
+	C-419.5,326.2-414.1,320.9-407.5,320.9z"/>
+<text transform="matrix(1 0 0 1 -590.9214 355.5653)" class="st5 st6">&gt; 3% TBWL</text>
+<text transform="matrix(1 0 0 1 -588.8414 366.0153)" class="st5 st6">(month 3)</text>
+<text transform="matrix(1 0 0 1 -578.0013 177.9053)" class="st5 st9">Percentage of Treatment Responders</text>
+<text transform="matrix(0 -1 1 0 -651.2114 295.025)" class="st5 st6">Patients (%)</text>
+<text transform="matrix(1 0 0 1 -503.0114 355.5653)" class="st5 st6">&gt; 10% TBWL</text>
+<text transform="matrix(1 0 0 1 -499.0913 366.0153)" class="st5 st6">(month 6)</text>
+<text transform="matrix(1 0 0 1 -641.2614 207.8053)" class="st5 st6">80%</text>
+<text transform="matrix(1 0 0 1 -641.2513 224.9153)" class="st5 st6">70%</text>
+<text transform="matrix(1 0 0 1 -641.2914 242.0253)" class="st5 st6">60%</text>
+<text transform="matrix(1 0 0 1 -641.1514 259.1353)" class="st5 st6">50%</text>
+<text transform="matrix(1 0 0 1 -641.3813 276.2453)" class="st5 st6">40%</text>
+<text transform="matrix(1 0 0 1 -641.2114 293.3553)" class="st5 st6">30%</text>
+<text transform="matrix(1 0 0 1 -641.2614 310.4653)" class="st5 st6">20%</text>
+<text transform="matrix(1 0 0 1 -640.6514 327.5753)" class="st5 st6">10%</text>
+<text transform="matrix(1 0 0 1 -638.8514 344.6853)" class="st5 st6">0%</text>
+<text transform="matrix(1 0 0 1 -409.6614 355.5653)" class="st5 st6">&gt; 15% TBWL</text>
+<text transform="matrix(1 0 0 1 -407.6913 366.0153)" class="st5 st6">(month 12)</text>
+<line class="st0" x1="-619.2" y1="192.5" x2="-619.2" y2="347.7"/>
+<line class="st0" x1="-624.2" y1="342.6" x2="-323.7" y2="342.6"/>
+</svg>
