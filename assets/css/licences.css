@@ -48,6 +48,20 @@
   justify-content: center;
   align-items: center;
 }
+.img-container .img a{
+  height: 100%;
+  width: 100%;
+}
+.img-container .img a img{
+  height: 70%;
+}
+#licences2 .affiliations .row{
+  height: 60px;
+}
+#licences2 .affiliations .row a img{
+  height: 90%;
+  width: 80%
+}
 
 #licences .licences .content h1,
 #licences .affiliations .content h1{
