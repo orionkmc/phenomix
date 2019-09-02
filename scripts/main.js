@@ -1,54 +1,5 @@
 $(document).ready(function(){
-  var i = new Swiper(".swiper-container", {
-    direction: "vertical",
-    mousewheel: false,
-    simulateTouch: false,
-    speed: 1200,
-    keyboard: {
-      enabled: true,
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-    hashNavigation: {
-      watchState: true,
-    }
-  });
-  var indicator = new WheelIndicator({
-    elem: document.querySelector('.swiper-container'),
-    callback: function(e){
-      if(e.direction == 'up') i.slidePrev();
-      else i.slideNext();
-    }
-  });
-
-  $(".scroll-down").click(function (e) {
-    e.preventDefault();
-    i.slideNext();
-  });
-
-  i.on("slideChangeTransitionEnd", function (e, s) {
-    0 < i.activeIndex ? $("nav").addClass("collapsed") : $("nav").removeClass("collapsed");
-    6 == i.activeIndex ? $(".scroll-down").removeClass("show") : $(".scroll-down").addClass("show");
-    $('.swiper-slide-active [data-toggle="appear"]').each(function () {
-      var e = $(this);
-      e.addClass("animated slow " + e.data("appearClass"))
-    })
-  });
-
-  $(".swiper-container").length && (0 < i.activeIndex ? $("nav").addClass("collapsed") : $("nav").removeClass("collapsed"));
-
-  $("*[data-slide]").click(function (e) {
-    e.preventDefault();
-    let a = $(this).attr("href").includes(window.location.pathname.substr(window.location.pathname.lastIndexOf('/') + 1))
-    if (a) {
-      i.slideTo($(this).data("slide"));
-      $(".menu").hasClass("open") && $(".menu").removeClass("open")
-    } else{
-      window.location = $(this).attr("href")
-    }
-  })
+  
 
   $("#slick-licences").slick({
     slidesToShow: 4,
