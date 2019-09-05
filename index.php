@@ -23,9 +23,9 @@
 	<link rel="stylesheet" href="assets/css/nav.css">
 
 	<link rel="stylesheet" href="assets/css/home.css">
-	<link rel="stylesheet" href="assets/css/maximizin-weight-loss.css">
-	<link rel="stylesheet" href="assets/css/maximizin-weight-loss-2.css">
-	<link rel="stylesheet" href="assets/css/why-it-works.css">
+	<link rel="stylesheet" href="assets/css/obesity-phenotyping.css">
+	<link rel="stylesheet" href="assets/css/obesity-phenotyping-2.css">
+	<link rel="stylesheet" href="assets/css/maximize-your-weight-loss.css">
 	<link rel="stylesheet" href="assets/css/how-it-works.css">
 	<link rel="stylesheet" href="assets/css/what-others-are-saying.css">
 	<link rel="stylesheet" href="assets/css/licences.css">
@@ -69,13 +69,13 @@
 		<div class="swiper-wrapper">
 			<!-- Home -->
 			<?php include 'index/seccion1.php'; ?>
-			<!-- Maximizing Weight Loss -->
+			<!-- Obesity Phenotyping -->
 			<?php include 'index/seccion2.php'; ?>
-			<!-- Maximizing Weight Loss 2 -->
+			<!-- Obesity Phenotyping 2 -->
 			<?php include 'index/seccion3.php'; ?>
-			<!-- Why It Works -->
+			<!-- Maximize Your Weight Loss -->
 			<?php include 'index/seccion4.php'; ?>
-			<!-- Why It Works 2 -->
+			<!-- Maximize Your Weight Loss 2 -->
 			<?php include 'index/seccion5.php'; ?>
 			<!-- How It Works -->
 			<?php include 'index/seccion6.php'; ?>			
@@ -101,15 +101,15 @@
 <script>
 	if (window.matchMedia("(min-width: 992px)").matches) {
 		/* La pantalla tiene al menos 992 píxeles de ancho */
-		let maximizin = document.getElementById("maximizin-weight-loss-2");
-		let maximizin_padre = maximizin.parentNode;
-		let maximizin_padre2 = maximizin_padre.parentNode
-		maximizin_padre2.removeChild(maximizin_padre);
+		let obesity = document.getElementById("obesity-phenotyping-2");
+		let obesity_padre = obesity.parentNode;
+		let obesity_padre2 = obesity_padre.parentNode
+		obesity_padre2.removeChild(obesity_padre);
 
-		let why = document.getElementById("why-it-works-2");
-		let why_padre = why.parentNode;
-		let why_padre2 = why_padre.parentNode
-		why_padre2.removeChild(why_padre);
+		let maximize = document.getElementById("maximize-your-weight-loss-2");
+		let maximize_padre = maximize.parentNode;
+		let maximize_padre2 = maximize_padre.parentNode
+		maximize_padre2.removeChild(maximize_padre);
 
 		let licences2 = document.getElementById("licences2");
 		let licences2_padre = licences2.parentNode;

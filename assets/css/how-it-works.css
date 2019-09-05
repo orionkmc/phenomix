@@ -364,7 +364,7 @@
 }
 
 @media (min-width: 992px) and (max-height: 650px){
-    #maximizing-weight-loss .bg-img {
+    #obesity-phenotyping .bg-img {
     background-position: right top !important;
     }
     #how-it-works .container .slick{
@@ -373,16 +373,16 @@
     #how-it-works .container .slick .content .icons {
         margin-top: 5px;
     }
-    #maximizing-weight-loss .middle-up .content h1{
+    #obesity-phenotyping .middle-up .content h1{
         padding-bottom: 0;
     }
-    #maximizing-weight-loss .middle-up .content p {
+    #obesity-phenotyping .middle-up .content p {
         margin-bottom: 5px;
     }
-    #maximizing-weight-loss .middle-down .content p{
+    #obesity-phenotyping .middle-down .content p{
         margin-bottom: 0;
     }
-    #why-it-works h1 {
+    #maximize-your-weight-loss h1 {
         margin-bottom: 15px !important;
     }
     #what-others-are-saying .header .slick-saying .content img {

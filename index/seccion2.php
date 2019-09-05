@@ -1,5 +1,5 @@
-<div class="swiper-slide" data-hash="maximizing-weight-loss">
-  <section id="maximizing-weight-loss">
+<div class="swiper-slide" data-hash="obesity-phenotyping">
+  <section id="obesity-phenotyping">
     <div class="pre-bg-img">
       <div class="bg-img h-100">
         <div class="container-fluid middle-up h-100 pl-5p">

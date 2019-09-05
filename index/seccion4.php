@@ -1,5 +1,5 @@
-<div class="swiper-slide" data-hash="why-it-works">
-  <section id="why-it-works" class="container-fluid">
+<div class="swiper-slide" data-hash="maximize-your-weight-loss">
+  <section id="maximize-your-weight-loss" class="container-fluid">
     <div class="row container-row">
       <div class="col-12 col-lg-6 col-extend"> 
         <div class="content">
@@ -217,31 +217,31 @@
     </div>
   </section>
   <style>
-    #why-it-works{
+    #maximize-your-weight-loss{
       background: #efeff1;
       padding-top: 65px;
       height: 100%;
     }
 
-    #why-it-works .container-row{
+    #maximize-your-weight-loss .container-row{
       padding: 0px 7%;
       height: 50%;
       align-items: flex-start;
       justify-content: center;
     }
 
-    #why-it-works .col-extend {
+    #maximize-your-weight-loss .col-extend {
       display: flex;
       align-items: center;
       justify-content: center;
       height: 100%;
       flex-direction: column;
     }
-    #why-it-works .col-extend img{
+    #maximize-your-weight-loss .col-extend img{
       height: 70%;
     }
     
-    #why-it-works h1 {
+    #maximize-your-weight-loss h1 {
       color: #1e4484;
       font-family: Roboto Slab;
       font-size: 30px;
@@ -250,39 +250,39 @@
       margin-bottom: 25px;
       text-align: center
     }
-    #why-it-works p {
+    #maximize-your-weight-loss p {
       font-family: Roboto Lt;
       font-size: 14px;
       font-weight: 300;
       line-height: 20px;
     }
     
-    #why-it-works a{
+    #maximize-your-weight-loss a{
       color: #1e4484;
       font-size: 2.5vh !important;
       font-family: Roboto Slab;
       text-decoration: underline;
       cursor: auto;
     } 
-    #why-it-works a:focus{
+    #maximize-your-weight-loss a:focus{
       outline: none;
     }
 
-    #why-it-works #publications .content .publication .appear{
+    #maximize-your-weight-loss #publications .content .publication .appear{
       width: 130px;
     }
-    #why-it-works #publications .content .publications{
+    #maximize-your-weight-loss #publications .content .publications{
       width: 90%;
     }
-    #why-it-works #publications .content .arrows{
+    #maximize-your-weight-loss #publications .content .arrows{
       top: 46%;
     }
-    #why-it-works .swiper-slide {
+    #maximize-your-weight-loss .swiper-slide {
       display: flex;
       align-items: flex-start;
     }
 
-    #why-it-works .publication {
+    #maximize-your-weight-loss .publication {
       display: flex !important;
       flex-direction: column;
       align-items: center;
@@ -290,17 +290,17 @@
     }
 
     @media (min-width:992px) {
-      #why-it-works{
+      #maximize-your-weight-loss{
         background: url(./assets/images/bg-affiliations-ok.png) no-repeat 50% -52% transparent;
         padding-bottom: 40px;
         background-color: #efeff1;
       }
       
-      #why-it-works .container-row{
+      #maximize-your-weight-loss .container-row{
         padding: 0px 7%;
         align-items: center;
       }
-      #why-it-works  h1{
+      #maximize-your-weight-loss  h1{
         font-size: 36px;
         font-weight: 300;
         font-family: Roboto Slab;
@@ -309,18 +309,18 @@
         text-align: left
       }
 
-      #why-it-works p {
+      #maximize-your-weight-loss p {
           color: #1e4484;
       }
-      #why-it-works .swiper-slide {
+      #maximize-your-weight-loss .swiper-slide {
         align-items: center;
       }
-      #why-it-works #publications .content .publication .appear{
+      #maximize-your-weight-loss #publications .content .publication .appear{
         width: 110px;
       }
     }
     @media (min-width:1200px) {
-      #why-it-works  h1{
+      #maximize-your-weight-loss  h1{
         font-size: 48px;
         line-height: 50px;
         font-weight: 300;
@@ -331,11 +331,11 @@
       }
     }
     @media (max-width: 575.98px){
-      #why-it-works h1 {
+      #maximize-your-weight-loss h1 {
         font-size: 25px;
         margin-bottom: 20px;
       }
-      #why-it-works #publications .content .publication .appear{
+      #maximize-your-weight-loss #publications .content .publication .appear{
       width: 100px;
       }
     }  

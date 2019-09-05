@@ -1,4 +1,4 @@
-#maximizin-weight-loss-2{
+#obesity-phenotyping-2{
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -6,7 +6,7 @@
   background: #efeff1;
   padding: 65px 7% 0 7%;
 }
-#maximizin-weight-loss-2 .content h1{
+#obesity-phenotyping-2 .content h1{
     color: #1E4484;
     font-family: Roboto Slab;
     font-size: 5vh;
@@ -14,49 +14,49 @@
     margin-bottom: 40px;
 }
 @media (max-width: 575.98px){
-    #maximizin-weight-loss-2 .content h1{
+    #obesity-phenotyping-2 .content h1{
         margin-bottom: 25px;
     }
 }
-#maximizin-weight-loss-2 .content p{
+#obesity-phenotyping-2 .content p{
     color: #1E4484;
     font-family: Roboto Lt;
     font-size: 2vh;
     font-weight: 300;
     line-height: 20px;
 }
-#maximizin-weight-loss-2 .content p a{
+#obesity-phenotyping-2 .content p a{
     color: #1E4484;
     text-decoration: underline;
 }
-#maximizin-weight-loss-2 .content .publication h5{
+#obesity-phenotyping-2 .content .publication h5{
     font-family: Roboto Slab;
     color: #1e4484;
 }
-#maximizin-weight-loss-2 .content .publication p{
+#obesity-phenotyping-2 .content .publication p{
     color: #1E4484;
     font-family: Roboto Lt;
     font-size: 2vh;
     font-weight: 300;
     line-height: 100%;
 }
-#maximizin-weight-loss-2 .width-img{
+#obesity-phenotyping-2 .width-img{
   width: 35%; 
 }
-#maximizin-weight-loss-2 .content .arrows{
+#obesity-phenotyping-2 .content .arrows{
     position: absolute;
     top: 73%;
     width: 100%;
     z-index: 0;
 }
-#maximizin-weight-loss-2 .content .arrows a{
+#obesity-phenotyping-2 .content .arrows a{
     font-size: 40px;
     position: absolute;
     color: #1e4484;
 }
-#maximizin-weight-loss-2 .content .arrows a:first-child{
+#obesity-phenotyping-2 .content .arrows a:first-child{
     left: 0;
 }
-#maximizin-weight-loss-2 .content .arrows a:last-child{
+#obesity-phenotyping-2 .content .arrows a:last-child{
     right: 35px;
 }

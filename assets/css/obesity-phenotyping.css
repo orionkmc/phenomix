@@ -1,12 +1,12 @@
-section#maximizing-weight-loss{
+section#obesity-phenotyping{
   height: auto;
   background: #efeff1;
 }
-#maximizing-weight-loss .middle-up{
+#obesity-phenotyping .middle-up{
   padding-top: 50px;
   padding-bottom: 70px;
 }
-#maximizing-weight-loss .middle-up .content h1{
+#obesity-phenotyping .middle-up .content h1{
   font-size: 36px !important;
   text-align: center;
   line-height: 50px !important;
@@ -14,56 +14,56 @@ section#maximizing-weight-loss{
   font-family: Roboto Slab !important;
   color: #4a66b0;
 }
-#maximizing-weight-loss .middle-up .content p{
+#obesity-phenotyping .middle-up .content p{
   color: #1E4484;
   font-family: Roboto Lt;
   font-size: 2vh;
   font-weight: 300;
   line-height: 100%;
 }
-#maximizing-weight-loss .middle-up .content p small{
+#obesity-phenotyping .middle-up .content p small{
   color: #1E4484;
   font-family: Roboto Lt;
   font-size: 1.8vh;
   font-weight: 300;
   line-height: 100%;
 }
-#maximizing-weight-loss .middle-up .bg-gradient{
+#obesity-phenotyping .middle-up .bg-gradient{
   padding: 0 7%;
 }
-#maximizing-weight-loss .middle-down .content h1{
+#obesity-phenotyping .middle-down .content h1{
   font-size: 36px !important;
   line-height: 50px !important;
   font-weight: 300 !important;
   font-family: Roboto Slab !important;
   color: #4a66b0;
 }
-#maximizing-weight-loss .middle-down .content p{
+#obesity-phenotyping .middle-down .content p{
   color: #1E4484;
   font-family: Roboto Lt;
   font-size: 2vh;
   font-weight: 300;
   line-height: 100%;
 }
-#maximizing-weight-loss .middle-down .content p a{
+#obesity-phenotyping .middle-down .content p a{
   color: #1E4484;
   text-decoration: underline;
 }
-#maximizing-weight-loss a:focus {
+#obesity-phenotyping a:focus {
   outline-color: transparent;
 }
-#maximizing-weight-loss .middle-down .content .items-phenotype h5{
+#obesity-phenotyping .middle-down .content .items-phenotype h5{
   font-family: Roboto Slab;
   color: #1E4484;
   font-size: 2.2vh;
 }
-#maximizing-weight-loss .middle-down .content .items-phenotype p{
+#obesity-phenotyping .middle-down .content .items-phenotype p{
   font-family: Roboto Lt;
   color: #1E4484;
   font-size: 2vh;
   margin-bottom: 0.5rem;
 }
-#maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype{
+#obesity-phenotyping .middle-down .content .items-phenotype .icon-phenotype{
   fill: #1e4484;
   border-radius: 50%;
   padding: 0.5rem;
@@ -72,11 +72,11 @@ section#maximizing-weight-loss{
   height: 100px !important;
   width: 100px !important;
 }
-#maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype:hover{
+#obesity-phenotyping .middle-down .content .items-phenotype .icon-phenotype:hover{
   fill: #fff;
   background-color: #1e4484;
 }
-#maximizing-weight-loss .middle-down .content .items-phenotype .icon-phenotype a{
+#obesity-phenotyping .middle-down .content .items-phenotype .icon-phenotype a{
   color: #1e4484;
 }
 
@@ -96,8 +96,8 @@ section#maximizing-weight-loss{
 
 /* RESOLUTION 992 DOWN*/
 @media (max-width: 991.98px){
-  #maximizing-weight-loss .middle-up,
-  #maximizing-weight-loss .middle-down{
+  #obesity-phenotyping .middle-up,
+  #obesity-phenotyping .middle-down{
     height: 100%;
     display: flex;
     justify-content: center;
@@ -106,37 +106,37 @@ section#maximizing-weight-loss{
 }
 /* RESOLUTION 992 UP*/
 @media (max-width: 992px){
-  section#maximizing-weight-loss{
+  section#obesity-phenotyping{
     height: 100%;
     display: flex;
     justify-content: center;
   }
 }
 @media (min-width: 992px){
-  #maximizing-weight-loss{
+  #obesity-phenotyping{
     padding-bottom: 50px;
   }
-  #maximizing-weight-loss .middle-up{
+  #obesity-phenotyping .middle-up{
     padding-bottom: 0;
   }
-  section#maximizing-weight-loss{
+  section#obesity-phenotyping{
     height: 100%;
     background: #fff;
   }
-  #maximizing-weight-loss .middle-up,
-  #maximizing-weight-loss .middle-down{
+  #obesity-phenotyping .middle-up,
+  #obesity-phenotyping .middle-down{
     height: 50%;
   }
-  #maximizing-weight-loss .middle-up .bg-gradient{
+  #obesity-phenotyping .middle-up .bg-gradient{
     background: transparent;
   }
 
-  #maximizing-weight-loss .pre-bg-img{
+  #obesity-phenotyping .pre-bg-img{
     height: 50%;
     /*background: linear-gradient(to top, #d4d3d8  0%,  #f1f1f3 100%);*/
     background: linear-gradient(to bottom, rgba(235, 235, 240, 1)80%, rgba(255, 255, 255, 1));
   }
-  #maximizing-weight-loss .center-xy{
+  #obesity-phenotyping .center-xy{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -144,12 +144,12 @@ section#maximizing-weight-loss{
 }
 /* RESOLUTION 1024 UP*/
 @media (min-width: 992px){
-  #maximizing-weight-loss .middle-up .content h1{
+  #obesity-phenotyping .middle-up .content h1{
     text-align: left;
     padding: 15px 0;
   }
 
-  #maximizing-weight-loss .bg-img{
+  #obesity-phenotyping .bg-img{
     /*background: linear-gradient(to bottom, rgba(235, 235, 240, 1)80%, rgba(255, 255, 255, 1));*/
     background-repeat: no-repeat;
     background-position: right top;
@@ -160,10 +160,10 @@ section#maximizing-weight-loss{
 }
 /* RESOLUTION 1200 UP*/
 @media (min-width: 1200px){
-  #maximizing-weight-loss .middle-up .content h1{
+  #obesity-phenotyping .middle-up .content h1{
     font-size: 48px !important
   }
-  #maximizing-weight-loss .middle-down .content h1{
+  #obesity-phenotyping .middle-down .content h1{
     font-size: 48px !important
   }
 }
@@ -177,7 +177,7 @@ section#maximizing-weight-loss{
 }
 /* RESOLUTION 576 DOWN*/
 @media (min-width: 575.98px){
-  #maximizing-weight-loss .middle-up{
+  #obesity-phenotyping .middle-up{
     padding-top: 56px;
   }
 }

@@ -17,12 +17,12 @@
 
       <ul class="menu-center">
         <li class="im">
-          <a href="index.php#maximizing-weight-loss" data-slide="1" class="">
+          <a href="index.php#obesity-phenotyping" data-slide="1" class="">
             Obesity Phenotyping
           </a>                      
         </li>
         <li class="im">
-          <a href="index.php#why-it-works" data-slide="2">
+          <a href="index.php#maximize-your-weight-loss" data-slide="2">
             Maximize Your Weight Loss
           </a>
         </li>
@@ -81,12 +81,12 @@
   <div class="container">
     <ul class="menu-center">
       <li class="im">
-        <a href="index.php#maximizing-weight-loss" data-slide="1">
+        <a href="index.php#obesity-phenotyping" data-slide="1">
           Obesity Phenotyping
         </a>                      
       </li>
       <li class="im">
-        <a href="index.php#why-it-works" data-slide="2">
+        <a href="index.php#maximize-your-weight-loss" data-slide="2">
           Maximize Your Weight Loss
         </a>
       </li>
