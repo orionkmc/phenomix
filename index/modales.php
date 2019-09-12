@@ -3,7 +3,7 @@
   <div class="modal-dialog modal-dialog-login" role="document">
     <div class="modal-content modal-content-login">
       <div class="modal-body">
-        <form action="">
+        <form action="" method="post">
           <div class="form-group required border-form-input row mx-2">
             <label for="username" class="col-2 col-form-label"><i class="fas fa-user"></i></label>
             <div class="col-10">

@@ -119,7 +119,6 @@
 
 </script>
 <script src="scripts/vendor.js"></script>
-<script src="scripts/main.js"></script>
 <script src="https://rawgit.com/Promo/wheel-indicator/master/lib/wheel-indicator.js"></script>
 
 <!--popup legales-->
@@ -127,6 +126,7 @@
 <script type="text/javascript" src="js/flowtype.js"></script>
 <script type="text/javascript" src="js/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
 <script src="js/lightbox.js"></script>
+<script src="scripts/main.js" async="async"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
 	// iOS web app full screen hacks.

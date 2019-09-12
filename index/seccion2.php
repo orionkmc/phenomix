@@ -274,7 +274,7 @@
                 </a>
                 <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">SLOW BURN</h5>
                 <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Energy Expenditure</strong></p>
-                <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Base Metabolic rate plus overall activity level</p>
+                <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Base metabolic rate plus overall activity level</p>
               </div>
             </div>
           </div>
