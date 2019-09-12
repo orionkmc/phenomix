@@ -66,7 +66,8 @@
                             <small>STEP 2</small>
                             <h3>Print our PDF to share with Your Healthcare Provider</h3>
                             <p>We have created a pdf to help facilitate a conversation with you and your Healthcare Provider.</p>
-                            <a href="https://phenomixsciences-my.sharepoint.com/personal/ross_phenomixsciences_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fross%5Fphenomixsciences%5Fcom%2FDocuments%2FPhenomix%20Shared%2FMarketing%2FCollateral%2FPhenomix%201%20Pager%5FFinal%5BJuly%5D%2Epdf&parent=%2Fpersonal%2Fross%5Fphenomixsciences%5Fcom%2FDocuments%2FPhenomix%20Shared%2FMarketing%2FCollateral" target="_blank" class="button btn" tabindex="0">
+                            <!-- <a href="https://phenomixsciences-my.sharepoint.com/personal/ross_phenomixsciences_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fross%5Fphenomixsciences%5Fcom%2FDocuments%2FPhenomix%20Shared%2FMarketing%2FCollateral%2FPhenomix%201%20Pager%5FFinal%5BJuly%5D%2Epdf&parent=%2Fpersonal%2Fross%5Fphenomixsciences%5Fcom%2FDocuments%2FPhenomix%20Shared%2FMarketing%2FCollateral" target="_blank" class="button btn" tabindex="0"> -->
+                            <a href="pdf/healthcare-provider-overview.pdf" target="_blank" class="button btn" tabindex="0">
                                 <img src="assets/images/icon-adn.png">
                                 <span>Healthcare Provider Overview</span>
                             </a>
@@ -154,7 +155,7 @@
                             <h3>Discuss the Results with your Healthcare Provider</h3>
                             <p>Reports are delivered in 7-10 business days.</p>
                             <p>Armed with the information about your unique sub-type, your Healthcare Provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
-                            <a href="pdf/phenomixphenotypetestreport.pdf" target="_blank" class="button" tabindex="0">
+                            <a href="pdf/sample-report.pdf" target="_blank" class="button" tabindex="0">
                                 <img src="assets/images/icon-adn.png">
                                 <span>Sample Report</span>
                             </a>
