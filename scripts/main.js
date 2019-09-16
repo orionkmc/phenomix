@@ -180,11 +180,11 @@ $(document).ready(function(){
     $(".preloader-bg").delay(400).fadeOut(600);
 
     // 2. fadeIn.element
-    setTimeout(function() {
-      $(".fadeIn-element").delay(600).css({
-        display: "none"
-      }).fadeIn(800);
-    }, 0);
+    // setTimeout(function() {
+    //   $(".fadeIn-element").delay(600).css({
+    //     display: "none"
+    //   }).fadeIn(800);
+    // }, 0);
   });
 
   // MOBILE
