@@ -49,61 +49,65 @@
 
 /* TEXTOS */
 #what-others-are-saying .header .slick-saying .content h4 {
-    opacity: 0;
-    -webkit-transition: all .3s ease-out .5s;
-    transition: all .3s ease-out .5s;
-    margin-top: 15px;
-    font-family: Roboto Slab;
-    font-size: 15px;
-    line-height: 17px;
+  opacity: 0;
+  -webkit-transition: all .3s ease-out .5s;
+  transition: all .3s ease-out .5s;
+  margin-top: 15px;
+  font-family: Roboto Slab;
+  font-size: 15px;
+  line-height: 17px;
 }
 
 #what-others-are-saying .header .slick-saying .content h5 {
-    opacity: 0;
-    -webkit-transition: all .3s ease-out .7s;
-    transition: all .3s ease-out .7s;
-    font-family: Roboto Slab;
-    color: #b4b4b4;
-    font-size: 13px;
-    line-height: 15px;
+  opacity: 0;
+  -webkit-transition: all .3s ease-out .7s;
+  transition: all .3s ease-out .7s;
+  font-family: Roboto Slab;
+  color: #b4b4b4;
+  font-size: 13px;
+  line-height: 15px;
 }
 
 #what-others-are-saying .header .slick-saying .content p {
-    opacity: 0;
-    -webkit-transition: all .3s ease-out .9s;
-    transition: all .3s ease-out .9s;
-    font-family: Roboto Slab;
-    font-weight: 300;
-    font-size: 13px;
-    line-height: 18px;
-    letter-spacing: -.01em;
+  opacity: 0;
+  -webkit-transition: all .3s ease-out .9s;
+  transition: all .3s ease-out .9s;
+  font-family: Roboto Slab;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -.01em;
 }
 
 /* COMILLAS */
-#what-others-are-saying .header .slick-saying .content .quotes {
-    opacity: 0;
-    -webkit-transition: all .3s ease-out 1.1s;
-    transition: all .3s ease-out 1.1s;
-    display: inline-block;
-    font-family: Roboto Slab;
-    font-weight: 100;
-    color: #61e0e4;
-    font-size: 45px;
-    margin-bottom: -20px
+/*#what-others-are-saying .header .slick-saying .content */
+.quotes {
+  -webkit-transition: all .3s ease-out 1.1s;
+  transition: all .3s ease-out 1.1s;
+  display: inline-block;
+  font-family: Roboto Slab;
+  font-weight: 100;
+  color: #61e0e4;
+  font-size: 180px;
+  position: absolute;
+  top: calc(50% - 70px);
+  left: 15%;
 }
 
-#what-others-are-saying .header .slick-saying .content .quotes.quotes-close {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
-    margin-top: -30px
+/*#what-others-are-saying .header .slick-saying .content */
+.quotes.quotes-close {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+  right: 15%;
+  top: calc(50% - 165px);
 }
 
 /* FLECHAS */
 #what-others-are-saying .header .arrows {
-    position: absolute;
-    top: 50%;
-    left: 20px;
-    right: 20px;
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  right: 20px;
 }
 
 #what-others-are-saying .header .arrows a {

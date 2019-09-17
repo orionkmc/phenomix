@@ -189,6 +189,10 @@
 		}
 	})
 });
+	setTimeout(function(){
+		$("#preloader").fadeOut(600);
+		$(".preloader-bg").delay(400).fadeOut(600);
+	}, 6000);
 </script>
 
 </body>
