@@ -533,11 +533,27 @@ nav .menu ul.right li.login:before {
     }
 }
 
-.modal-content-login{
+.modal-content-login,
+.modal-content-login2{
     background-color: rgba(255,255,255,0.8);
     border: 0;
     border-radius: 15px;
     box-shadow: #ccc 1px 1px 1px;
+}
+#modalLogin2 .modal-body h5 {
+    font-size: 7vh;
+    text-align: center;
+    line-height: 100%;
+    font-weight: 500;
+    font-family: Roboto Slab;
+    color: #4a66b0;
+}
+#modalLogin2 .modal-body p {
+    color: #1E4484;
+    font-family: Roboto Lt;
+    font-size: 2.5vh;
+    font-weight: 300;
+    line-height: 100%;
 }
 #modalLogin .border-form-input{
     border-bottom: 1px solid #4a66b0;

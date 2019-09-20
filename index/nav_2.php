@@ -39,7 +39,7 @@
       </ul>
       <ul class="right">
         <li class="login">
-          <a href="#" class="btn btn-sm btn-secondary btn-login px-3" data-toggle="modal" data-target="#modalLogin">Login</a>
+          <a href="#" class="btn btn-sm btn-secondary btn-login px-3" data-toggle="modal" data-target="#modalLogin2">Login</a>
         </li>
         <li class="bar"></li>
         <li class="im">
@@ -113,7 +113,7 @@
         </a>
       </li>
       <li class="im login bar">
-        <a href="#" class="btn btn-sm btn-secondary btn-login px-3" data-toggle="modal" data-target="#modalLogin">Login</a>
+        <a href="#" class="btn btn-sm btn-secondary btn-login px-3" data-toggle="modal" data-target="#modalLogin2">Login</a>
       </li>
     </ul>
   </div>

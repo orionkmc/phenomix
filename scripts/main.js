@@ -212,4 +212,9 @@ $(document).ready(function(){
     $(".opener").removeClass("active");
     $(".item-mobile").slideUp(1000);
   });
+
+  $('nav a').click(function(){
+    $('#modalLogin2').modal('hide')
+    $('.modall').removeClass("show")
+  })
 })

@@ -27,6 +27,17 @@
     </div>
   </div>
 </div>
+<!-- Modall Login Coming Soon -->
+<div class="modal fade" id="modalLogin2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-login2" role="document">
+    <div class="modal-content modal-content-login2">
+      <div class="modal-body text-center py-5">
+        <h5 class="my-5">Coming Soon!</h5>
+        <p class="mb-5">We are curently working on this feature<br><br>and will launch soon!</p>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Modall Phenotype -->
 <div class="modal-phenotype modall">
   <div class="container">
