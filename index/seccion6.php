@@ -251,7 +251,7 @@
                     </a>            
             </div>
             <div data-toggle="appear" class="slick-paginator-lg">
-                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear active">
+                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear active" onclick="_gaq.push(['_trackEvent', 'desktop', 'how-it-works', 'Step-1'])">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M278.1,55.7c-7.8-7.1-18.4-8.7-24.9-8.9v-6.8c0-9.5-7.7-17.2-17.2-17.2c-9.5,0-17.2,7.7-17.2,17.2v6.9h-86v-6.9
                             c0-9.5-7.7-17.2-17.2-17.2s-17.2,7.7-17.2,17.2v8.6H84.6c-13.3,0-25.8,12.5-25.8,25.8v68.8c0,2.9,2.3,5.2,5.2,5.2s5.2-2.3,5.2-5.2
@@ -270,7 +270,7 @@
                             C162,208.3,167.4,213.7,174.1,213.7z"/>
                         </svg>              
                     </div>
-                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
+                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear" onclick="_gaq.push(['_trackEvent', 'desktop', 'how-it-works', 'Step-2'])">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M214.3,146.8H85.7c-6.5,0-11.8,5.3-11.8,11.8v107.8c0,6.5,5.3,11.8,11.8,11.8h128.6c6.5,0,11.8-5.3,11.8-11.8V158.6
                             C226.1,152.1,220.8,146.8,214.3,146.8z M216.5,266.4c0,1.2-1,2.2-2.2,2.2H85.7c-1.2,0-2.2-1-2.2-2.2V158.6c0-1.2,1-2.2,2.2-2.2
@@ -284,7 +284,7 @@
                             c-2.7,0-4.8,2.2-4.8,4.8c0,2.7,2.2,4.8,4.8,4.8h76.9c2.7,0,4.8-2.2,4.8-4.8C186,238.6,183.9,236.5,181.2,236.5z"/>
                         </svg>              
                     </div>
-                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
+                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear" onclick="_gaq.push(['_trackEvent', 'desktop', 'how-it-works', 'Step-3'])">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M253.5,91.1c0.6-1.9,0.1-3.9-1.3-5.3l-54.6-54.6c-1.4-1.4-3.4-1.9-5.3-1.3c-1.9,0.6-3.2,2.2-3.6,4.1l-2,11.6L23.7,208.7
                             c-14.1,14.1-14.1,37,0,51.1c6.8,6.8,15.9,10.5,25.5,10.5s18.7-3.7,25.5-10.5L238.1,96.4l11.3-1.8C251.3,94.4,252.9,93,253.5,91.1z
@@ -297,7 +297,7 @@
                             C277.1,160.9,276.6,164.7,274.4,167.7z"/>
                         </svg>
                     </div>
-                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
+                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear" onclick="_gaq.push(['_trackEvent', 'desktop', 'how-it-works', 'Step-4'])">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
                             c-13.2,0-24,10.8-24,24v221.3c0,13.2,10.8,24,24,24h181.1c13.2,0,24-10.8,24-24V44.9C264.5,31.6,253.8,20.9,240.5,20.9z
@@ -314,7 +314,7 @@
                             c1,1,2.3,1.5,3.6,1.5s2.6-0.5,3.6-1.5l31.4-31.4c2-2,2-5.3,0-7.3C218.9,201.5,215.7,201.5,213.7,203.5z"/>
                         </svg>              
                     </div>
-                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
+                    <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear" onclick="_gaq.push(['_trackEvent', 'desktop', 'how-it-works', 'Step-5'])">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                             <path d="M226.4,41.5c0,0,0-0.1,0-0.1c0-10.3-8.4-18.7-18.7-18.7c-10.3,0-18.7,8.4-18.7,18.7S197.4,60,207.7,60
                             c6.6,0,12.4-3.4,15.7-8.6c8.3,4.5,26.8,16.7,26.8,37.5c0,27.4-11.5,46.5-22.8,61.5c-10.3,13.7-29.4,28.5-46.9,28.5
