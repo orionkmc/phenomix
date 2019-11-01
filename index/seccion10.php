@@ -1,6 +1,6 @@
 <div id="contact" class="swiper-slide" data-hash="contact">
   <section class="container contact-form">
-    <form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
+    <form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear" onsubmit="_gaq.push(['_trackEvent', 'desktop', 'contact', 'contact'])">
       <div class="row">
         <div class="col-12">
           <h1 class="my-0 my-lg-4">Ready to Get Started?</h1>
