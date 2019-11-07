@@ -217,7 +217,7 @@
         <div class="style-submit col-lg-9 offset-lg-3 px-lg-0">
           <input type="submit" id="submit" name="submit" class="btn-block" value="SEND">
 
-          <div id="msg_success" class="text-center d-none" style="color: #3c9b39; display: block !important;">
+          <div id="msg_success" class="text-center d-none" style="color: #3c9b39;">
             ¡El email fue enviado con exito! ¡Te contactaremos pronto!
           </div>
 
@@ -273,6 +273,9 @@
 <script src="scripts/main.js"></script>
 <script>
   $("#phenomix-form").submit(function(e){
+
+    let customRadioInline1 = $("input#customRadioInline1").val();
+    console.log(customRadioInline1)
     $("#loader").attr("class", "d-flex");
     $("#submit").attr("disabled", "disabled");
     e.preventDefault();
@@ -284,7 +287,7 @@
     let inquiryType = $("select#inquiryType").val();
     let iAm = $("select#iAm").val();
     if (firstName.length == 0 && lastName.length == 0 && email.length == 0 && phone.length == 0 && inquiryType.length == 0 && iAm.length == 0) {
-      console.log('uno de estos esta vacio')
+      console.log('uno de estos esta vacio');
     }
 
     $.ajax({
@@ -299,18 +302,17 @@
         iAm: iAm,
       },
       success: function(data) {
+        console.log(data);
         $("#loader").attr("class", "d-none");
         $("#submit").removeAttr("disabled");
         $("#msg_success").addClass("d-block");
         $("#phenomix-form").trigger("reset");
-        $("table tbody").html('<tr id="no_productos"><td class="text-center" colspan="4">Para agregar productos llena el campo producto y cantidad. Luego pulsa el boton agregar.</td></tr>');
       },
       error: function() {
         $("#loader").attr("class", "d-none");
         $("#submit").removeAttr("disabled");
         $("#msg_error").addClass("d-block");
         $("#phenomix-form").trigger("reset");
-        $("table tbody").html('<tr id="no_productos"><td class="text-center" colspan="4">Para agregar productos llena el campo producto y cantidad. Luego pulsa el boton agregar.</td></tr>');
       }
     });
   });

@@ -1,7 +1,6 @@
 <?php
+var_dump($_POST);
   // Check for empty fields
-  var_dump($_POST);
-
   if(empty($_POST['firstName'])        ||
  empty($_POST['lastName'])       ||
  empty($_POST['iAm'])     ||
@@ -38,6 +37,7 @@
   $headers = "From: web@phenomixsciences.com\n";
   $headers .= "Reply-To: $email";
 
-  mail($to,$email_subject,$email_body,$headers);
+  $a = mail($to,$email_subject,$email_body,$headers);
+  var_dump($a);
   return true;
 ?>
