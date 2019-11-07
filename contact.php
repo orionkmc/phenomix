@@ -32,7 +32,92 @@
 
 	<script src="scripts/vendor/modernizr.js"></script>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-
+  <style>
+    .lds-roller {
+      display: inline-block;
+      position: relative;
+      width: 64px;
+      height: 64px;
+    }
+    .lds-roller div {
+      animation: lds-roller 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+      transform-origin: 32px 32px;
+    }
+    .lds-roller div:after {
+      content: " ";
+      display: block;
+      position: absolute;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #4782d3;
+      margin: -3px 0 0 -3px;
+    }
+    .lds-roller div:nth-child(1) {
+      animation-delay: -0.036s;
+    }
+    .lds-roller div:nth-child(1):after {
+      top: 50px;
+      left: 50px;
+    }
+    .lds-roller div:nth-child(2) {
+      animation-delay: -0.072s;
+    }
+    .lds-roller div:nth-child(2):after {
+      top: 54px;
+      left: 45px;
+    }
+    .lds-roller div:nth-child(3) {
+      animation-delay: -0.108s;
+    }
+    .lds-roller div:nth-child(3):after {
+      top: 57px;
+      left: 39px;
+    }
+    .lds-roller div:nth-child(4) {
+      animation-delay: -0.144s;
+    }
+    .lds-roller div:nth-child(4):after {
+      top: 58px;
+      left: 32px;
+    }
+    .lds-roller div:nth-child(5) {
+      animation-delay: -0.18s;
+    }
+    .lds-roller div:nth-child(5):after {
+      top: 57px;
+      left: 25px;
+    }
+    .lds-roller div:nth-child(6) {
+      animation-delay: -0.216s;
+    }
+    .lds-roller div:nth-child(6):after {
+      top: 54px;
+      left: 19px;
+    }
+    .lds-roller div:nth-child(7) {
+      animation-delay: -0.252s;
+    }
+    .lds-roller div:nth-child(7):after {
+      top: 50px;
+      left: 14px;
+    }
+    .lds-roller div:nth-child(8) {
+      animation-delay: -0.288s;
+    }
+    .lds-roller div:nth-child(8):after {
+      top: 45px;
+      left: 10px;
+    }
+    @keyframes lds-roller {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
 </head>
 <body id="page-contact">
 <!--[if IE]>
@@ -50,7 +135,7 @@
 
 	<div id="contact" class="pt-5">
 		<section class="container contact-form pt-5">
-			<form method="post" action="contact-mail.php" data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear" onsubmit="_gaq.push(['_trackEvent', 'desktop', 'contact', 'contact'])">
+			<form id="phenomix-form" action="" data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
        <div class="row">
         <div class="col-12">
          <h1>We're Here to Help</h1>
@@ -128,9 +213,21 @@
             <span class="checkmark"></span>
             Accept Terms & Conditions
           </label>
-        </div>  
+        </div>
         <div class="style-submit col-lg-9 offset-lg-3 px-lg-0">
           <input type="submit" id="submit" name="submit" class="btn-block" value="SEND">
+
+          <div id="msg_success" class="text-center d-none" style="color: #3c9b39; display: block !important;">
+            ¡El email fue enviado con exito! ¡Te contactaremos pronto!
+          </div>
+
+          <div id="msg_error" class="text-center text-danger d-none">
+            Parece que hubo un error. ¡Por favor, intenta de nuevo!
+          </div>
+
+          <div id="loader" class="text-center d-none">
+            <div class="mx-auto my-2 lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+          </div>
         </div>
       </div>
     </div>
@@ -174,5 +271,49 @@
 
 <script src="scripts/vendor.js"></script>
 <script src="scripts/main.js"></script>
+<script>
+  $("#phenomix-form").submit(function(e){
+    $("#loader").attr("class", "d-flex");
+    $("#submit").attr("disabled", "disabled");
+    e.preventDefault();
+
+    let firstName = $("input#firstName").val();
+    let lastName = $("input#lastName").val();
+    let email = $("input#email").val();
+    let phone = $("input#phone").val();
+    let inquiryType = $("select#inquiryType").val();
+    let iAm = $("select#iAm").val();
+    if (firstName.length == 0 && lastName.length == 0 && email.length == 0 && phone.length == 0 && inquiryType.length == 0 && iAm.length == 0) {
+      console.log('uno de estos esta vacio')
+    }
+
+    $.ajax({
+      url: "./mail/contact_me.php",
+      type: "POST",
+      data: {
+        firstName: firstName,
+        lastName: lastName,
+        email: email,
+        phone: phone,
+        inquiryType: inquiryType,
+        iAm: iAm,
+      },
+      success: function(data) {
+        $("#loader").attr("class", "d-none");
+        $("#submit").removeAttr("disabled");
+        $("#msg_success").addClass("d-block");
+        $("#phenomix-form").trigger("reset");
+        $("table tbody").html('<tr id="no_productos"><td class="text-center" colspan="4">Para agregar productos llena el campo producto y cantidad. Luego pulsa el boton agregar.</td></tr>');
+      },
+      error: function() {
+        $("#loader").attr("class", "d-none");
+        $("#submit").removeAttr("disabled");
+        $("#msg_error").addClass("d-block");
+        $("#phenomix-form").trigger("reset");
+        $("table tbody").html('<tr id="no_productos"><td class="text-center" colspan="4">Para agregar productos llena el campo producto y cantidad. Luego pulsa el boton agregar.</td></tr>');
+      }
+    });
+  });
+</script>
 </body>
 </html>
