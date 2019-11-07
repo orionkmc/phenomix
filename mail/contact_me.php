@@ -24,7 +24,7 @@ var_dump($_POST);
   // $to = 'jonathan@neex.com.ar';
   // $to = 'miguel@creainteractivo.com';
 
-  $to = 'jparedes84@gmail.com';
+  $to = 'miguel@creainteractivo.com';
   $email_subject = "Contacto desde el Sitio Web - Phenomix Sciences";
   $email_body = "Has recibido un nuevo correo desde el sitio web Phenomix Sciences.\n\n"."
   First Name: $firstName\n
