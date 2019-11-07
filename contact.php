@@ -1,6 +1,16 @@
 <!doctype html>
 <html class="no-js">
 <head>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-151332690-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
@@ -40,7 +50,7 @@
 
 	<div id="contact" class="pt-5">
 		<section class="container contact-form pt-5">
-			<form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear" onsubmit="_gaq.push(['_trackEvent', 'desktop', 'contact', 'contact'])">
+			<form method="post" action="contact-mail.php" data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear" onsubmit="_gaq.push(['_trackEvent', 'desktop', 'contact', 'contact'])">
        <div class="row">
         <div class="col-12">
          <h1>We're Here to Help</h1>
@@ -73,14 +83,14 @@
       </div>
       <div class="col-lg-4">
         <div class="form-group mb-0 mb-lg-3">
-          <input type="text" class="form-input" placeholder="First Name">
+          <input type="text" class="form-input" name="firstName" placeholder="First Name">
         </div>
         <div class="form-group mb-0 mb-lg-3">
-          <input type="text" class="form-input" placeholder="Last Name">
+          <input type="text" class="form-input" name="lastName" placeholder="Last Name">
         </div>
         <div class="form-group mb-0 mb-lg-3 required">
           <div class="as"></div>
-          <input type="email" class="form-input" placeholder="Email Address" required>
+          <input type="email" class="form-input" name="email" placeholder="Email Address" required>
         </div>
         <div class="form-group mb-0 mb-lg-3 ">
           <p class="d-none p-0 d-lg-block">(*) Required fields</p>
@@ -89,10 +99,10 @@
       <div class="col-lg-4">
         <div class="form-group mb-0 mb-lg-3 required">
           <div class="as"></div>
-          <input type="text" class="form-input" placeholder="Phone Number" required>
+          <input type="text" class="form-input" name="phone" placeholder="Phone Number" required>
         </div>
         <div class="form-group mb-0 mb-lg-3 form-group-select">
-          <select class="form-select">
+          <select class="form-select" name="inquiryType">
             <option class="d-none">Inquiry Type</option>
             <option>Questions about testing</option>
             <option>Billing inquiries</option>
@@ -102,7 +112,7 @@
           </select>
         </div>
         <div class="form-group mb-0 mb-lg-3 form-group-select required">
-          <select class="form-select">
+          <select class="form-select" name="iAm">
             <option class="d-none">I am a...</option>
             <option>Patient</option>
             <option>Healthcare Provider</option>
@@ -114,7 +124,7 @@
         </div>
         <div class="form-group mb-0 mb-lg-3 mb-3">
           <label class="container-label text-right" for="customRadioInline1">
-            <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark">
+            <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark" required>
             <span class="checkmark"></span>
             Accept Terms & Conditions
           </label>
@@ -162,7 +172,6 @@
 <?php include 'index/footer.php'; ?>
 </main>
 
-<script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview")</script>
 <script src="scripts/vendor.js"></script>
 <script src="scripts/main.js"></script>
 </body>
