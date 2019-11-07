@@ -205,5 +205,52 @@
 	}, 6000);
 </script>
 
+<script>
+  $("#phenomix-form").submit(function(e){
+
+    let customRadioInline1 = $("input#customRadioInline1").val();
+    console.log(customRadioInline1)
+    $("#loader").attr("class", "d-flex");
+    $("#submit").attr("disabled", "disabled");
+    e.preventDefault();
+
+    let firstName = $("input#firstName").val();
+    let lastName = $("input#lastName").val();
+    let email = $("input#email").val();
+    let phone = $("input#phone").val();
+    let inquiryType = $("select#inquiryType").val();
+    let iAm = $("select#iAm").val();
+    if (firstName.length == 0 && lastName.length == 0 && email.length == 0 && phone.length == 0 && inquiryType.length == 0 && iAm.length == 0) {
+      console.log('uno de estos esta vacio');
+    }
+
+    $.ajax({
+      url: "./mail/contact_me.php",
+      type: "POST",
+      data: {
+        firstName: firstName,
+        lastName: lastName,
+        email: email,
+        phone: phone,
+        inquiryType: inquiryType,
+        iAm: iAm,
+      },
+      success: function(data) {
+        console.log(data);
+        $("#loader").attr("class", "d-none");
+        $("#submit").removeAttr("disabled");
+        $("#msg_success").addClass("d-block");
+        $("#phenomix-form").trigger("reset");
+      },
+      error: function() {
+        $("#loader").attr("class", "d-none");
+        $("#submit").removeAttr("disabled");
+        $("#msg_error").addClass("d-block");
+        $("#phenomix-form").trigger("reset");
+      }
+    });
+  });
+</script>
+
 </body>
 </html>
