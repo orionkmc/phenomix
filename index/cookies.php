@@ -7,7 +7,9 @@
         <h4>We use cookies</h4>
         <p>We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from. By browsing our website, you consent to our use of cookies and other tracking technologies.</p>
         <br>
-        <a href="#">Check our Privacy Policy</a>
+        <a data-rel="lightcase" href="legal/PrivacyPolicy/PrivacyPolicy.html" target="_blank">
+          Check our Privacy Policy
+        </a>
         <br>
         <br>
         <a href="#" class="btn-bio float-right" data-dismiss="modal">Accept</a>
