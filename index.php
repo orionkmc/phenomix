@@ -210,7 +210,9 @@
 
     let customRadioInline1 = $("input#customRadioInline1").val();
     console.log(customRadioInline1)
-    $("#loader").attr("class", "d-flex");
+    $("#loader").removeClass("d-none");
+    $("#loader").addClass("d-inline-block");
+    $("#text-button-send").attr("class", "d-none");
     $("#submit").attr("disabled", "disabled");
     e.preventDefault();
 
@@ -237,13 +239,17 @@
       },
       success: function(data) {
         console.log(data);
-        $("#loader").attr("class", "d-none");
+        $("#text-button-send").attr("class", "d-inline-block");
+        $("#loader").addClass("d-none");
+        $("#loader").removeClass("d-inline-block");
         $("#submit").removeAttr("disabled");
         $("#msg_success").addClass("d-block");
         $("#phenomix-form").trigger("reset");
       },
       error: function() {
-        $("#loader").attr("class", "d-none");
+        $("#text-button-send").attr("class", "d-inline-block");
+        $("#loader").addClass("d-none");
+        $("#loader").removeClass("d-inline-block");
         $("#submit").removeAttr("disabled");
         $("#msg_error").addClass("d-block");
         $("#phenomix-form").trigger("reset");

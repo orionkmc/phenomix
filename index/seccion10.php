@@ -27,7 +27,7 @@
               <p class="m-0">
                 <strong>1-877-673-0981</strong>
                 <br>
-                (Toll Free)</p>
+              (Toll Free)</p>
             </div>
           </div>
         </div>
@@ -80,7 +80,18 @@
             </label>
           </div>  
           <div class="style-submit col-lg-9 offset-lg-3 px-lg-0">
-            <input type="submit" id="submit" name="submit" class="btn-block" value="SEND">
+            <button type="submit" id="submit" name="submit" class="btn-block" value="SEND">
+              <span id="text-button-send" class="d-inline-block">SEND</span>
+              <i id="loader" class="fas fa-spinner fa-spin d-none"></i>
+            </button>
+          </div>
+
+          <div id="msg_success" class="text-center d-none" style="color: #3c9b39;">
+            ¡El email fue enviado con exito! ¡Te contactaremos pronto!
+          </div>
+
+          <div id="msg_error" class="text-center text-danger d-none">
+            Parece que hubo un error. ¡Por favor, intenta de nuevo!
           </div>
         </div>
       </div>
