@@ -83,14 +83,14 @@
       </div>
       <div class="col-lg-4">
         <div class="form-group mb-0 mb-lg-3">
-          <input type="text" class="form-input" name="firstName" placeholder="First Name">
+          <input type="text" class="form-input" id="firstName" name="firstName" placeholder="First Name">
         </div>
         <div class="form-group mb-0 mb-lg-3">
-          <input type="text" class="form-input" name="lastName" placeholder="Last Name">
+          <input type="text" class="form-input" id="lastName" name="lastName" placeholder="Last Name">
         </div>
         <div class="form-group mb-0 mb-lg-3 required">
           <div class="as"></div>
-          <input type="email" class="form-input" name="email" placeholder="Email Address" required>
+          <input type="email" class="form-input" id="email" name="email" placeholder="Email Address" required>
         </div>
         <div class="form-group mb-0 mb-lg-3 ">
           <p class="d-none p-0 d-lg-block">(*) Required fields</p>
@@ -99,10 +99,10 @@
       <div class="col-lg-4">
         <div class="form-group mb-0 mb-lg-3 required">
           <div class="as"></div>
-          <input type="text" class="form-input" name="phone" placeholder="Phone Number" required>
+          <input type="text" class="form-input" id="phone" name="phone" placeholder="Phone Number" required>
         </div>
         <div class="form-group mb-0 mb-lg-3 form-group-select">
-          <select class="form-select" name="inquiryType">
+          <select class="form-select" id="inquiryType" name="inquiryType">
             <option class="d-none">Inquiry Type</option>
             <option>Questions about testing</option>
             <option>Billing inquiries</option>
@@ -112,7 +112,7 @@
           </select>
         </div>
         <div class="form-group mb-0 mb-lg-3 form-group-select required">
-          <select class="form-select" name="iAm">
+          <select class="form-select" id="iAm" name="iAm">
             <option class="d-none">I am a...</option>
             <option>Patient</option>
             <option>Healthcare Provider</option>
@@ -130,7 +130,7 @@
           </label>
         </div>  
         <div class="style-submit col-lg-9 offset-lg-3 px-lg-0">
-          <button type="submit" class="btn-block">SEND</button>
+          <input type="submit" id="submit" name="submit" class="btn-block" value="SEND">
         </div>
       </div>
     </div>

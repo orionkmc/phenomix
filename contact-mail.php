@@ -1,22 +1,35 @@
 <?php
 
-$firstName   = $_POST[firstName];
-$lastName    = $_POST[lastName];
-$email       = $_POST[email];
-$phone       = $_POST[phone];
-$inquiryType = $_POST[inquiryType];
-$iAm         = $_POST[iAm];
+$firstName = $lastName = $email = $phone = $inquiryType = $iAm = NULL;
 
-$subject  = 'Contact Form Phenomix'
-$message  = 'Contact Form Phenomix <br><br>';
-$message .= '<strong>First Name: </strong>' . $firstName . '<br><br>';
-$message .= '<strong>Last Name: </strong>' . $lastName . '<br><br>';
-$message .= '<strong>Email Address: </strong>' . $email . '<br><br>';
-$message .= '<strong>Phone Number: </strong>' . $phone . '<br><br>';
-$message .= '<strong>Inquiry Type: </strong>' . $inquiryType . '<br><br>';
-$message .= '<strong>I am a: </strong>' . $iAm . '<br><br>';
+if (isset($_POST['submit'])) {
+  $firstName   = $_POST[firstName];
+  $lastName    = $_POST[lastName];
+  $email       = $_POST[email];
+  $phone       = $_POST[phone];
+  $inquiryType = $_POST[inquiryType];
+  $iAm         = $_POST[iAm];
 
-mail("miguel@creainteractivo.com",$subject,$message);
+  $subject  = 'Contact Form Phenomix'
+  $message  = 'Contact Form Phenomix <br><br>';
+  $message .= '<strong>First Name: </strong>' . $firstName . '<br><br>';
+  $message .= '<strong>Last Name: </strong>' . $lastName . '<br><br>';
+  $message .= '<strong>Email Address: </strong>' . $email . '<br><br>';
+  $message .= '<strong>Phone Number: </strong>' . $phone . '<br><br>';
+  $message .= '<strong>Inquiry Type: </strong>' . $inquiryType . '<br><br>';
+  $message .= '<strong>I am a: </strong>' . $iAm . '<br><br>';
+
+  // if (mail("miguel@creainteractivo.com",$subject,$message)) {
+  //   echo "<script language='javascript'>
+  //           alert('Mensaje enviado, muchas gracias.');
+  //         </script>";
+  // } else {
+  //   echo "<script language='javascript'>
+  //           alert('fallado');
+  //         </script>";
+  // }
+ mail("miguel@creainteractivo.com",$subject,$message);
+}
 
 ?>
 
@@ -72,7 +85,6 @@ mail("miguel@creainteractivo.com",$subject,$message);
     <?php include 'index/footer.php'; ?>
   </main>
 
-  <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview")</script>
   <script src="scripts/vendor.js"></script>
   <script src="scripts/main.js"></script>
 </body>
