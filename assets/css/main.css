@@ -463,7 +463,7 @@ section .overflow-hidden {
         border: 0;
         right: auto;
         left: -30px;
-        top: calc(50% - 60px)
+        top: calc(50% - 30px)
     }
 }
 

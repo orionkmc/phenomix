@@ -1,6 +1,16 @@
 <!doctype html>
 <html class="no-js">
 <head>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-151332690-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
   <meta charset="utf-8">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
@@ -681,7 +691,6 @@
   <?php include 'index/footer.php'; ?>
 </main>
 
-<script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-XXXXX-X"),ga("send","pageview")</script>
 <script src="scripts/vendor.js"></script>
 <script src="scripts/main.js"></script>
 <script>

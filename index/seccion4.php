@@ -29,7 +29,7 @@
                   <div id="slick-publications" class="px-3 px-lg-0">
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/25486131" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/25486131" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Satiation-and-Gastric-Function-Phenotypes-in-Obesity'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
@@ -53,7 +53,7 @@
                     </div>
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/26542264" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/26542264" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Exenatide-on-Gastric-Emptying,-Satiety,-and-Obesity'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
@@ -77,7 +77,7 @@
                     </div>
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/26271184" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/26271184" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Gastrointestinal-traits-in-obesity-treatment'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
@@ -101,7 +101,7 @@
                     </div>
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/28958851" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/28958851" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Liraglutide-on-Gastric-Emptying,-Satiety-and-Obesity'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
@@ -125,7 +125,7 @@
                     </div>
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/30954712" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/30954712" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Bariatric-endoscopy-on-Gastric-Emptying-and-Weight-loss'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
@@ -149,7 +149,7 @@
                     </div>
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/27465076" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/27465076" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Delay-Gastric-Emptying-with-Intragastric-Balloon-Therapy'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5
@@ -173,7 +173,7 @@
                     </div>
                     <div class="publication">
                       <div data-toggle="appear" data-appear-class="fadeInDown slow" class="appear">
-                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/26748219" target="_blank">
+                        <a href="https://www.ncbi.nlm.nih.gov/pubmed/26748219" target="_blank" onclick="_gaq.push(['_trackEvent', 'desktop', 'mayo-clinic-publications', 'Endoscopic-Sleeve-Gastroplasty-on-Satiation-and-Weight-loss'])">
                           <div class="icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300" xml:space="preserve">
                               <path d="M240.5,20.9h-69.9l-3.1-3.2c-5-5.1-11.6-7.9-18.8-7.9c0,0,0,0,0,0c-7.1,0-13.8,2.8-18.8,7.9l-3.1,3.2H59.5

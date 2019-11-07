@@ -5,9 +5,9 @@
         <div class="col-12 col-lg-3 licences">
           <div class="content p-3 text-center appear" data-appear-class="fadeInDown" data-toggle="appear">
             <h1 class="appear" data-appear-class="fadeInDown delay-500" data-toggle="appear">Licenses & Accreditations</h1>
-            <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">Clinical laboratory<br class="d-lg-none"> improvement<br class="d-lg-none"> amendments (clia)<br class="d-lg-none"> certificate of accreditation</p>
-            <p class="appear" data-appear-class="fadeInDown delay-500" data-toggle="appear">24D2109855</p>
-            <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">10/25/2020</p>
+            <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">Clinical laboratory<br class="d-lg-none"> improvement<br class="d-lg-none"> amendments <br class="d-lg-none">CLIA Certificate of Registration</p>
+            <p class="appear" data-appear-class="fadeInDown delay-500" data-toggle="appear">24D2173750</p>
+            <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">10/17/2021</p>
             <img src="assets/images/licences/laureles.svg" class="img-fluid appear" data-appear-class="fadeInDown delay-500" data-toggle="appear" style="width: 48px; height: 58px;">
           </div>
         </div>

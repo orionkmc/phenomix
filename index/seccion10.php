@@ -1,6 +1,6 @@
 <div id="contact" class="swiper-slide" data-hash="contact">
   <section class="container contact-form">
-    <form data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear">
+    <form method="post" action="contact-mail.php" data-toggle="appear" data-appear-class="fadeInDownTwo" class="appear" onsubmit="_gaq.push(['_trackEvent', 'desktop', 'contact', 'contact'])">
       <div class="row">
         <div class="col-12">
           <h1 class="my-0 my-lg-4">Ready to Get Started?</h1>
@@ -33,14 +33,14 @@
         </div>
         <div class="col-lg-4">
           <div class="form-group mb-0 mb-lg-3">
-            <input type="text" class="form-input" placeholder="First Name">
+            <input type="text" class="form-input" id="firstName" name="firstName" placeholder="First Name">
           </div>
           <div class="form-group mb-0 mb-lg-3">
-            <input type="text" class="form-input" placeholder="Last Name">
+            <input type="text" class="form-input" id="lastName" name="lastName" placeholder="Last Name">
           </div>
           <div class="form-group mb-0 mb-lg-3 required">
             <div class="as"></div>
-            <input type="email" class="form-input" placeholder="Email Address" required>
+            <input type="email" class="form-input" id="email" name="email" placeholder="Email Address" required>
           </div>
           <div class="form-group mb-0 mb-lg-3 ">
             <p class="d-none p-0 d-lg-block">(*) Required fields</p>
@@ -49,10 +49,10 @@
         <div class="col-lg-4">
           <div class="form-group mb-0 mb-lg-3 required">
             <div class="as"></div>
-            <input type="text" class="form-input" placeholder="Phone Number" required>
+            <input type="text" class="form-input" id="phone" name="phone" placeholder="Phone Number" required>
           </div>
           <div class="form-group mb-0 mb-lg-3 form-group-select">
-            <select class="form-select">
+            <select class="form-select" id="inquiryType" name="inquiryType">
               <option class="d-none">Inquiry Type</option>
               <option>Questions about testing</option>
               <option>Billing inquiries</option>
@@ -62,7 +62,7 @@
             </select>
           </div>
           <div class="form-group mb-0 mb-lg-3 form-group-select required">
-            <select class="form-select">
+            <select class="form-select" id="iAm" name="iAm">
               <option class="d-none">I am a...</option>
               <option>Patient</option>
               <option>Healthcare Provider</option>
@@ -74,13 +74,13 @@
           </div>
           <div class="form-group mb-0 mb-lg-3 mb-3">
             <label class="container-label text-right" for="customRadioInline1">
-              <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark">
+              <input type="checkbox" id="customRadioInline1" name="customRadioInline1" class="checkmark" required>
               <span class="checkmark"></span>
               Accept Terms & Conditions
             </label>
           </div>  
           <div class="style-submit col-lg-9 offset-lg-3 px-lg-0">
-            <button type="submit" class="btn-block">SEND</button>
+            <input type="submit" id="submit" name="submit" class="btn-block" value="SEND">
           </div>
         </div>
       </div>
