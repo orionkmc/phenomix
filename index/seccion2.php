@@ -36,7 +36,7 @@
               Four Primary Types of Obesity
             </h1>
             <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">
-              <strong>Now using a <a href="#" data-modall=".modal-omics">multi-level “omics”</a> test developed at Mayo Clinic, we can accurately predict your obesity <a href="#" data-modall=".modal-phenotype">phenotype</a> with a sensitivity and specificity > 90%.</strong>
+              <strong>Now using a <a href="#" data-modall=".modal-omics">multi-level “omics”</a> test developed at Mayo Clinic, we can accurately predict your obesity <a href="#" data-modall=".modal-phenotype">phenotype</a> with a <a href="https://www.gastrojournal.org/article/S0016-5085(18)31121-1/pdf" target="_blank">sensitivity and specificity > 90%.</a></strong>
             </p>
             <div class="row items-phenotype">
               <div class="col-12 col-lg-2 offset-lg-2">
