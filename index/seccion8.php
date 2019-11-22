@@ -6,7 +6,12 @@
           <div class="content p-3 text-center appear" data-appear-class="fadeInDown" data-toggle="appear">
               <h1 class="appear" data-appear-class="fadeInDown delay-500" data-toggle="appear">Licenses & Accreditations</h1>
             <a href="pdf/0140_191118101611_001.pdf" target="_blank">
-              <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">Clinical laboratory<br class="d-lg-none"> improvement<br class="d-lg-none"> amendments <br class="d-lg-none">CLIA Certificate of Registration</p>
+              <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">
+                <!-- Clinical laboratory<br class="d-lg-none">  -->
+                <!-- improvement<br class="d-lg-none">  -->
+                <!-- amendments <br class="d-lg-none"> -->
+                CLIA Certificate of Registration
+              </p>
               <p class="appear" data-appear-class="fadeInDown delay-500" data-toggle="appear">24D2173750</p>
               <p class="appear mb-3" data-appear-class="fadeInDown delay-500" data-toggle="appear">10/17/2021</p>
             </a>

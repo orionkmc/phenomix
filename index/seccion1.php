@@ -14,7 +14,7 @@
             Doesn’t Fit All
           </h1>
           <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear animated slow fadeInDown delay-500">
-            Know Why You are Overweight Before <br >
+            Understand may be Why You are Overweight Before <br >
             You Begin Your Weight Loss Journey
           </p>
           <p data-toggle="appear" data-appear-class="fadeInDown delay-1s" class="appear d-none d-lg-block p2 animated slow fadeInDown delay-1s">

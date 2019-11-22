@@ -126,7 +126,7 @@
                   </svg>
                 </div>
               </a>
-              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">HUNGRY BRAIN</h5>
+              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">HUNGRY BRAIN&trade;</h5>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Satiation</strong></p>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Knowing when the meal is over</p>
             </div>
@@ -189,7 +189,7 @@
                   </svg>
                 </div>
               </a>    
-              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">HUNGRY GUT</h5>
+              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">HUNGRY GUT&trade;</h5>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Satiety</strong></p>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Ability to not eat in periods between meals</p>
             </div>
@@ -222,7 +222,7 @@
                   </svg>
                 </div>
               </a>
-              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">EMOTIONAL HUNGER</h5>
+              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">EMOTIONAL HUNGER&trade;</h5>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Emotional/Reward</strong></p>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Eating in response to negative and/or positive emotions</p>
             </div>
@@ -243,7 +243,7 @@
                   </svg>
                 </div>
               </a>
-              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">SLOW BURN</h5>
+              <h5 data-toggle="appear" data-appear-class="fadeInDown" class="appear">SLOW BURN&trade;</h5>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear"><strong>Energy Expenditure</strong></p>
               <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear">Base Metabolic rate plus overall activity level</p>
             </div>                                                  

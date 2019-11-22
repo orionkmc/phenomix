@@ -9,7 +9,7 @@
           <div class="content">
             <img src="assets/images/bio/angela_fitch.jpg" class="img-fluid rounded-circle">
             <h4>Angela Fitch, MD</h4>
-            <h5>Secretary/Treasurer OMA</h5>
+            <h5>Secretary/Treasurer Obecity Medical Association</h5>
             <h5>Associate Director MGH Weight Center at Massachusetts General Hospital</h5>
             <p>Currently, we must choose therapy based on clinical history and trial and error.  If we had a way to expedite and predict best treatment this would guide our clinical decision making and provide better outcomes quicker with less time and money spent by the patient to accomplish their weight and health goals.  If the cost of testing replaces even one clinical visit for example then it is worth it as it may take us many visits and many months to find the best therapy. Having some guidance in this would facilitate the best care for the patient.</p>
           </div>
@@ -21,7 +21,7 @@
           <div class="content">
             <img src="assets/images/bio/craig_primack.jpg" class="img-fluid rounded-circle">
             <h4>Craig Primack, MD</h4>
-            <h5>President-elect OMA</h5>
+            <h5>President-elect Obecity Medical Association</h5>
             <h5>Co-director and co-founder of the Scottsdale Weight Loss Center in Scottsdale, Arizona</h5>
             <p>Like cancer care, we started out with "chemotherapy" based on area of the body affected.  Now with advanced cancer testing (genetic), we can tailor cancer therapies exactly to the patient affected.   If we were able to do that in obesity it would be invaluable. It would be the next revolution in obesity treatment.</p>
           </div>

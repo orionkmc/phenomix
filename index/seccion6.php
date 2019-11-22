@@ -32,7 +32,7 @@
                             <h3>Call your Healthcare Provider's Office<br>to Schedule an Appointment</h3>
                             <ul>
                                 <p>
-                                    - Testing must be ordered by your Healthcare Provider.
+                                    - Testing must be ordered by a licensed Healthcare Provider.
                                     <br>
                                     - Looking for a Healthcare Provider that specializes in weight-loss?
                                 </p>
@@ -155,10 +155,10 @@
                             <h3>Discuss the Results with your Healthcare Provider</h3>
                             <p>Reports are delivered in 7-10 business days.</p>
                             <p>Armed with the information about your unique sub-type, your Healthcare Provider will be able to provide you with a personalized, more effective weight loss intervention plan.</p>
-                            <a href="pdf/sample-report.pdf" target="_blank" class="button" tabindex="0">
+                            <!-- <a href="pdf/sample-report.pdf" target="_blank" class="button" tabindex="0">
                                 <img src="assets/images/icon-adn.png">
                                 <span>Sample Report</span>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>

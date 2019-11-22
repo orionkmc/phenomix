@@ -4,10 +4,10 @@
       <div class="col-12 col-lg-6 col-extend"> 
         <div class="content">
           <h1 data-toggle="appear" data-appear-class="fadeInDown" class="appear">
-            Phenotype-Guided Therapy Maximizes Weight Loss
+            Phenotype-Guided Therapy Helps Maximize Weight Loss
           </h1>
           <p data-toggle="appear" data-appear-class="fadeInDown delay-500" class="appear text-center text-lg-left">
-            Initial clinical study data has shown a doubling of treatment responders and twice as much weight loss for patients whose treatment is guided by their dominant obesity phenotype.
+            Initial clinical study data has shown a doubling of treatment responders and twice as much weight loss for patients whose treatment is guided by their dominant obesity phenotype (publication pending).
           </p>
         </div>
       </div>
